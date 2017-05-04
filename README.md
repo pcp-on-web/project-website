@@ -1,3 +1,15 @@
+# Project Website - PCP-on-Web
+
+http://catalogus-professorum.org/projects/pcp-on-web/
+
+This repository contains the website of the researchprojet
+
+**Professorial Career Patterns of the Early Modern History** - Development of a scientific method for research on online available and distributed research databases of academic history
+
+based on [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) Bootstrap template. Details on the base implementation adapted for the project website see below.
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
