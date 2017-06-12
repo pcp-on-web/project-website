@@ -7,15 +7,19 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
+
 p {
   font-size: 20px;
+  line-height: 1.5; 
 }
+
 p.small {
   font-size: 16px;
 }
 
 ul li {
   font-size: 20px;
+  line-height: 1.5;
 }
 
 
@@ -24,7 +28,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #c2372a;
+  color: #933327;
   outline: none;
 }
 h1,
@@ -46,18 +50,8 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
-hr.star-light:after,
-hr.star-primary:after {
-  /*content: "\f005";*/
-  font-family: FontAwesome;
-  display: inline-block;
-  position: relative;
-  top: -0.8em;
-  font-size: 2em;
-  padding: 0 0.25em;
-}
 hr.star-light {
-  border-color: white;
+  border-color: #933327;
 }
 hr.star-light:after {
   background-color: #f8eb9a;
@@ -91,12 +85,12 @@ header .intro-text .name {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 1.5em;
-  color: #7b7979;
+  color: #454343;
 }
 header .intro-text .skills {
   font-size: 1.3em;
   font-weight: 300;
-  color: #7b7979;
+  color: #454343;
 }
 
 
@@ -197,7 +191,7 @@ section h2 {
 }
 section.success {
   background: #f8eb9a;
-  color: #7b7979;;
+  color: #454343;
 }
 @media (max-width: 767px) {
   section {
