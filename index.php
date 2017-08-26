@@ -118,11 +118,11 @@
                 <div class="col-lg-4">
                     <p><b>​Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK)</b> <span class="en">University of Applied Science</span> <a target="_blank" href="http://htwk-leipzig.de">↗</a>
 <span class="de">Forschungsgruppe</span><span class="en">Research Group</span> Agile Knowledge Engineering and Semantic Web</p>
-<ul><li>Thomas Riechert <a target="_blank" href="http://aksw.org/ThomasRiechert">↗</a></li><li>Edgard Marx <a target="_blank" href="http://aksw.org/ThomasRiechert">↗</a></li></ul>
+<ul><li>Thomas Riechert <a target="_blank" href="http://aksw.org/ThomasRiechert">↗</a></li><li>Edgard Marx <a target="_blank" href="http://aksw.org/EdgardMarx">↗</a></li></ul>
                 </div>
                 <div class="col-lg-3">
                     <p><b>Herzog August Bibliothek Wolfenbüttel (HAB)</b> <a target="_blank" href="http://hab.de/">↗</a></p>
-<ul><li>Ulrike Gleixner <a target="_blank" href="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/prof-dr-ulrike-gleixner.html">↗</a></li><li>Hartmut Beyer <a target="_blank" href="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/dr-hartmut-beyer.html">↗</a></li><li>Jennifer Blanke </li></ul>
+<ul><li>Ulrike Gleixner <a target="_blank" href="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/prof-dr-ulrike-gleixner.html">↗</a></li><li>Hartmut Beyer <a target="_blank" href="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/dr-hartmut-beyer.html">↗</a></li><li>Jennifer Blanke <a target="_blank" href="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/jennifer-blanke.html">↗</a></li></ul>
 
 
 
