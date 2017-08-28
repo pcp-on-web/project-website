@@ -1,0 +1,8 @@
+pcp-on-web-site:
+  build: ./phpgit-docker/
+  ports:
+    - 8080:80
+  environment:
+    - GITREP=https://github.com/pcp-on-web/project-website.git
+
+
