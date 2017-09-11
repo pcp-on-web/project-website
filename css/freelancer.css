@@ -166,6 +166,13 @@ header .intro-text .skills {
   color: white;
   border-color: #f8eb9a;
 }
+.nav .page-scroll {
+  font-weight: 400; 
+}
+.nav .page-scroll.active {
+  font-weight: 700; 
+}
+
 @media (min-width: 768px) {
   .navbar-custom {
     padding: 25px 0;
