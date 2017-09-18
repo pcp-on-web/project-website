@@ -1,91 +1,5 @@
-<!DOCTYPE html>
-<html lang="de">
+<?php include("parts/header.php"); ?> 
 
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte.">
-    <meta name="author" content="Thomas Riechert">
-
-    <title>Forschungsprojekt - Professorale Karrieremuster der Frühen Neuzeit</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Theme CSS -->
-    <link href="css/freelancer.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <style>
-
-      .en { display: none}
-
-    </style>
-
-</head>
-
-<body id="page-top" class="index">
-
-    <!-- Navigation -->
-    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="#page-top"><span class="de">Forschungsprojekt</span><span class="en">Research Project</span> (PCP-on-Web)</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#partner"><span class="de">Partner</span><span class="en">Partners</span></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#ziele"><span class="de">Projektziele</span><span class="en">Objectives</span></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#blog">Blog</a>
-                    </li>                    <li class="page-scroll">
-                        <a href="#publikationen"><span class="de">Publikationen</span><span class="en">Publications</span></a></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#contact"><span class="de">Kontakt</span><span class="en">Contact</span></a></a>
-                    </li>
-                    <li class="page-noscroll">
-                        <a href="#en" class="switch de"><u>DE</u> - EN</a><a href="#de" class="switch en">DE - <u>EN</u></a>
-                    </li>
-
-
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-
-    <!-- Header -->
     <header>
         <div class="container">
             <div class="row">
@@ -106,16 +20,10 @@
     </header>
 
     <!-- Partner Section -->
-    <section id="partner">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2><span class="de">Partner</span><span class="en">Partners</span></h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
+    <?php echo section_begin("Partner","Partners",0); ?> 
+
+    <!-- Beginn Partner Content -->
+		<div class="col-lg-4">
                     <p><b>​Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK)</b> <span class="en">University of Applied Science</span> <a target="_blank" href="http://htwk-leipzig.de">↗</a>
 <span class="de">Forschungsgruppe</span><span class="en">Research Group</span> Agile Knowledge Engineering and Semantic Web</p>
 <ul><li>Thomas Riechert <a target="_blank" href="http://aksw.org/ThomasRiechert">↗</a></li><li>Edgard Marx <a target="_blank" href="http://aksw.org/EdgardMarx">↗</a></li></ul>
@@ -129,28 +37,19 @@
                 </div>
                 <div class="col-lg-5">
                     <p><b><span class="de">Netzwerk deutscher Professorenkataloge</span><span class="en">Network of german professors catalogs</span></b></p>
-<ul><li>Catalogs Professorum Lipsiensium <a target="_blank" href="http://research.uni-leipzig.de/catalogus-professorum-lipsiensium/">↗</a></li>
+		    <ul><li>Catalogs Professorum Lipsiensium <a target="_blank" href="http://research.uni-leipzig.de/catalogus-professorum-lipsiensium/">↗</a></li>
                     <li>Professorenkatalog Universität Helmstedt <a target="_blank" href="http://uni-helmstedt.hab.de/index.php?cPage=6&sPage=prof">↗</a></li>
                     <li>Bamberger Professorinnen- und Professorenkatalog <a target="_blank" href="https://www.uni-bamberg.de/arch/projekte/professorinnen-und-professorenkatalog/">↗</a></li>
                     <li>Kieler Gelehrtenverzeichnis <a target="_blank" href="https://gelehrtenverzeichnis.de">↗</a></li>
-                </ul>
-				</div>
-				
-       </div>
-        </div>
-    </section>
+                    </ul>
+		</div>
+    <!-- End Partner Content -->
+    <?php echo section_end(); ?> 
 
     <!-- Ziele Section -->
-    <section class="success" id="ziele">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2><span class="de">Projektziele</span><span class="en">Objectives</span></h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
+    <?php echo section_begin("Projektziele","Objectives",1); ?> 
+
+    <!-- Beginn Ziele Content -->
                     <p class="de">Die Fragestellung 
 nach Karrieremustern deutscher Professoren im 16. bis 18. Jahrhundert ist beispielhaft für die 
 prosopographische Forschung, in welcher die Auswertung von gesammelten Informationen über Gruppen 
@@ -170,22 +69,16 @@ partners, namely the Catalogus Professorum Lipsiensium and the Professorum Helms
 Model (HCRM) for cross-project research in the field of university history, within the European research network Heloise. HCRM is conceived as a layered architecture, framing the research within the following abstract
 layers: the Repository Layer, the Application Layer and the Research Interface Layer. As part of the proposed research project a method will be developed based on HCRM and be evaluated by studying the research question.
 				</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
+    <!-- End Ziele Content -->
+    <?php echo section_end(); ?> 
 
-            <div class="row">
+    <!-- Portfolio Section -->
+    <?php echo section_begin("Portfolio","Portfolio",2,true); ?> 
+
+    <!-- Beginn Portfolio Content -->
+
+
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -245,25 +138,17 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
                         </div>
                         <img src="img/portfolio/dbpedia-preview.png" class="img-responsive" alt="">
                     </a>
-                </div>
-            </div>
-
-       </div>
-    </section>
+		</div>
 
 
+    <!-- End Portfolio Content -->
+    <?php echo section_end(); ?>
 
     <!-- Blog Section -->
-    <section class="success" id="blog">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Blog</h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
+    <?php echo section_begin("Blog","Blog",3,true); ?> 
+
+    <!-- Beginn Blog Content -->
+
 					<ul>
 
 <li class="blog"><b>Leipziger Projekt Kick-Off Meeting</b> <span class="de">Die Leipziger Arbeitsgruppe läd zum Kick-Off-Meeting des Projektes am 03.Mai 2017 in die Hochschule für Technik, Wirtschaft und Kultur ein.</span><span class="en">The Leipzig group of PCP-on-Web project invites research partners to their kick-off meeting on May 3rd 2017 at HTWK.</span>
@@ -271,24 +156,17 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
 <li class="blog"><span class="de"><b>Oberseminar Kollaboratives Knowledge-Engineering im Semantic Web</b>  In den Masterstudiengängen Informaik und Medieninformatik startet am 5. April 2017 das Oberseminar mit derzeit fünf Teilnehmern im Kontext des Projektes. Ziel des Seminars (2 ECTS) ist die grundlegende Auseinandersetzung mit der vertiefter Literaturrecherche im Forschungsfeld. Im Ergebnis entseht ein Survey-Paper.</span><span class="en"><b>Seminar on Collaborative Knowledge engineering within the Semantic Web</b> In the Master's degree programs in Informatics and Media Informatics, the seminar start on April 5, 2017 with currently four participants, in the context of the project. The aim of the seminar (2 ECTS) is practice work in literature research, resulting in a survey paper.</span>
  - 02-04-2017</li>
 					</ul>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
+    <!-- End Blog Content -->
+    <?php echo section_end(); ?>
 
     <!-- Publication Section -->
-    <section id="publikationen">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2><span class="de">Publikationen</span><span class="en">Publications</span></h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
+    <?php echo section_begin("Publikationen","Publications",4); ?> 
+
+    <!-- Beginn Publication Content -->
+
+ 
 					<ul>
 
 						<li class="workshop">Marx, E., Soru, T., Neto, C. B. & Athaide, S. C. (2017). KBox: Distributing Ready-to-query RDF Knowledge Graphs. Proceedings of ESWC Posters and Demos. Portorož, Slovenia 2017. <a target="_blank" href="https://www.researchgate.net/publication/315838619_KBox_Distributing_Ready-to-query_RDF_Knowledge_Graphs">↗</a></li>
@@ -297,350 +175,61 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
  
                     	<li class="poster">Riechert, T. & Beretta, F. (2017). Kollaborative Forschung über Linked Open Data Forschungsdatenbanken der Universitätsgeschichte - Implementierung des Heloise Common Research Model. Abstraktband der Jahreskonferenz des Digital Humanities im deutschsprachigen Raum (DHd) e. V. Bern 2017.  <a target="_blank" href="http://heloisenetwork.eu/Publications/2017-DHd2017">↗</a></li>
 					</ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <!-- End Publication Content -->
+    <?php echo section_end(); ?>
 
     <!-- Contact Section -->
-    <section class="success" id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2><span class="de">Kontakt</span><span class="en">Contact</span></h2>
-                    <hr class="star-light">
+    <?php echo section_begin("Kontakt","Contact",5); ?> 
+
+    <!-- Beginn Contact Content -->
+
+            <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+            <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+            <form name="sentMessage" id="contactForm" novalidate>
+              <div class="control-group">
+                <div class="form-group floating-label-form-group controls">
+                  <label>Name</label>
+                  <input class="form-control" id="name" type="text" placeholder="Name" required data-validation-required-message="Please enter your name.">
+                  <p class="help-block text-danger"></p>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
+              </div>
+              <div class="control-group">
+                <div class="form-group floating-label-form-group controls">
+                  <label>Email Address</label>
+                  <input class="form-control" id="email" type="email" placeholder="Email Address" required data-validation-required-message="Please enter your email address.">
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="control-group">
+                <div class="form-group floating-label-form-group controls">
+                  <label>Phone Number</label>
+                  <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required data-validation-required-message="Please enter your phone number.">
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="control-group">
+                <div class="form-group floating-label-form-group controls">
+                  <label>Message</label>
+                  <textarea class="form-control" id="message" rows="5" placeholder="Message" required data-validation-required-message="Please enter a message."></textarea>
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <br>
+              <div id="success"></div>
+              <div class="form-group">
+<button type="submit" class="btn btn-success btn-lg" id="sendMessageButton">Send</button>
+              </div>
+</form>
+
+
 					<center>
 					<p><span class="de">Benutzen Sie bitte folgenden Formular-Link um mit uns in Kontakt zu treten.</span><span class="en">Please use the form below to contact us.</span></p>
 
 					<p><a href="https://cpl-htwk.sandcats.io/shared/mbFoRKuhb_Mha_cwpA0it1_Odobw_KAnSSiiyhdbPbs" target="_blank"><span class="de">Kontakt-Formular</span><span class="en">Contact Form</span></a></p>
 					</center>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- End Contact Content -->
+    <?php echo section_end(); ?>
 
 
 
-
-    <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Impressum</h3>
-                        <p>Hochschule für Technik, Wirtschaft und Kultur (HTWK)<br/>
-						Prof. Dr. Thomas Riechert<br/>
-						Gustav-Freytag-Str. 42a<br/>
-						04277 Leipzig, Germany</p>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
-                        <ul class="list-inline">
-                            <li>
-                                <a href="https://github.com/pcp-on-web" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://plus.google.com/109372238158221263121" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/akswgroup" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>About Freelancer Themplate</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-						<p>Logo and layout adaption:<br/> <a href="http://"annett-riechert-design.de" target="_blank">Annett Riechert Design</a></p> 
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>. <p> </p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-    </div>
-
-    <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Heloise Common Research Model Proposal</h2>
-                            <hr class="star-primary">
-                            <img src="2017-dhd2017-poster/HCRM_Poster_de.png" class="img-responsive img-centered de" alt=""/>
-                            <img src="2017-dhd2017-poster/HCRM_Poster_en.png" class="img-responsive img-centered en" alt=""/>
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Catalogus Professorum Lipsiensium</h2>
-                            <hr class="star-primary">
-
-							<p>
-							<a href="http://research.uni-leipzig.de/catalogus-professorum-lipsiensium/">Projektseite: Catalogus Professorum Lipsiensium</a>
-							</p>
-							<p>
-In den Katalog sind bisher alle Professoren aufgenommen, die zwischen der Universitätsreform 1830/31 und dem faktischen Ende der Ordinarienuniversität in der frühen DDR an der Leipziger Universität gelehrt haben. Der ausgewählte Zeitraum korrespondiert damit mit den universitätsgeschichtlich bedeutendsten Phasen seit der Reorganisation der Universität in den 1830er Jahren und ihrer Entwicklung zum modernen wissenschaftlichen Großbetrieb.
-
-Der Leipziger Professorenkatalog ist nach Epochen gegliedert, die sich an den Einschnitten Reformation und Universitätsreform bzw. politischen Systemen des 19. und 20. Jahrhunderts orientieren. Der Einstieg zu den einzelnen Biogrammen erfolgt über die Fakultäten. Dort kann man aus den Fakultäten der Universität auswählen und erhält die Fachvertreter alphabetisch aufgelistet. Einfache und erweiterte Suchfunktionen ermöglichen es, eine einfache oder kombinierte Recherche nach Personen, Fachgebieten und Institutionen durchzuführen. Mit der einfachen Suche können die Biogramme einzelner Professoren oder Fachvertreter gezielt recherchiert werden. Außerdem ermöglicht eine freie SPARQL-Anfrage auch das Formulieren komplexer Anfragen. Diese erweiterte Suchfunktion steht allerdings nur Mitarbeitern der Universität Leipzig zur Verfügung.
-
-							</p>
-                            <img src="img/portfolio/cpl-preview.png" class="img-responsive img-centered" alt="">
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Linked Open Data Lifecycle</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/LOD2-Linked-Open-Data-Lifecycle.jpg" class="img-responsive img-centered" alt="">
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Wissensproduktion an der Universität Helmstedt</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/helmstedt-katalog.png" class="img-responsive img-centered" alt="">
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>amsl.technology</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/amsl_technology_iswc2014.png" class="img-responsive img-centered" alt="">
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>DBpedia</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/dbpedia_extraction.png" class="img-responsive img-centered" alt="">
-<!--
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
--->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/1.3/jquery.easing.min.js"></script>
-
-
-    <!-- Theme JavaScript -->
-    <script src="js/freelancer.js"></script>
-
-
-</body>
-
-</html>
+<?php include("parts/footer.php"); ?> 
