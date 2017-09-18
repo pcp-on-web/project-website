@@ -234,11 +234,6 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
 </form>
 
 
-					<center>
-					<p><span class="de">Benutzen Sie bitte folgenden Formular-Link um mit uns in Kontakt zu treten.</span><span class="en">Please use the form below to contact us.</span></p>
-
-					<p><a href="https://cpl-htwk.sandcats.io/shared/mbFoRKuhb_Mha_cwpA0it1_Odobw_KAnSSiiyhdbPbs" target="_blank"><span class="de">Kontakt-Formular</span><span class="en">Contact Form</span></a></p>
-					</center>
     <!-- End Contact Content -->
     <?php echo section_end(); ?>
 
