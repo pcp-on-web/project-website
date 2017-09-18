@@ -139,7 +139,7 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
                         <img src="img/portfolio/dbpedia-preview.png" class="img-responsive" alt="">
                     </a>
 		</div>
-
+ 
 
     <!-- End Portfolio Content -->
     <?php echo section_end(); ?>
@@ -149,6 +149,18 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
 
     <!-- Beginn Blog Content -->
 
+    <ul>
+    <?php
+	exec("cat blog.php | grep section_begin",$blog);
+	
+	foreach ($blog as $entry) {
+		$items = explode('"',$entry);
+		echo '<li><b><span class="de">'.$items[1].'</span><span class="en">'.$items[3].'</span></b> <a href="blog.php#'.strtolower(preg_replace('/[^A-Za-z0-9-]+/', '-', $items[1])).'">↗</a><br/>'.$items[5].'</li>';
+	}
+     ?>
+     </ul>
+<?php
+/*
 					<ul>
 
 <li class="blog"><b>Leipziger Projekt Kick-Off Meeting</b> <span class="de">Die Leipziger Arbeitsgruppe läd zum Kick-Off-Meeting des Projektes am 03.Mai 2017 in die Hochschule für Technik, Wirtschaft und Kultur ein.</span><span class="en">The Leipzig group of PCP-on-Web project invites research partners to their kick-off meeting on May 3rd 2017 at HTWK.</span>
@@ -157,7 +169,7 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
  - 02-04-2017</li>
 					</ul>
 
-
+*/?>
     <!-- End Blog Content -->
     <?php echo section_end(); ?>
 
