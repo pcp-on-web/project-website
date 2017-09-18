@@ -3,4 +3,3 @@ exec("git pull");
 exit;
 ?>
 
-
