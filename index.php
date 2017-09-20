@@ -43,8 +43,15 @@
                     <li>Kieler Gelehrtenverzeichnis <a target="_blank" href="https://gelehrtenverzeichnis.de">↗</a></li>
                     </ul>
 		</div>
+
     <!-- End Partner Content -->
     <?php echo section_end(); ?> 
+
+	<div style="text-align: center; margin-top: -40px; margin-bottom: 15px;">
+	<p class="de">Das Projekt ist gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer: <a href="http://gepris.dfg.de/gepris/projekt/317044652" target="_bank">317044652</a></p>
+	<p class="en">The project is funded by Deutsche Forschungsgemeinschaft (DFG) - Project-number: <a href="http://gepris.dfg.de/gepris/projekt/317044652" target="_bank">317044652</a></p>
+	</div>
+
 
     <!-- Ziele Section -->
     <?php echo section_begin("Projektziele","Objectives",1); ?> 
