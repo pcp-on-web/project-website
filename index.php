@@ -58,7 +58,7 @@ Professorenkataloge der im Projekt kooperierenden Partner, den Catalogus Profess
 Helmstedter Professorenkatalog, abgedeckt ist. Innerhalb des geplanten Projektes soll eine Methode 
 entwickelt werden, welche bekannte Forschungsmethoden aus den Geisteswissenschaften und der Informatik 
 zusammenführt. Eine Vorarbeit stellt hier der Vorschlag für das Heloise Common Research Modell (HCRM) 
-zur projektübergreifenden Forschung im Bereich der Universitätgeschichte im Europäischen Netzwerk Heloise 
+zur projektübergreifenden Forschung im Bereich der Universitätsgeschichte im Europäischen Netzwerk Heloise 
 dar. Das HCRM, konzipiert als Schichtenarchitektur, erlaubt die unabhängige Forschung und Entwicklung auf 
 den drei Abstraktionsebenen Repository Layer, Application Layer und Research Interface Layer. Im Rahmen 
 des geplanten Forschungsvorhabens soll eine Methode auf dem HCRM entwickelt und durch die 
