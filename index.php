@@ -185,15 +185,19 @@ layers: the Repository Layer, the Application Layer and the Research Interface L
 
     <!-- Beginn Publication Content -->
 
-	<embed style="width:100vw;height:100vh;"src="https://www.bibsonomy.org/publ/user/aksw/pcponweb">
-					<!--ul>
-						<li class="workshop">Marx, E., Soru, T., Neto, C. B. & Athaide, S. C. (2017). KBox: Distributing Ready-to-query RDF Knowledge Graphs. Proceedings of ESWC Posters and Demos. Portorož, Slovenia 2017. <a target="_blank" href="https://www.researchgate.net/publication/315838619_KBox_Distributing_Ready-to-query_RDF_Knowledge_Graphs">↗</a></li>
-						
-						<li class="workshop">Marx, E., Soru, T. & Vadestilhas, A (2017). A Hybrid Approach to Fact Validation: The Catsear Triple Scorer at WSDM Cup 2017. Proceedings of the WSDM Cup 2017 co-located with the 10th ACM International Conference on Web Search and Data Mining. <a target="_blank" href="https://www.researchgate.net/publication/312601210_Triple_Scoring_Using_a_Hybrid_Fact_Validation_Approach_The_Catsear_Triple_Scorer_at_WSDM_Cup_2017">↗</a></li>
- 
-                    	<li class="poster">Riechert, T. & Beretta, F. (2017). Kollaborative Forschung über Linked Open Data Forschungsdatenbanken der Universitätsgeschichte - Implementierung des Heloise Common Research Model. Abstraktband der Jahreskonferenz des Digital Humanities im deutschsprachigen Raum (DHd) e. V. Bern 2017.  <a target="_blank" href="http://heloisenetwork.eu/Publications/2017-DHd2017">↗</a></li>
-					</ul-->
-    <!-- End Publication Content -->
+	<?php 
+	$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb");
+	$pubs = explode('<p class="entry">', $html);
+
+	foreach ($pubs as $pub) {
+
+		if (strpos($pub, '<span class="entry_author">')===0) { 
+			echo '<p class="entry">'.$pub;	
+		}
+	}
+
+?>
+   <!-- End Publication Content -->
     <?php echo section_end(); ?>
 
     <!-- Contact Section -->
