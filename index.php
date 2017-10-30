@@ -7,11 +7,11 @@
                     <img width="60%" class="img-responsive" src="img/pcp-logo.gif" alt="">
                     <div class="intro-text">
                         <span class="de name">Professorale Karrieremuster der Frühen Neuzeit</span>
-                        <span class="en name">Professorial Career Patterns of the Early Modern History</span>
+                        <span class="en name">Early Modern Professorial Career Patterns</span>
 
                         <hr class="star-light">
                         <span class="de skills">Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte.</span>
-                        <span class="en skills">Development of a scientific method for research on online available and distributed research databases of academic history</span>
+                        <span class="en skills">Methodological research on online databases of academic history</span>
 
                     </div>
                 </div>
@@ -71,7 +71,7 @@ den drei Abstraktionsebenen Repository Layer, Application Layer und Research Int
 des geplanten Forschungsvorhabens soll eine Methode auf dem HCRM entwickelt und durch die 
 Beantwortung der Forschungsfrage evaluiert werden. </p>
 
-<p class="en">The Leipzig University of Applied Science (HTWK Leipzig) with the research group Agile Knowledge Engineering and Semantic Web (AKSW) and the Herzog August Library in Wolfenbüttel (HAB) run the research project, in cooperation with partners from the Working Group of German Professor catalogs and the European research network for academic history - Héloïse. The project uses independent online databases for research in the field of prosopography, which is the study and evaluation of collected information on groups of historical persons. This project focuses on German professors' career patterns during the 18th and 19th centuries. The proposed research employs databases that have previously been produced by both project
+<p class="en">The Leipzig University of Applied Science (HTWK Leipzig) with the research group Agile Knowledge Engineering and Semantic Web (AKSW) and the Herzog August Library in Wolfenbüttel (HAB) run the research project, in cooperation with partners from the Working Group of German Professor catalogs and the European research network for academic history - Héloïse. The project uses independent online databases for research in the field of prosopography, which is the study and evaluation of collected information on groups of historical persons. This project focuses on German professors' career patterns from 16th to 18. century. The proposed research employs databases that have previously been produced by both project
 partners, namely the Catalogus Professorum Lipsiensium and the Professorum Helmstadiensium. This proposed project will develop a new research method that combines well-known research methods from the humanities and computer science. In preliminary work AKSW proposed the Heloise Common Research
 Model (HCRM) for cross-project research in the field of university history, within the European research network Heloise. HCRM is conceived as a layered architecture, framing the research within the following abstract
 layers: the Repository Layer, the Application Layer and the Research Interface Layer. As part of the proposed research project a method will be developed based on HCRM and be evaluated by studying the research question.
