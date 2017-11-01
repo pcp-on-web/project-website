@@ -23,7 +23,48 @@
 
     <?php $i=0; ?>
 
-    <?php echo section_begin("Workshop Digitale Prozesse und Informationssysteme im Forschungsdatenmanagement","Workshop Digital processes and information systems in research data management",$i++,true,"01.09.2017 - Thomas Riechert"); ?> 
+    <?php echo section_begin("Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek","Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek",$i++,true,"20.10.2017 - Jennifer Blanke"); ?> 
+
+<p class="de">Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte“, durchgeführt in Kooperation von der Herzog August Bibliothek Wolfenbüttel und der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zu einem Doktorandenworkshop zur Erforschung gelehrter Karrieremuster mit Methoden der Digital Humanities ein.<!--more-->
+Leitfrage des Projekts ist die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneuzeitlichen Universitätssystem. Wem gelang an einer vormodernen Landesuniversität die Berufung auf eine Professur, und welche Abfolgen von Professuren und Ämtern lassen sich in den Biographien erkennen? Welche wissenschaftlichen und politischen Netzwerke beeinflussen den beruflichen Erfolg von
+Professoren? Welche Veränderungen weist dieses Berufungssystem im Übergang zur Moderne auf?
+Anhand der Professorenkataloge von Leipzig und Helmstedt sowie weiterer Datenbanken soll eine
+Methode erarbeitet werden, sich diesen Fragen mit informationstechnischen Methoden zu nähern.
+Grundlage dafür ist das Heloise Common Research Modell (HCRM) zur projektübergreifenden Forschung im Bereich der Universitätsgeschichte im Europäischen Netzwerk Heloise.
+<br class="blogline"/>
+Veranstalter: Herzog August Bibliothek Wolfenbüttel in Kooperation mit der HTWK Leipzig<br/>
+20.–21. November 2017, Herzog August Bibliothek, Wolfenbüttel<br/>
+Seminarraum Meißnerhaus</p>
+
+<p class="en">The research project „Early Modern Professorial Career Patterns: Methodological research on online databases of academic history“ invite for a doctoral workshop for the study of learned career patterns using methods of Digital Humanities <--more-->
+The central question of the project is the conditions for the professional success of professors in the early modern university system. Who succeeded in appointing a professorship at a premodern state university, and which sequences of professorships and posts can be recognized in the biographies? Which scientific and political networks influence the professional success of
+Professors? What changes does this vocation system have in the transition to modernity?
+On the basis of the professor catalogs of Leipzig and Helmstedt as well as further repositories a
+method to approach these questions with information technology methods.
+The basis for this is the Heloise Common Research Model (HCRM) for cross-project research in the field of university history in the European network Heloise.
+<br class="blogline"/>
+Organizer: Herzog August Bibliothek Wolfenbüttel in cooperation with the HTWK Leipzig<br/>
+20th-21st November 2017, Herzog August Bibliothek, Wolfenbüttel<br/>
+Seminarraum Meißnerhaus</p>
+
+
+    <?php echo section_end(); ?> 
+
+
+    <?php echo section_begin("VIIth Workshop Heloise Utrecht, 2-3 November 2017","VIIth Workshop Heloise Utrecht, 2-3 November 2017",$i++,true,"01.10.2017 - Jennifer Blanke, Thomas Riechert"); ?> 
+
+<p class="de">Digitalisiertes Material ist in vielfältigen Datenformaten-Formaten im Forschungsgebiet der Universitätsgeschichte verfügbar. <a href="http://heloisenetwork.eu" target="_blank">Heloise - das europäische Netzwerk für digitale Universitätsgeschichte</a> - diskutierte in mehreren Workshops, wie dieses Material der Öffentlichkeit und der wissenschaftlichen Forschung zugänglich gemacht und darüber hinaus wie diese Daten miteinander verknüpft werden könnten.<!--more--> Die Partner von Heloise wollen im Rahmen des aktuellen Workshops einen Schritt voran gehen  und veranstalten diesen Workshop an der Universität Utrecht in den Niederlanden zur Verwendung dieser Datenbanken in der historischen Forschung. Welche Fragen könnten durch die Verwendung der Datenbanken beantwortet werden? Was tragen diese Datenbanken zur Geschichte der Universitäten und zur Wissenschaftsgeschichte bei? Auf welche bedeutsamen Fragen können Historiker mit diesem Material antworten? Die in diesem Workshop vorgestellten Beiträge bieten Beispiele für die Erforschung der Geschichte von Universitäten und der Wissenschaftsgeschichte, die digitalisierte Datensammlungen nutzen, mit denen die Partner im Heloise-Netzwerk arbeiten.
+<br class="blogline"/>
+Der Workshop wird in Zusammenarbeit mit dem Descartes Zentrum für Geschichte und Philosophie der Wissenschaften an der Universität Utrecht und der Utrecht Digital Humanities Group organisiert.</p>
+
+<p class="en">Nowadays much digitized material – in all kinds of formats – is available on the history of universities. In several workshops, <a href="http://heloisenetwork.eu" target="_blank">Heloise – the European Network on Digital Academic History</a> – has been discussing how this material can be made available to the public and scientific research alike and how these data could be interconnected.<!--more--> Now Heloise has the intention to go a step further and therefore organizes a workshop at Utrecht University in the Netherlands on the uses of these databases in historical research. What questions could be answered by using the databases? What do these databases contribute to the history of universities and the history of science? To which meaningful questions can historians give an answer by using this material? The papers presented in this workshop will offer examples of research into the history of universities and the history of science that make use of the kind of digitized data collections that we work with in the Heloise project.
+<br class="blogline"/>
+The workshop is organized in cooperation with the Descartes Centre for the History and Philosophy of the Sciences and Humanities at Utrecht University and the Utrecht Digital Humanities Group.
+</p>
+
+    <?php echo section_end(); ?> 
+
+    <?php echo section_begin("Workshop Digitale Prozesse und Informationssysteme im Forschungsdatenmanagement - Chemnitz, 28.09.2017","Workshop Digital processes and information systems in research data management - Chemnitz, 28.09.2017",$i++,true,"01.09.2017 - Thomas Riechert"); ?> 
 
 <p class="de">Der Workshop FDM2017 im Rahmen der INFORMATIK 2017 thematisiert die Einbeziehung verfügbarer heterogener Datenbanken und Linked Open Data Daten in aktuellen Forschungsfragestellungen.<!--more--> Während in naturwissenschaftlichen Wissenschaftsfeldern bereits etablierte Datenmanagementstrukturen in spezialisierten Forschungsgebieten etabliert sind, werden diese Methoden zunehmend auch für Forschungsfragen in den Geistes- und Sozialwissenschaften interessant. Die relevanten Forschungsprozesse und die diese unterstützenden Informationssysteme sind gegenwärtig aktueller Forschungsgegenstand. Insbesondere stehen hier Fragestellungen zum Datenschutz, Urheberschutz, Datenkurrierung und Archivierung seitens des Prozessmanagements, sowie Virtualisierung, Verfügbarkeit, die Bereitstellung von Dienstleistungen und die Anforderungsanalyse im Forschungsprozess seitens der Informationssysteme im Vordergrund. In diesem Kontext adressiert der Workshop gleichermaßen Daten-, Knowledge-, Software- Engineers, sowie Anwender in den IT-Abteilungen von Forschungseinrichtungen, Bibliotheken, Archiven, Informationslieferanten und weitere interessierte Anwender. Die Workshopsprachen sind deutsch und englisch.</p>
 

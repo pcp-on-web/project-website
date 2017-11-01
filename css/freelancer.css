@@ -96,6 +96,9 @@ header .intro-text .skills {
   color: #000010;
 }
 
+.blogline {
+  margin-bottom: 20px;
+}
 
 
 @media (min-width: 768px) {
