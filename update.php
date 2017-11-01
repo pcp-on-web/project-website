@@ -1,5 +1,6 @@
 <?php
  
+include("parts/header.php");  
 
 echo "<br/><b>Pull from Git</b> <br/>";
 echo exec("git pull");
@@ -24,6 +25,8 @@ foreach ($pubs as $pub) {
 	}
 }
 
-exit;
+echo "<p><a href="/">Link to Website</a></p>";
+
+include("parts/footer.php");
 ?>
 
