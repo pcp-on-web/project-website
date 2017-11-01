@@ -36,7 +36,7 @@ Veranstalter: Herzog August Bibliothek Wolfenbüttel in Kooperation mit der HTWK
 20.–21. November 2017, Herzog August Bibliothek, Wolfenbüttel<br/>
 Seminarraum Meißnerhaus</p>
 
-<p class="en">The research project „Early Modern Professorial Career Patterns: Methodological research on online databases of academic history“ invite for a doctoral workshop for the study of learned career patterns using methods of Digital Humanities <--more-->
+<p class="en">The research project „Early Modern Professorial Career Patterns: Methodological research on online databases of academic history“ invite for a doctoral workshop for the study of learned career patterns using methods of Digital Humanities <!--more-->
 The central question of the project is the conditions for the professional success of professors in the early modern university system. Who succeeded in appointing a professorship at a premodern state university, and which sequences of professorships and posts can be recognized in the biographies? Which scientific and political networks influence the professional success of
 Professors? What changes does this vocation system have in the transition to modernity?
 On the basis of the professor catalogs of Leipzig and Helmstedt as well as further repositories a

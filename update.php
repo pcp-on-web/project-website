@@ -25,7 +25,7 @@ foreach ($pubs as $pub) {
 	}
 }
 
-echo "<p><a href="/">Link to Website</a></p>";
+echo '<p><a href="../">Link to Website</a></p>';
 
 include("parts/footer.php");
 ?>
