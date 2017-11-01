@@ -166,48 +166,40 @@ research project a method will be developed based on HCRM and be evaluated by st
 
     <!-- Beginn Blog Content -->
 
-    <ul>
+
     <?php
 	exec("cat blog.php | grep section_begin",$blog);
+	exec("cat blog.php | grep '<p class=\"de\">'",$content_de); 
+	exec("cat blog.php | grep '<p class=\"en\">'",$content_en); 
+
+	$i=0;
 	
 	foreach ($blog as $entry) {
 		$items = explode('"',$entry);
-		echo '<li><b><span class="de">'.$items[1].'</span><span class="en">'.$items[3].'</span></b> <a href="blog.php#'.strtolower(preg_replace('/[^A-Za-z0-9-]+/', '-', $items[1])).'">↗</a><br/>'.$items[5].'</li>';
+
+		$abstract_de = str_replace('<p ','<span ',$content_de[$i]);
+		$abstract_de = substr($abstract_de, 0, strpos($abstract_de,"<!--more-->")).'</span>'; 
+		$abstract_en = str_replace('<p ','<span ',$content_en[$i]);
+		$abstract_en = substr($abstract_en, 0, strpos($abstract_en,"<!--more-->")).'</span>'; 
+
+		echo '<p class="entry"><a href="blog.php#'.strtolower(preg_replace('/[^A-Za-z0-9-]+/', '-', $items[1])).'"><span class="de">'.$items[1].'</span><span class="en">'.$items[3].'</span></a> '.$abstract_de.$abstract_en.'<br/><span class="de">Veröffentlicht am </span><span class="en">Published: </span>'.$items[5].'</p>';
+		$i++;
 	}
      ?>
-     </ul>
-<?php
-/*
-					<ul>
 
-<li class="blog"><b>Leipziger Projekt Kick-Off Meeting</b> <span class="de">Die Leipziger Arbeitsgruppe läd zum Kick-Off-Meeting des Projektes am 03.Mai 2017 in die Hochschule für Technik, Wirtschaft und Kultur ein.</span><span class="en">The Leipzig group of PCP-on-Web project invites research partners to their kick-off meeting on May 3rd 2017 at HTWK.</span>
- - 12-04-2017</li>
-<li class="blog"><span class="de"><b>Oberseminar Kollaboratives Knowledge-Engineering im Semantic Web</b>  In den Masterstudiengängen Informaik und Medieninformatik startet am 5. April 2017 das Oberseminar mit derzeit fünf Teilnehmern im Kontext des Projektes. Ziel des Seminars (2 ECTS) ist die grundlegende Auseinandersetzung mit der vertiefter Literaturrecherche im Forschungsfeld. Im Ergebnis entseht ein Survey-Paper.</span><span class="en"><b>Seminar on Collaborative Knowledge engineering within the Semantic Web</b> In the Master's degree programs in Informatics and Media Informatics, the seminar start on April 5, 2017 with currently four participants, in the context of the project. The aim of the seminar (2 ECTS) is practice work in literature research, resulting in a survey paper.</span>
- - 02-04-2017</li>
-					</ul>
 
-*/?>
     <!-- End Blog Content -->
     <?php echo section_end(); ?>
-
+ 
     <!-- Publication Section -->
     <?php echo section_begin("Publikationen","Publications",4); ?> 
 
     <!-- Beginn Publication Content -->
 
-	<?php 
-	$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb");
-	$pubs = explode('<p class="entry">', $html);
+    <?php include("publications.html"); ?>
 
-	foreach ($pubs as $pub) {
 
-		if (strpos($pub, '<span class="entry_author">')===0) { 
-			echo '<p class="entry">'.$pub;	
-		}
-	}
-
-?>
-   <!-- End Publication Content -->
+    <!-- End Publication Content -->
     <?php echo section_end(); ?>
 
     <!-- Contact Section -->
