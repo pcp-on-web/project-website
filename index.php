@@ -37,7 +37,7 @@
                 </div>
                 <div class="col-lg-5">
                     <p><b><span class="de">Netzwerk deutscher Professorenkataloge</span><span class="en">Network of german professors catalogs</span></b></p>
-		    <ul><li>Catalogs Professorum Lipsiensium <a target="_blank" href="http://research.uni-leipzig.de/catalogus-professorum-lipsiensium/">↗</a></li>
+		    <ul><li>Catalogus Professorum Lipsiensium <a target="_blank" href="http://research.uni-leipzig.de/catalogus-professorum-lipsiensium/">↗</a></li>
                     <li>Professorenkatalog Universität Helmstedt <a target="_blank" href="http://uni-helmstedt.hab.de/index.php?cPage=6&sPage=prof">↗</a></li>
                     <li>Bamberger Professorinnen- und Professorenkatalog <a target="_blank" href="https://www.uni-bamberg.de/arch/projekte/professorinnen-und-professorenkatalog/">↗</a></li>
                     <li>Kieler Gelehrtenverzeichnis <a target="_blank" href="https://gelehrtenverzeichnis.de">↗</a></li>
