@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte.">
     <meta name="author" content="Thomas Riechert">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <title>Forschungsprojekt - Professorale Karrieremuster der Frühen Neuzeit</title>
 
