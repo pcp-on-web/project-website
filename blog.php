@@ -47,6 +47,7 @@ Organizer: Herzog August Bibliothek Wolfenbüttel in cooperation with the HTWK L
 20th-21st November 2017, Herzog August Bibliothek, Wolfenbüttel<br/>
 Seminarraum Meißnerhaus</p>
 
+<p><span class="de">Tagungsprogramm: </span><span class="en">Agenda:</span> <a href="documents/Programm_Workshop_HAB.pdf" target="_blank">Programm_Workshop_HAB.pdf</a></p>
 
     <?php echo section_end(); ?> 
 
