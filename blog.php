@@ -23,6 +23,35 @@
 
     <?php $i=0; ?>
 
+    <?php echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert"); ?> 
+
+<p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatoren sind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekte aus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam und Gesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allen Interessierten offen, die Teilnahme ist kostenfrei. <!--more-->
+<br class="blogline"/>
+Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthemen aktueller Forschungsvorhaben in den Geistes- und Kulturwissenschaften. Schier unerschöpflich sind die Möglichkeiten, die sich dabei bieten: Archivmaterialien und Quellen können langfristig gespeichert, untereinander vernetzt und für eine breite Öffentlichkeit zugänglich gemacht werden; es entstehen komplex aufgebaute Datenbanken, die neue Abfragemöglichkeiten bieten und damit gänzlich neue wissenschaftliche Forschungsansätze und Erkenntnismöglichkeiten zulassen. Doch oft ist der Weg zum digitalisierten Forschungsprojekt steiniger als vermutet, so gilt es Fragen zur Finanzierung, zur Strukturierung und zur Langfristspeicherung oft hochkomplexer Daten zu lösen. Spätestens wenn es darum geht, verschiedene Forschungsvorhaben untereinander zu vernetzen, die zu unterschiedlichen Zeitpunkten an unterschiedlichen Institutionen mit unterschiedlichen technischen Mitteln bearbeitet wurden, sind die Akteure der „Digital Humanities“ vor immense Aufgaben gestellt. An dieser Stelle setzt der Digital Humanities Day an, der ein Projektforum für alle Beteiligten bieten möchte.</p>
+
+<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and networking. The event is open to all those interested, participation is free.<!--more--></p>
+
+
+<br class="blogline"/>
+
+<p><span class="de">Workshopprogramm: </span><span class="en">Agenda:</span> <a href="https://www.saw-leipzig.de/de/aktuelles/digital-humanities-day-leipzig-2017" target="_blank">https://www.saw-leipzig.de/de/aktuelles/digital-humanities-day-leipzig-2017</a></p>
+
+    <?php echo section_end(); ?> 
+    <?php echo section_begin("Workshop Data for History, Lyon 23./24.11.2017","Workshop Data for History, Lyon 23./24.11.2017",$i++,true,"24.11.2017 - Thomas Riechert"); ?> 
+
+<p class="de">Data for History ist ein internationales Konsortium, welches am 24. November 2017 gegründet wurde. Ziel des Konsortiums ist die geo-historische Dateninteroperabilität im Semantic Web zu verbessern. <!--more--> Inhalt der Arbeit ist es, eine gemeinsame Methode zur Modellierung, Kuratierung und Verwaltung von Daten in der historischen Forschung zu etablieren. Eine solche Methode würde eine grundlegende Unterstützung für Forschungsprojekte  und einen Rahmen für kollaborative, kumulative und interoperable wissenschaftliche Datenproduktion und -untersuchung bieten. Ziel des Konsortiums ist es, eine internationale Community von Historikern und Informatikern aufzubauen, um zunächst ein gemeinsames ontologisches Modell zu entwickeln und zu pflegen, das eine domänenspezifische, semantisch robuste Datenintegration und Interoperabilität ermöglicht. Das Konsortium strebt an, dieses Modell im konzeptionellen Rahmen des CIDOC-CRM zu erstellen, um es in eine breitere interdisziplinäre Modellierungs- und Datengemeinschaft zu integrieren. Es beginnt bereits mit der grundlegenden Modellierungserfahrung und Daten, die im Rahmen des symogih.org-Projekts entwickelt wurden.</p>
+
+<p class="en">Data for History is an international consortium founded on 24 November 2017 with the aim of improving geo-historical data interoperability in the semantic web. <!--more-->Its purpose is to establish a common method for modelling, curating and managing data in historical research. Such a method would provide foundational support to research projects adopting a framework of collaborative, cumulative and interoperable scientific data production and investigation. The consortium aims to build up an international community of historians and computer scientists to first develop and then maintain a common ontological model that would allow for domain specific, semantically robust data integration and interoperability. The consortium aims to build this model in the conceptual framework of the CIDOC-CRM, in order to integrate to a broader cross-disciplinary modelling and data community. It begins already with the foundational modelling experience and data developed within the symogih.org project.</p>
+
+
+<br class="blogline"/>
+
+<p><span class="de">Workshopprogramm: </span><span class="en">Agenda:</span> <a href="http://dataforhistory.org/20171123-24" target="_blank">http://dataforhistory.org/20171123-24</a></p>
+
+    <?php echo section_end(); ?> 
+
+
+
     <?php echo section_begin("Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek","Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek",$i++,true,"20.10.2017 - Jennifer Blanke"); ?> 
 
 <p class="de">Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte“, durchgeführt in Kooperation von der Herzog August Bibliothek Wolfenbüttel und der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zu einem Doktorandenworkshop zur Erforschung gelehrter Karrieremuster mit Methoden der Digital Humanities ein.<!--more-->
