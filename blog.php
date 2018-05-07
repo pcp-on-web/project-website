@@ -26,9 +26,9 @@
  <?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
 
 <p class="de">Die aktuelle Version des Modells des Leipziger Professorenkatalogs ist nun nach den Dokumentationsrichtlinien des W3C
-    verfügbar. </p>
+    verfügbar. <!--more--> </p>
 <p class="en">The current version of the model of the Leipzig Professor Catalog is now available. The documentation complies the
-    guidelines of the W3C. </p>
+    guidelines of the W3C. <!--more--> </p>
 <p><a href="http://catalogus-professorum.org/cpm/2/" target="_blank">http://catalogus-professorum.org/cpm/2/</a></b>
 <p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and networking. The event is open to all those interested, participation is free.<!--more--></p>
 
