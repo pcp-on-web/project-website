@@ -23,6 +23,17 @@
 
     <?php $i=0; ?>
 
+ <?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
+
+<p class="de">Die aktuelle Version des Modells des Leipziger Professorenkatalogs ist nun nach den Dokumentationsrichtlinien des W3C
+    verfügbar. </p>
+<p class="en">The current version of the model of the Leipzig Professor Catalog is now available. The documentation complies the
+    guidelines of the W3C. </p>
+<p><a href="http://catalogus-professorum.org/cpm/2/" target="_blank">http://catalogus-professorum.org/cpm/2/</a></b>
+<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and networking. The event is open to all those interested, participation is free.<!--more--></p>
+
+<br class="blogline"/>
+
     <?php echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert"); ?> 
 
 <p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatoren sind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekte aus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam und Gesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allen Interessierten offen, die Teilnahme ist kostenfrei. <!--more-->
