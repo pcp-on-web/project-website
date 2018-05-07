@@ -23,25 +23,44 @@
 
     <?php $i=0; ?>
 
- <?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
+<?php
+echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert");
+?> 
 
 <p class="de">Die aktuelle Version des Modells des Leipziger Professorenkatalogs ist nun nach den Dokumentationsrichtlinien des W3C
-    verfügbar. <!--more--> </p>
+    verfügbar.</p>
 <p class="en">The current version of the model of the Leipzig Professor Catalog is now available. The documentation complies the
-    guidelines of the W3C. <!--more--> </p>
-<p><a href="http://catalogus-professorum.org/cpm/2/" target="_blank">http://catalogus-professorum.org/cpm/2/</a></b>
-<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and networking. The event is open to all those interested, participation is free.<!--more--></p>
+    guidelines of the W3C.
+</p>
+<p><a href="http://catalogus-professorum.org/cpm/2/" target="_blank">http://catalogus-professorum.org/cpm/2/</a></p>
 
 <br class="blogline"/>
 
-    <?php echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert"); ?> 
+<?php
+echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert");
+?> 
 
-<p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatoren sind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekte aus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam und Gesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allen Interessierten offen, die Teilnahme ist kostenfrei. <!--more-->
+<p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatoren
+    sind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekte
+    aus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam und
+    Gesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allen
+    Interessierten offen, die Teilnahme ist kostenfrei.<!--more-->
 <br class="blogline"/>
-Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthemen aktueller Forschungsvorhaben in den Geistes- und Kulturwissenschaften. Schier unerschöpflich sind die Möglichkeiten, die sich dabei bieten: Archivmaterialien und Quellen können langfristig gespeichert, untereinander vernetzt und für eine breite Öffentlichkeit zugänglich gemacht werden; es entstehen komplex aufgebaute Datenbanken, die neue Abfragemöglichkeiten bieten und damit gänzlich neue wissenschaftliche Forschungsansätze und Erkenntnismöglichkeiten zulassen. Doch oft ist der Weg zum digitalisierten Forschungsprojekt steiniger als vermutet, so gilt es Fragen zur Finanzierung, zur Strukturierung und zur Langfristspeicherung oft hochkomplexer Daten zu lösen. Spätestens wenn es darum geht, verschiedene Forschungsvorhaben untereinander zu vernetzen, die zu unterschiedlichen Zeitpunkten an unterschiedlichen Institutionen mit unterschiedlichen technischen Mitteln bearbeitet wurden, sind die Akteure der „Digital Humanities“ vor immense Aufgaben gestellt. An dieser Stelle setzt der Digital Humanities Day an, der ein Projektforum für alle Beteiligten bieten möchte.</p>
+Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthemen aktueller Forschungsvorhaben in den
+    Geistes- und Kulturwissenschaften. Schier unerschöpflich sind die Möglichkeiten, die sich dabei bieten: Archivmaterialien
+    und Quellen können langfristig gespeichert, untereinander vernetzt und für eine breite Öffentlichkeit zugänglich gemacht werden;
+    es entstehen komplex aufgebaute Datenbanken, die neue Abfragemöglichkeiten bieten und damit gänzlich neue wissenschaftliche
+    Forschungsansätze und Erkenntnismöglichkeiten zulassen. Doch oft ist der Weg zum digitalisierten Forschungsprojekt steiniger
+    als vermutet, so gilt es Fragen zur Finanzierung, zur Strukturierung und zur Langfristspeicherung oft hochkomplexer Daten zu
+    lösen. Spätestens wenn es darum geht, verschiedene Forschungsvorhaben untereinander zu vernetzen, die zu unterschiedlichen
+    Zeitpunkten an unterschiedlichen Institutionen mit unterschiedlichen technischen Mitteln bearbeitet wurden, sind die Akteure
+    der „Digital Humanities“ vor immense Aufgaben gestellt. An dieser Stelle setzt der Digital Humanities Day an, der ein
+    Projektforum für alle Beteiligten bieten möchte.</p>
 
-<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and networking. The event is open to all those interested, participation is free.<!--more--></p>
-
+<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy
+    of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences
+    will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and
+    networking. The event is open to all those interested, participation is free.<!--more--></p>
 
 <br class="blogline"/>
 
