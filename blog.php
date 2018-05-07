@@ -23,51 +23,30 @@
 
     <?php $i=0; ?>
 
-<?php
-echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert");
-?> 
 
-<p class="de">Die aktuelle Version des Modells des Leipziger Professorenkatalogs ist nun nach den Dokumentationsrichtlinien des W3C
-    verfügbar.</p>
-<p class="en">The current version of the model of the Leipzig Professor Catalog is now available. The documentation complies the
-    guidelines of the W3C.
-</p>
+<?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
+
+<p class="de">Die aktuelle Version des Modells des Leipziger Professorenkatalogs ist nun nach den Dokumentationsrichtlinien des W3C verfügbar.<!--more--></p>
+<p class="en">The current version of the model of the Leipzig Professor Catalog is now available. The documentation complies the guidelines of the W3C. <!--more--></p>
 <p><a href="http://catalogus-professorum.org/cpm/2/" target="_blank">http://catalogus-professorum.org/cpm/2/</a></p>
 
 <br class="blogline"/>
+<?php echo section_end(); ?> 
 
-<?php
-echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert");
-?> 
+<?php echo section_begin("Digital Humanities Day Leipzig 2017, 04.12.2017","Digital Humanities Day Leipzig 2017, 04.12.2017",$i++,true,"01.12.2017 - Thomas Riechert"); ?> 
 
-<p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatoren
-    sind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekte
-    aus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam und
-    Gesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allen
-    Interessierten offen, die Teilnahme ist kostenfrei.<!--more-->
+<p class="de">In der Bibliotheca Albertina findet am 4. Dezember 2017 erstmalig der „Digital Humanities Day Leipzig“ statt. Organisatorensind die Sächsische Akademie der Wissenschaften zu Leipzig und die Universitätsbibliothek Leipzig. Unterschiedlichste Projekteaus den Geistes- und Kulturwissenschaften werden ihre Digitalisierungskonzepte vorstellen und diskutieren, ein Posterslam undGesprächsrunden bieten darüber hinaus Möglichkeiten zum Austausch und zur Vernetzung. Die Veranstaltung steht allenInteressierten offen, die Teilnahme ist kostenfrei.<!--more-->
 <br class="blogline"/>
-Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthemen aktueller Forschungsvorhaben in den
-    Geistes- und Kulturwissenschaften. Schier unerschöpflich sind die Möglichkeiten, die sich dabei bieten: Archivmaterialien
-    und Quellen können langfristig gespeichert, untereinander vernetzt und für eine breite Öffentlichkeit zugänglich gemacht werden;
-    es entstehen komplex aufgebaute Datenbanken, die neue Abfragemöglichkeiten bieten und damit gänzlich neue wissenschaftliche
-    Forschungsansätze und Erkenntnismöglichkeiten zulassen. Doch oft ist der Weg zum digitalisierten Forschungsprojekt steiniger
-    als vermutet, so gilt es Fragen zur Finanzierung, zur Strukturierung und zur Langfristspeicherung oft hochkomplexer Daten zu
-    lösen. Spätestens wenn es darum geht, verschiedene Forschungsvorhaben untereinander zu vernetzen, die zu unterschiedlichen
-    Zeitpunkten an unterschiedlichen Institutionen mit unterschiedlichen technischen Mitteln bearbeitet wurden, sind die Akteure
-    der „Digital Humanities“ vor immense Aufgaben gestellt. An dieser Stelle setzt der Digital Humanities Day an, der ein
-    Projektforum für alle Beteiligten bieten möchte.</p>
+Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthemen aktueller Forschungsvorhaben in denGeistes- und Kulturwissenschaften. Schier unerschöpflich sind die Möglichkeiten, die sich dabei bieten: Archivmaterialienund Quellen können langfristig gespeichert, untereinander vernetzt und für eine breite Öffentlichkeit zugänglich gemacht werden;es entstehen komplex aufgebaute Datenbanken, die neue Abfragemöglichkeiten bieten und damit gänzlich neue wissenschaftlicheForschungsansätze und Erkenntnismöglichkeiten zulassen. Doch oft ist der Weg zum digitalisierten Forschungsprojekt steinigerals vermutet, so gilt es Fragen zur Finanzierung, zur Strukturierung und zur Langfristspeicherung oft hochkomplexer Daten zulösen. Spätestens wenn es darum geht, verschiedene Forschungsvorhaben untereinander zu vernetzen, die zu unterschiedlichenZeitpunkten an unterschiedlichen Institutionen mit unterschiedlichen technischen Mitteln bearbeitet wurden, sind die Akteureder „Digital Humanities“ vor immense Aufgaben gestellt. An dieser Stelle setzt der Digital Humanities Day an, der einProjektforum für alle Beteiligten bieten möchte.</p>
 
-<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academy
-    of Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural sciences
-    will present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange and
-    networking. The event is open to all those interested, participation is free.<!--more--></p>
+<p class="en">The Bibliotheca Albertina will start the "Digital Humanities Day Leipzig" series, organized are the Saxon Academyof Sciences Leipzig and the University Library Leipzig. A wide variety of projects from the humanities and cultural scienceswill present and discuss their digitization concepts, while a poster slam and talks provide opportunities for exchange andnetworking. The event is open to all those interested, participation is free.<!--more--></p>
 
 <br class="blogline"/>
 
 <p><span class="de">Workshopprogramm: </span><span class="en">Agenda:</span> <a href="https://www.saw-leipzig.de/de/aktuelles/digital-humanities-day-leipzig-2017" target="_blank">https://www.saw-leipzig.de/de/aktuelles/digital-humanities-day-leipzig-2017</a></p>
+<?php echo section_end(); ?>
 
-    <?php echo section_end(); ?> 
-    <?php echo section_begin("Workshop Data for History, Lyon 23./24.11.2017","Workshop Data for History, Lyon 23./24.11.2017",$i++,true,"24.11.2017 - Thomas Riechert"); ?> 
+<?php echo section_begin("Workshop Data for History, Lyon 23./24.11.2017","Workshop Data for History, Lyon 23./24.11.2017",$i++,true,"24.11.2017 - Thomas Riechert"); ?> 
 
 <p class="de">Data for History ist ein internationales Konsortium, welches am 24. November 2017 gegründet wurde. Ziel des Konsortiums ist die geo-historische Dateninteroperabilität im Semantic Web zu verbessern. <!--more--> Inhalt der Arbeit ist es, eine gemeinsame Methode zur Modellierung, Kuratierung und Verwaltung von Daten in der historischen Forschung zu etablieren. Eine solche Methode würde eine grundlegende Unterstützung für Forschungsprojekte  und einen Rahmen für kollaborative, kumulative und interoperable wissenschaftliche Datenproduktion und -untersuchung bieten. Ziel des Konsortiums ist es, eine internationale Community von Historikern und Informatikern aufzubauen, um zunächst ein gemeinsames ontologisches Modell zu entwickeln und zu pflegen, das eine domänenspezifische, semantisch robuste Datenintegration und Interoperabilität ermöglicht. Das Konsortium strebt an, dieses Modell im konzeptionellen Rahmen des CIDOC-CRM zu erstellen, um es in eine breitere interdisziplinäre Modellierungs- und Datengemeinschaft zu integrieren. Es beginnt bereits mit der grundlegenden Modellierungserfahrung und Daten, die im Rahmen des symogih.org-Projekts entwickelt wurden.</p>
 
@@ -77,12 +56,10 @@ Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthe
 <br class="blogline"/>
 
 <p><span class="de">Workshopprogramm: </span><span class="en">Agenda:</span> <a href="http://dataforhistory.org/20171123-24" target="_blank">http://dataforhistory.org/20171123-24</a></p>
-
-    <?php echo section_end(); ?> 
-
+<?php echo section_end(); ?> 
 
 
-    <?php echo section_begin("Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek","Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek",$i++,true,"20.10.2017 - Jennifer Blanke"); ?> 
+<?php echo section_begin("Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek","Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek",$i++,true,"20.10.2017 - Jennifer Blanke"); ?> 
 
 <p class="de">Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte“, durchgeführt in Kooperation von der Herzog August Bibliothek Wolfenbüttel und der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zu einem Doktorandenworkshop zur Erforschung gelehrter Karrieremuster mit Methoden der Digital Humanities ein.<!--more-->
 Leitfrage des Projekts ist die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneuzeitlichen Universitätssystem. Wem gelang an einer vormodernen Landesuniversität die Berufung auf eine Professur, und welche Abfolgen von Professuren und Ämtern lassen sich in den Biographien erkennen? Welche wissenschaftlichen und politischen Netzwerke beeinflussen den beruflichen Erfolg von
@@ -107,11 +84,9 @@ Organizer: Herzog August Bibliothek Wolfenbüttel in cooperation with the HTWK L
 Seminarraum Meißnerhaus</p>
 
 <p><span class="de">Tagungsprogramm: </span><span class="en">Agenda:</span> <a href="documents/Programm_Workshop_HAB.pdf" target="_blank">Programm_Workshop_HAB.pdf</a></p>
+<?php echo section_end(); ?> 
 
-    <?php echo section_end(); ?> 
-
-
-    <?php echo section_begin("VIIth Workshop Heloise Utrecht, 2-3 November 2017","VIIth Workshop Heloise Utrecht, 2-3 November 2017",$i++,true,"01.10.2017 - Jennifer Blanke, Thomas Riechert"); ?> 
+<?php echo section_begin("VIIth Workshop Heloise Utrecht, 2-3 November 2017","VIIth Workshop Heloise Utrecht, 2-3 November 2017",$i++,true,"01.10.2017 - Jennifer Blanke, Thomas Riechert"); ?> 
 
 <p class="de">Digitalisiertes Material ist in vielfältigen Datenformaten-Formaten im Forschungsgebiet der Universitätsgeschichte verfügbar. <a href="http://heloisenetwork.eu" target="_blank">Heloise - das europäische Netzwerk für digitale Universitätsgeschichte</a> - diskutierte in mehreren Workshops, wie dieses Material der Öffentlichkeit und der wissenschaftlichen Forschung zugänglich gemacht und darüber hinaus wie diese Daten miteinander verknüpft werden könnten.<!--more--> Die Partner von Heloise wollen im Rahmen des aktuellen Workshops einen Schritt voran gehen  und veranstalten diesen Workshop an der Universität Utrecht in den Niederlanden zur Verwendung dieser Datenbanken in der historischen Forschung. Welche Fragen könnten durch die Verwendung der Datenbanken beantwortet werden? Was tragen diese Datenbanken zur Geschichte der Universitäten und zur Wissenschaftsgeschichte bei? Auf welche bedeutsamen Fragen können Historiker mit diesem Material antworten? Die in diesem Workshop vorgestellten Beiträge bieten Beispiele für die Erforschung der Geschichte von Universitäten und der Wissenschaftsgeschichte, die digitalisierte Datensammlungen nutzen, mit denen die Partner im Heloise-Netzwerk arbeiten.
 <br class="blogline"/>
@@ -121,18 +96,17 @@ Der Workshop wird in Zusammenarbeit mit dem Descartes Zentrum für Geschichte un
 <br class="blogline"/>
 The workshop is organized in cooperation with the Descartes Centre for the History and Philosophy of the Sciences and Humanities at Utrecht University and the Utrecht Digital Humanities Group.
 </p>
+<?php echo section_end(); ?> 
 
-    <?php echo section_end(); ?> 
 
-    <?php echo section_begin("Workshop Digitale Prozesse und Informationssysteme im Forschungsdatenmanagement - Chemnitz, 28.09.2017","Workshop Digital processes and information systems in research data management - Chemnitz, 28.09.2017",$i++,true,"01.09.2017 - Thomas Riechert"); ?> 
+<?php echo section_begin("Workshop Digitale Prozesse und Informationssysteme im Forschungsdatenmanagement - Chemnitz, 28.09.2017","Workshop Digital processes and information systems in research data management - Chemnitz, 28.09.2017",$i++,true,"01.09.2017 - Thomas Riechert"); ?> 
 
 <p class="de">Der Workshop FDM2017 im Rahmen der INFORMATIK 2017 thematisiert die Einbeziehung verfügbarer heterogener Datenbanken und Linked Open Data Daten in aktuellen Forschungsfragestellungen.<!--more--> Während in naturwissenschaftlichen Wissenschaftsfeldern bereits etablierte Datenmanagementstrukturen in spezialisierten Forschungsgebieten etabliert sind, werden diese Methoden zunehmend auch für Forschungsfragen in den Geistes- und Sozialwissenschaften interessant. Die relevanten Forschungsprozesse und die diese unterstützenden Informationssysteme sind gegenwärtig aktueller Forschungsgegenstand. Insbesondere stehen hier Fragestellungen zum Datenschutz, Urheberschutz, Datenkurrierung und Archivierung seitens des Prozessmanagements, sowie Virtualisierung, Verfügbarkeit, die Bereitstellung von Dienstleistungen und die Anforderungsanalyse im Forschungsprozess seitens der Informationssysteme im Vordergrund. In diesem Kontext adressiert der Workshop gleichermaßen Daten-, Knowledge-, Software- Engineers, sowie Anwender in den IT-Abteilungen von Forschungseinrichtungen, Bibliotheken, Archiven, Informationslieferanten und weitere interessierte Anwender. Die Workshopsprachen sind deutsch und englisch.</p>
 
 <p class="en">The FDM2017 workshop within the framework of INFORMATIK 2017 conference addresses the inclusion of available heterogeneous databases and linked open data in current research questions.<!--more--> While established data management structures have already been established in specialized research areas in scientific sciences, these methods are becoming increasingly interesting for research questions in the humanities and social sciences. The relevant research processes and the information systems supporting them are currently the subject of current research. In particular, questions concerning data protection, copyright protection, data collection and archiving on the part of process management as well as virtualization, availability, the provision of services and the requirements analysis in the research process on the part of the information systems are in the foreground. In this context, the workshop also addresses data, knowledge, software engineers and users in the IT departments of research facilities, libraries, archives, information suppliers and other interested users. The workshop languages ​​are German and English.</p>
 
 <ul>
-<li><b>Organisation: </b>
-    <ul>
+<li><b>Organisation: </b><ul>
     <li>Thomas Riechert, Hochschule für Technik, Wirtschaft und Kultur Leipzig</li>
     <li>Toralf Kirsten, Leipzig Research Centre for Civilization Diseases</li>
     <li>Leander Seige, Universitätsbibliothek Leipzig</li>
@@ -160,24 +134,23 @@ The workshop is organized in cooperation with the Descartes Centre for the Histo
     </ul>
 </li>
 </ul>
+<?php echo section_end(); ?> 
 
-    <?php echo section_end(); ?> 
 
-    <?php echo section_begin("Leipziger Projekt Kick-Off Meeting","Leipzig Projekt Kick-Off Meeting",$i++,true,"12.04.2017 - Thomas Riechert"); ?> 
+<?php echo section_begin("Leipziger Projekt Kick-Off Meeting","Leipzig Projekt Kick-Off Meeting",$i++,true,"12.04.2017 - Thomas Riechert"); ?> 
 
 <p class="de">Die Leipziger Arbeitsgruppe läd zum Kick-Off-Meeting des Projektes am 03.Mai 2017 in die Hochschule für Technik, Wirtschaft und Kultur ein.<!--more--></p>
 
 <p class="en">The Leipzig group of PCP-on-Web project invites research partners to their kick-off meeting on May 3rd 2017 at HTWK.<!--more--></p>
+<?php echo section_end(); ?> 
 
-    <?php echo section_end(); ?> 
 
-    <?php echo section_begin("Oberseminar Kollaboratives Knowledge-Engineering im Semantic Web","Seminar on Collaborative Knowledge engineering within the Semantic Web",$i++,true,"02.04.2017 - Thomas Riechert"); ?> 
+<?php echo section_begin("Oberseminar Kollaboratives Knowledge-Engineering im Semantic Web","Seminar on Collaborative Knowledge engineering within the Semantic Web",$i++,true,"02.04.2017 - Thomas Riechert"); ?> 
 
 <p class="de">In den Masterstudiengängen Informaik und Medieninformatik startet am 5. April 2017 das Oberseminar mit derzeit fünf Teilnehmern im Kontext des Projektes.<!--more--> Ziel des Seminars (2 ECTS) ist die grundlegende Auseinandersetzung mit der vertiefter Literaturrecherche im Forschungsfeld. Im Ergebnis entseht ein Survey-Paper.</p>
 
 <p class="en">In the Master's degree programs in Informatics and Media Informatics, the seminar start on April 5, 2017 with currently four participants, in the context of the project.<!--more--> The aim of the seminar (2 ECTS) is practice work in literature research, resulting in a survey paper.</p>
-
-    <?php echo section_end(); ?> 
+<?php echo section_end(); ?> 
 
 
 <?php include("parts/footer.php"); ?> 
