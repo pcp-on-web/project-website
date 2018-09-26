@@ -50,6 +50,14 @@
 <br class="blogline"/>
 <?php echo section_end(); ?> 
 
+<?php echo section_begin("Zweites  Data for History Meeting, Lyon, 24-25 Mai 2018.","2nd Data for History meeting, Lyon, 24-25 May 2018.",$i++,true,"26.09.2018 - Thomas Riechert"); ?> 
+ 
+<p class="de">Université Jean-Moulin Lyon 3<br/>Organised by the Pôle histoire numérique (Digital history department) of the LARHRA laboratory.<!--more--></p>
+<p class="en">Université Jean-Moulin Lyon 3<br/>Organised by the Pôle histoire numérique (Digital history department) of the LARHRA laboratory.<!--more--></p>
+<p><p><a href="http://dataforhistory.org/2nd-data-for-history" target="_blank">http://dataforhistory.org/2nd-data-for-history</a></p></p>
+<br class="blogline"/>
+<?php echo section_end(); ?>
+
 
 <?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
 
