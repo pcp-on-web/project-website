@@ -23,6 +23,33 @@
 
     <?php $i=0; ?>
 
+<?php echo section_begin("Präsentation auf dem Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz","Presentation at German Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz",$i++,true,"28.09.2018 - Jennifer Blanke"); ?> 
+ 
+<p class="de">Um Spaltungen und Fusionen innerhalb sowie zwischen den verschiedenen sozialen Feldern frühneuzeitlicher Gesellschaften sichtbar zu machen, widmet sich dieser Beitrag der gesellschaftlichen Relevanz von Berufungspraxis und professoralen Karrieremustern an  vormodernen Universitäten im deutschsprachigen Raum. <!--more--></p>
+<p class="en">Um Spaltungen und Fusionen innerhalb sowie zwischen den verschiedenen sozialen Feldern frühneuzeitlicher Gesellschaften sichtbar zu machen, widmet sich dieser Beitrag der gesellschaftlichen Relevanz von Berufungspraxis und professoralen Karrieremustern an  vormodernen Universitäten im deutschsprachigen Raum. <!--more--></p>
+<p>Die digitalen Professorenkataloge der Universitäten Helmstedt und Leipzig bilden dafür die zentrale Datenquelle. So werden Forschungsansätze aus den Geisteswissenschaften und der Informatik zusammengeführt, um basierend auf dem Heloise Common Research Modell (HCRM) eine Methode zu entwickeln, die für komplexe Forschungsfragen im Semantic Web anwendbar ist.</p>
+<br class="blogline"/>
+<?php echo section_end(); ?>
+
+
+<?php echo section_begin("Save the Date: Doktorandensymposium zur methodologischen Forschung mit Online-Datenbanken der akademischen Geschichte, 19.-20. März 2019","Save the Date: Doctoral Symposium on methodological Research on online Databases of academic History, March 19th-20th 2019, Leipzig",$i++,true,"26.09.2018 - Thomas Riechert"); ?> 
+ 
+<p class="de">Aufruf zur Einreichung von Beiträgen: 15.10.2018, Deadline: 15.01.2019, Benachrichtigung über die Annahme: 01.02.2019<!--more--></p>
+<p class="en">CfP will be published October, 15th 2018, Workshop Paper deadline: January, 15th 2019, Final notification to authors: February, 1st 2019<!--more--></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+
+<?php echo section_begin("Keynote: Informatik in den Geisteswissenschaften am Beispiel der Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte. SKILL 2018","Computer Science in the humanities using for research on online and distributed research databases in academic history",$i++,true,"26.09.2018 - Thomas Riechert"); ?> 
+
+<p class="de">Präsentation des Forschungsfeldes Digital Humanities auf der Studierendenkonferenz Informatik 2018 in Berlin.<!--more--></p>
+<p class="en">Presentation of the research field Digital Humanities at the Student Conference Computer Science 2018 in Berlin.<!--more--></p>
+<p><a href="http://skill.informatik.uni-leipzig.de/blog/skill-2018/programm/" target="_blank">Programm SKILL 2018</a></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
 
 <?php echo section_begin("Catalogus Professorum Model - Version 2.1 veröffentlicht, 26.04.2018","Catalogus Professorum Model - Version 2.1 published, 26.04.2018",$i++,true,"26.04.2018 - Thomas Riechert"); ?> 
 
