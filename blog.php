@@ -23,22 +23,53 @@
 
     <?php $i=0; ?>
 
-<?php echo section_begin("Präsentation auf dem Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz","Presentation at German Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz",$i++,true,"28.09.2018 - Jennifer Blanke"); ?> 
+
+<?php echo section_begin("Doktorandensymposium zur Forschung mit Online-Datenbanken der akademischen Geschichte – Digitale Werkzeuge, Methoden und Standards, 4./5. April 2019","Doctoral Symposium on research with online databases on academic history – Digital tools, methods and standards, April 4th-5th 2019, Leipzig",$i++,true,"05.12.2018 - Thomas Riechert"); ?> 
  
-<p class="de">Um Spaltungen und Fusionen innerhalb sowie zwischen den verschiedenen sozialen Feldern frühneuzeitlicher Gesellschaften sichtbar zu machen, widmet sich dieser Beitrag der gesellschaftlichen Relevanz von Berufungspraxis und professoralen Karrieremustern an  vormodernen Universitäten im deutschsprachigen Raum. <!--more--></p>
-<p class="en">Um Spaltungen und Fusionen innerhalb sowie zwischen den verschiedenen sozialen Feldern frühneuzeitlicher Gesellschaften sichtbar zu machen, widmet sich dieser Beitrag der gesellschaftlichen Relevanz von Berufungspraxis und professoralen Karrieremustern an  vormodernen Universitäten im deutschsprachigen Raum. <!--more--></p>
-<p>Die digitalen Professorenkataloge der Universitäten Helmstedt und Leipzig bilden dafür die zentrale Datenquelle. So werden Forschungsansätze aus den Geisteswissenschaften und der Informatik zusammengeführt, um basierend auf dem Heloise Common Research Modell (HCRM) eine Methode zu entwickeln, die für komplexe Forschungsfragen im Semantic Web anwendbar ist.</p>
+<p class="de">Aufruf zur Einreichung von Beiträgen: 12.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019<!--more--></p>
+<p class="en">CfP will be published December, 12th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019<!--more--></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+<?php echo section_begin("Präsentation auf dem EADH Workshop Data in Digital Humanities vom 7.-9.10.2018","Presentation at EADH 2018: Data in Digital Humanities - 7 to 9 December 2018",$i++,true,"04.12.2018 - Jennifer Blanke"); ?> 
+ 
+<p>Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium<!--more--></p>
+<p>Programme: <a href="https://eadh2018.exordo.com/programme/presentation/95" target="_blank">https://eadh2018.exordo.com/programme/presentation/95</a></p>
+<br class="blogline"/>
+<?php echo section_end(); ?>
+
+<?php echo section_begin("Werkstattgespräch, 22. November 2018, in Wolfenbüttel an der Herzog August Bibliothek","Workshop discussion, 22nd November 2018, in Wolfenbüttel at the Herzog August Bibliothek",$i++,true,"22.11.2018 - Jennifer Blanke"); ?> 
+ 
+<p class="de">In einer Präsentation zum Thema "Professorale Karrieremuster im Netz. Herausforderungen der digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit" gewährte das Projekt PCP-on-Web Einblick in den Stand der Forschung und lud zur Diskussion ein.</p>
+
+<p class="en">In a presentation on the topic "Professorial Career Patterns in the Web: Challenges of Digital Research in Early Modern Scholarly Careers" researchers of the PCP-on-Web project provided insights into the state of their research and invited for a detailed discussion.</p>
+
 <br class="blogline"/>
 <?php echo section_end(); ?>
 
 
-<?php echo section_begin("Save the Date: Doktorandensymposium zur methodologischen Forschung mit Online-Datenbanken der akademischen Geschichte, 19.-20. März 2019","Save the Date: Doctoral Symposium on methodological Research on online Databases of academic History, March 19th-20th 2019, Leipzig",$i++,true,"26.09.2018 - Thomas Riechert"); ?> 
+<?php echo section_begin("VIIIth HELOISE ATELIER, 1.-3. Oktober 2018","VIIIth HELOISE ATELIER, 1st to 3rd October 2018",$i++,true,"30.11.2018 - Jennifer Blanke"); ?> 
  
-<p class="de">Aufruf zur Einreichung von Beiträgen: 15.10.2018, Deadline: 15.01.2019, Benachrichtigung über die Annahme: 01.02.2019<!--more--></p>
-<p class="en">CfP will be published October, 15th 2018, Workshop Paper deadline: January, 15th 2019, Final notification to authors: February, 1st 2019<!--more--></p>
+<p class="de">Digitalisiertes Material ist in vielfältigen Datenformaten im Forschungsgebiet der Universitätsgeschichte verfügbar. Heloise - das europäische Netzwerk für digitale Universitätsgeschichte - diskutierte am Beispiel von "University funding and management", wie dieses Material in ihrer Verknüpfung der Öffentlichkeit und Forschung zugänglich gemacht werden kann.<!--more--></p>
+<p class="en">Digitized material is available in a variety of data formats in the research field of academic history. Heloise - the European network for digital academic history - discussed with the example of "University funding and management" how this material can be made accessible to the public and research community.<!--more--></p>
+<p class="de">Das Projekt PCP-on-Web beteiligte sich in einem Beitrag zum Thema: "Ontology enineering in the field of Academic History - Research in the domain of database interoperability".</p>
+<p class="en">The PCP-on-Web project contributed to the topic: "Ontology Engineering in the Field of Academic History - Research in the Domain of Database Interoperability".</p>
+<br class="blogline"/>
+<?php echo section_end(); ?>
+
+
+<?php echo section_begin("Präsentation auf dem Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz","Presentation at German Historikertag: Im Kern gespalten? Zur digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit und deren gesellschaftliche Relevanz",$i++,true,"28.09.2018 - Jennifer Blanke"); ?> 
+ 
+<p class="de">Um Spaltungen und Fusionen innerhalb sowie zwischen den verschiedenen sozialen Feldern frühneuzeitlicher Gesellschaften sichtbar zu machen, widmet sich dieser Beitrag der gesellschaftlichen Relevanz von Berufungspraxis und professoralen Karrieremustern an  vormodernen Universitäten im deutschsprachigen Raum. <!--more--></p>
+<p class="en">In order to make  visible divisions and fusions within and between different social fields of early modern societies, this contribution is dedicated to the social relevance of vocation practice and professorial career patterns in premodern universities in German-speaking countries. <!--more--></p>
+<p class="de">Die digitalen Professorenkataloge der Universitäten Helmstedt und Leipzig bilden dafür die zentrale Datenquelle. So werden Forschungsansätze aus den Geisteswissenschaften und der Informatik zusammengeführt, um basierend auf dem Heloise Common Research Modell (HCRM) eine Methode zu entwickeln, die für komplexe Forschungsfragen im Semantic Web anwendbar ist.</p>
+<p class="en">The digital professor catalogs of the Universities of Helmstedt and Leipzig are the basic data source for this project. It brings together research approaches from the humanities and computer science to develop a method that is applicable to complex research questions in the Semantic Web based on the Heloise Common Research Model (HCRM).</p>
+<p class="de">Tagungsbericht: HT 2018: Digital Humanities in der Analyse gespaltener Gesellschaften. Beispiele aus der Praxis, 25.09.2018 – 28.09.2018 Münster, in: H-Soz-Kult, 07.12.2018, <a href="https://www.hsozkult.de/conferencereport/id/tagungsberichte-8009" target="_blank">https://www.hsozkult.de/conferencereport/id/tagungsberichte-8009</a>.
+<p class="en">Conference report: HT 2018: Digital Humanities in der Analyse gespaltener Gesellschaften. Beispiele aus der Praxis, 25.09.2018 – 28.09.2018 Münster, in: H-Soz-Kult, 07.12.2018, <a href="https://www.hsozkult.de/conferencereport/id/tagungsberichte-8009" target="_blank">https://www.hsozkult.de/conferencereport/id/tagungsberichte-8009</a>.
 
 <br class="blogline"/>
-<?php echo section_end(); ?> 
+<?php echo section_end(); ?>
 
 
 <?php echo section_begin("Keynote: Informatik in den Geisteswissenschaften am Beispiel der Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte. SKILL 2018","Computer Science in the humanities using for research on online and distributed research databases in academic history",$i++,true,"26.09.2018 - Thomas Riechert"); ?> 
