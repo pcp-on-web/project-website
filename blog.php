@@ -34,16 +34,17 @@
 
 <?php echo section_begin("Präsentation auf dem EADH Workshop Data in Digital Humanities vom 7.-9.10.2018","Presentation at EADH 2018: Data in Digital Humanities - 7 to 9 December 2018",$i++,true,"04.12.2018 - Jennifer Blanke"); ?> 
  
-<p>Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium <!--more--></p>
+<p class="de">Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium. <!--more--></p>
+<p class="en">Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium. <!--more--></p>
 <p>Programme: <a href="https://eadh2018.exordo.com/programme/presentation/95" target="_blank">https://eadh2018.exordo.com/programme/presentation/95</a></p>
 <br class="blogline"/>
 <?php echo section_end(); ?>
 
 <?php echo section_begin("Werkstattgespräch, 22. November 2018, in Wolfenbüttel an der Herzog August Bibliothek","Workshop discussion, 22nd November 2018, in Wolfenbüttel at the Herzog August Bibliothek",$i++,true,"22.11.2018 - Jennifer Blanke"); ?> 
  
-<p class="de">In einer Präsentation zum Thema "Professorale Karrieremuster im Netz. Herausforderungen der digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit" gewährte das Projekt PCP-on-Web Einblick in den Stand der Forschung und lud zur Diskussion ein.</p>
+<p class="de">In einer Präsentation zum Thema "Professorale Karrieremuster im Netz. Herausforderungen der digitalen Erforschung von Gelehrtenkarrieren in der Frühen Neuzeit" gewährte das Projekt PCP-on-Web Einblick in den Stand der Forschung und lud zur Diskussion ein.<!--more--></p>
 
-<p class="en">In a presentation on the topic "Professorial Career Patterns in the Web: Challenges of Digital Research in Early Modern Scholarly Careers" researchers of the PCP-on-Web project provided insights into the state of their research and invited for a detailed discussion.</p>
+<p class="en">In a presentation on the topic "Professorial Career Patterns in the Web: Challenges of Digital Research in Early Modern Scholarly Careers" researchers of the PCP-on-Web project provided insights into the state of their research and invited for a detailed discussion.<!--more--></p>
 
 <br class="blogline"/>
 <?php echo section_end(); ?>
