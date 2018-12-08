@@ -34,7 +34,7 @@
 
 <?php echo section_begin("Präsentation auf dem EADH Workshop Data in Digital Humanities vom 7.-9.10.2018","Presentation at EADH 2018: Data in Digital Humanities - 7 to 9 December 2018",$i++,true,"04.12.2018 - Jennifer Blanke"); ?> 
  
-<p>Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium<!--more--></p>
+<p>Building a domain specific Research Ontology from external Databases of Academic History as part of On the way to semantic interoperabilty for historical data: The Data for History Consortium <!--more--></p>
 <p>Programme: <a href="https://eadh2018.exordo.com/programme/presentation/95" target="_blank">https://eadh2018.exordo.com/programme/presentation/95</a></p>
 <br class="blogline"/>
 <?php echo section_end(); ?>
@@ -51,8 +51,8 @@
 
 <?php echo section_begin("VIIIth HELOISE ATELIER, 1.-3. Oktober 2018","VIIIth HELOISE ATELIER, 1st to 3rd October 2018",$i++,true,"30.11.2018 - Jennifer Blanke"); ?> 
  
-<p class="de">Digitalisiertes Material ist in vielfältigen Datenformaten im Forschungsgebiet der Universitätsgeschichte verfügbar. Heloise - das europäische Netzwerk für digitale Universitätsgeschichte - diskutierte am Beispiel von "University funding and management", wie dieses Material in ihrer Verknüpfung der Öffentlichkeit und Forschung zugänglich gemacht werden kann.<!--more--></p>
-<p class="en">Digitized material is available in a variety of data formats in the research field of academic history. Heloise - the European network for digital academic history - discussed with the example of "University funding and management" how this material can be made accessible to the public and research community.<!--more--></p>
+<p class="de">Digitalisiertes Material ist in vielfältigen Datenformaten im Forschungsgebiet der Universitätsgeschichte verfügbar. Heloise - das europäische Netzwerk für digitale Universitätsgeschichte - diskutierte am Beispiel von "University funding and management", wie dieses Material in ihrer Verknüpfung der Öffentlichkeit und Forschung zugänglich gemacht werden kann. <!--more--></p>
+<p class="en">Digitized material is available in a variety of data formats in the research field of academic history. Heloise - the European network for digital academic history - discussed with the example of "University funding and management" how this material can be made accessible to the public and research community. <!--more--></p>
 <p class="de">Das Projekt PCP-on-Web beteiligte sich in einem Beitrag zum Thema: "Ontology enineering in the field of Academic History - Research in the domain of database interoperability".</p>
 <p class="en">The PCP-on-Web project contributed to the topic: "Ontology Engineering in the Field of Academic History - Research in the Domain of Database Interoperability".</p>
 <br class="blogline"/>
