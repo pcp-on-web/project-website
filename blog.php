@@ -29,6 +29,9 @@
 <p class="de">Aufruf zur Einreichung von Beiträgen: 20.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019<!--more--></p>
 <p class="en">CfP will be published December, 20th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019<!--more--></p>
 
+<p class="de"><a href="page.php?goto=RODBH2019">Webseite mit Call for Papers.</a></p>
+<p class="en"><a href="page.php?goto=RODBH2019">Website and Call for Papers.</a></p>
+
 <br class="blogline"/>
 <?php echo section_end(); ?> 
 
