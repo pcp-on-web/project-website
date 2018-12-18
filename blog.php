@@ -24,10 +24,10 @@
     <?php $i=0; ?>
 
 
-<?php echo section_begin("Doktorandensymposium zur Forschung mit Online-Datenbanken der akademischen Geschichte – Digitale Werkzeuge, Methoden und Standards, 4./5. April 2019","Doctoral Symposium on research with online databases on academic history – Digital tools, methods and standards, April 4th-5th 2019, Leipzig",$i++,true,"05.12.2018 - Thomas Riechert"); ?> 
+<?php echo section_begin("Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019","Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig",$i++,true,"05.12.2018 - Thomas Riechert"); ?> 
  
-<p class="de">Aufruf zur Einreichung von Beiträgen: 12.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019<!--more--></p>
-<p class="en">CfP will be published December, 12th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019<!--more--></p>
+<p class="de">Aufruf zur Einreichung von Beiträgen: 20.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019<!--more--></p>
+<p class="en">CfP will be published December, 20th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019<!--more--></p>
 
 <br class="blogline"/>
 <?php echo section_end(); ?> 
