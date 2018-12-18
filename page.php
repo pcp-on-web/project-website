@@ -20,6 +20,7 @@
     </header>
 
 <?php
+echo $_SERVER['PHP_SELF'];
 if (strpos($_SERVER['PHP_SELF'],"#RODBH2019")>0) {
 ?>
 
