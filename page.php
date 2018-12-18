@@ -20,7 +20,7 @@
     </header>
 
 <?php
-if (strpos($_SERVER['PHP_SELF'],"#RODBH2019")==true) {
+if (strpos($_SERVER['PHP_SELF'],"#RODBH2019")>0) {
 ?>
 
 
