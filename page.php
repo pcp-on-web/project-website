@@ -30,7 +30,6 @@ if ($_GET["goto"]=="RODBH2019") {
     <?php echo section_begin("Call for Papers","Call for Papers",0); ?> 
 
     <!-- Beginn Partner Content -->
-		<div class="col-lg-4">
 <p>The Doctoral Symposium on Research on Online Databases in History is intended to bring together Ph.D. students within fields of Humanities, Computer Science and Digital Humanities to discuss their research in an international forum. More precisely, the Doctoral Symposium will provide students within:
 <ul>
 <li>Presenting their research work in a scientific environment;</li>
@@ -76,7 +75,7 @@ The contributions may include a vocabulary of the applied research vocabulary un
 </p>
 
 
-		</div>
+
 
 
 
