@@ -27,7 +27,6 @@ function section_begin(string $de,string $en,int $number = 0,bool $external = fa
 		$output .= $en;
 	}
         $output .= '</span></h2>'.PHP_EOL;
-	$output .= '</span></h2>'.PHP_EOL;
 	if ($dateauthor=='') $output .= '            <hr class="star-light"/>'.PHP_EOL;
 	else $output .= '            <div class="star-light">'.$dateauthor.'</div>'.PHP_EOL;
         $output .= '        </div>'.PHP_EOL;
