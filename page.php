@@ -51,7 +51,7 @@ The paper submission to the doctoral symposium is open only to Doctoral or Ph.D.
 </p><p>
 Submissions will be judged mainly on relevance, originality, technical quality and clarity. Papers must be written in English and be between 4 and 8 pages in length, following the LNI (Lecture Notes in Informatics) templates in Word or LaTeX provided by Gesellschaft für Informatik e.V. 
 </p><p>
-The contributions may include a vocabulary of the applied research vocabulary under Creative Commons Attribution 4.0 International Public License ("Public License"), if available in RDF format. All papers should be submitted using EasyChair.
+The contributions may include a vocabulary of the applied research vocabulary under Creative Commons Attribution 4.0 International Public License ("Public License"), if available in RDF format. All papers should be submitted using <a href="https://easychair.org/conferences/?conf=rodbh2019" target="_blank">EasyChair</a>.
 </p>
 
 <h3>Important Dates</h3>
