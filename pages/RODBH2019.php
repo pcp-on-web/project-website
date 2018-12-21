@@ -66,7 +66,7 @@ The contributions may include a vocabulary of the applied research vocabulary un
 
 <h3>Program Committee (tentative)</h3>
 
-The Data for Histrory Consortium.
+<p>The Data for Histrory Consortium.</p>
 
 
 
