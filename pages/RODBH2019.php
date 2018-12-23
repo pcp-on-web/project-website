@@ -90,13 +90,12 @@ The contributions may include a vocabulary of the applied research vocabulary un
 <li>Prof. Dr. Thomas Riechert<br/>
 Information Systems and Data Management</br>
 Research Group: "Agile Knowledge Engineering and Semantic Web"<br/></li>
-<ul>
+
 <li>Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK)<br/>
 Leipzig University of Applied Sciences<br/>
 Faculty of Computer Science, Mathematics and Natural Sciences<br/>
 Gustav-Freytag-Str. 42A, Zi. 507, 04277 Leipzig, Germany<br/></li>
 <li>E-mail: thomas.riechert@htwk-leipzig.de phone +49 (341) 3076 6413 fax +49 (341) 3076 85 6413</li>
-</ul>
 </ul>
 </p>
 
