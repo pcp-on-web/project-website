@@ -20,14 +20,19 @@
     <?php echo section_begin("Call for Papers","Call for Papers",0); ?> 
 
     <!-- Beginn Partner Content -->
-<p>The Doctoral Symposium on Research on Online Databases in History is intended to bring together Ph.D. students within fields of Humanities, Computer Science and Digital Humanities to discuss their research in an international forum. More precisely, the Doctoral Symposium will provide students within:
+<p>The doctoral symposium deals with research on online databases in the academic field of
+history. It gathers Ph.D. students from the Humanities, Computer Science and Digital
+Humanities who are using Semantic Web technologies and are concerned with Ontology
+building in their projects. The Doctoral Symposium will provide students with:
 <ul>
-<li>Presenting their research work in a scientific environment;</li>
-<li>Receiving feedback and suggestions from peers and experienced faculty;</li>
-<li>Gaining an overview of the breadth and depth of data for history;</li>
-<li>Obtain insight into directions for research on online databases in history taken by other doctoral candidates;</li>
-<li>Discuss concerns about research and methodologies, and other issues;</li>
-<li>A Network with peers and future colleagues</li>
+<li>a scientific environment within an interdisciplinary and international forum to present
+their research;</li>
+<li>a discussion platform concerning research and methodologies; and further issues;</li>
+<li>an overview of the breadth and depth of Data for History;</li>
+<li>feedback and suggestions from peers and experienced faculty;</li>
+<li>the opportunity to obtain insight into directions for research on online databases in
+History taken by other doctoral candidates; and</li>
+<li>an opportunity to network with peers and future colleagues.</li>
 </ul>
 </p><p>
 The Doctoral Symposium is hosted by Leipzig University of Applied Science, Faculty of Informatics and Media (HTWK) as part of the Research project <a href="https://pcp-on-web.htwk-leipzig.de" target="_blank">Early Modern Professorial Career Patterns - Methodological research on online databases of academic history</a>, in cooperation with the European Consortium on <a href="http://dataforhistory.org/" target="_blank">Data for History</a>. A general meeting of the DfH Consortium is part of the workshop and includes the application of the <a href="http://ontologies.dataforhistory.org/" target="_blank">OntoMe - Ontology Management Environment</a>, a platform to design vocabularies using ontologies contributed by the participating Ph.D. students.
@@ -39,10 +44,10 @@ The Doctoral Symposium is hosted by Leipzig University of Applied Science, Facul
 <p>
 The paper submission to the doctoral symposium is open only to Doctoral or Ph.D. Students. Accepted paper at the Doctoral Symposium must be presented by the student, for which accommodation and participation are funded by the German Science Foundation (DFG). 
 </p><p>
-Submissions will be judged mainly on relevance, originality, technical quality and clarity. Papers must be written in English and be between 4 and 8 pages in length, following the LNI (<a href="https://gi.de/service/publikationen/lni/" target="_blank">Lecture Notes in Informatics</a>) templates in Word or LaTeX provided by Gesellschaft für Informatik e.V. 
+Submissions will be judged mainly on relevance, originality, technical quality and clarity. Papers must be written in English and be between 4 and 8 pages in length, following the LNI (<a href="https://gi.de/service/publikationen/lni/" target="_blank">Lecture Notes in Informatics</a>) templates in Word or LaTeX provided by Gesellschaft für Informatik e.V. . It is planned to publish the peer-reviewed papers.
 </p><p>
 The contributions may include a vocabulary of the applied research vocabulary under Creative Commons Attribution 4.0 International Public License ("Public License"), if available in RDF format. All papers should be submitted using <a href="https://easychair.org/cfp/RODBH2019" target="_blank">EasyChair</a>.
-</p>
+</p>	
 
 <h3>Important Dates</h3>
 
@@ -61,6 +66,7 @@ The contributions may include a vocabulary of the applied research vocabulary un
 <h3>Organizing Committee</h3>
 <p><ul><li>Edgard Marx (Leipzig University of Applied Sciences, Germany, edgard.marx@htwk-leipzig.de)</li>
 <li>Jennifer Blanke (Herzog-August Library, Wolfenbüttel, Germany, blanke@hab.de)</li>
+<li>Vincent Alamercery (École normale supérieure de Lyon, France, vincent.alamercery@ens-lyon.fr)
 </ul>
 </p>
 
@@ -78,8 +84,9 @@ The contributions may include a vocabulary of the applied research vocabulary un
 <li>Daniele Santarelli (Università degli Studi della Campania "Luigi Vanvitelli" and Associazione CLORI)</li>
 <li>Veruska Zamborlini (Universiteit van Amsterdam, ILLC)</li>
 <li>Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH)</li>
+<li>Andreas Wagner (Max-Planck-Institut für europäische Rechtsgeschichte)</li>
 
-<?php //Vincent Alamercery (École normale supérieure de Lyon, LARHRA), Estelle Bunout (Université du Luxembourg, C2DH), Christine Chadier (Université Jean-Moulin Lyon 3, LARHRA), Cécile Davrieux-de Becdelièvre (Bibliothèque municipale de Lyon), Bertrand Duménieu (EHESS, CRH), Achille Felicetti (Università degli Studi di Firenze, Vast-Lab), Djamel Ferhod (CNRS, LARHRA), Fabrice Flückiger (Université de Neuchâtel, Institut d'histoire), Nicolas Guilhot (Université Jean-Moulin Lyon 3, IFROSS), Thomas Hänsli (ETH Zürich, GTA), Aurélie Hess (CNRS, TEMOS), Charles van den Heuvel* (Huygens ING), ,     Bernard Hours (Université Jean-Moulin Lyon 3, LARHRA), Solenn Huitric (ENS de Lyon, LARHRA), Loïc Jeanson (Université de Nantes, CFV - LS2N), Bärbel Kröger (Akademie der Wissenschaften zu Göttingen, Gemania Sacra), , Sylvain Laubé (Université de Bretagne Occidentale, CFV), Richard Light (Free UK Genealogy), Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH), Carlo Meghini (CNR-ISTI, NEMIS), François Mistral (ABES), Franco Niccolucci (Università degli Studi di Firenze, Vast-Lab), Lodewijk Petram (Huygens ING), Karl Pineau (Université de technologie de Compiègne, COSTECH), Christopher Pollin (Karl-Franzens-Universität Graz, ZIM-ACDH), Marie Puren (CNRS, LARHRA - SILKNOW), Bernhard Ruef (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Daniele Santarelli (Università degli Studi della Campania "Luigi Vanvitelli", DILBEC), Matthias Schlögl (Österreichische Akademie der Wissenschaften, ACDH), Torsten Schrade (Akademie der Wissenschaften und der Literatur Mainz, Digital Akademie), Pascale Sutter (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Christophe Tufféry (INRAP, CITERES), Regina Varnienė-Janssen (Vilniaus universitetas, Research Centre for the Organization of Libraries and Information), Pierre Vernus (Université Lumière Lyon 2, LARHRA), François Vignale (Université du Mans, 3LAM), ,     Andreas Wagner (Max-Planck-Institut für europäische Rechtsgeschichte), Jörg Wettlaufer (Akademie der Wissenschaften zu Göttingen, GCDH), Veruska Zamborlini (Universiteit van Amsterdam, ILLC)
+<?php //, Estelle Bunout (Université du Luxembourg, C2DH), Christine Chadier (Université Jean-Moulin Lyon 3, LARHRA), Cécile Davrieux-de Becdelièvre (Bibliothèque municipale de Lyon), Bertrand Duménieu (EHESS, CRH), Achille Felicetti (Università degli Studi di Firenze, Vast-Lab), Djamel Ferhod (CNRS, LARHRA), Fabrice Flückiger (Université de Neuchâtel, Institut d'histoire), Nicolas Guilhot (Université Jean-Moulin Lyon 3, IFROSS), Thomas Hänsli (ETH Zürich, GTA), Aurélie Hess (CNRS, TEMOS), Charles van den Heuvel* (Huygens ING), ,     Bernard Hours (Université Jean-Moulin Lyon 3, LARHRA), Solenn Huitric (ENS de Lyon, LARHRA), Loïc Jeanson (Université de Nantes, CFV - LS2N), Bärbel Kröger (Akademie der Wissenschaften zu Göttingen, Gemania Sacra), , Sylvain Laubé (Université de Bretagne Occidentale, CFV), Richard Light (Free UK Genealogy), Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH), Carlo Meghini (CNR-ISTI, NEMIS), François Mistral (ABES), Franco Niccolucci (Università degli Studi di Firenze, Vast-Lab), Lodewijk Petram (Huygens ING), Karl Pineau (Université de technologie de Compiègne, COSTECH), Christopher Pollin (Karl-Franzens-Universität Graz, ZIM-ACDH), Marie Puren (CNRS, LARHRA - SILKNOW), Bernhard Ruef (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Daniele Santarelli (Università degli Studi della Campania "Luigi Vanvitelli", DILBEC), Matthias Schlögl (Österreichische Akademie der Wissenschaften, ACDH), Torsten Schrade (Akademie der Wissenschaften und der Literatur Mainz, Digital Akademie), Pascale Sutter (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Christophe Tufféry (INRAP, CITERES), Regina Varnienė-Janssen (Vilniaus universitetas, Research Centre for the Organization of Libraries and Information), Pierre Vernus (Université Lumière Lyon 2, LARHRA), François Vignale (Université du Mans, 3LAM), ,     , Jörg Wettlaufer (Akademie der Wissenschaften zu Göttingen, GCDH), Veruska Zamborlini (Universiteit van Amsterdam, ILLC)
 ?>
 
 </ul>
