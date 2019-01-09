@@ -2,6 +2,15 @@
 
     <header>
         <div class="container">
+
+            <!-- News Section -->
+            <div id="news">
+                <span>News:</span> 
+                  <a href="page.php?goto=RODBH2019#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a>
+                <span onclick="jQuery('#news').slideUp()">&#10006;</span>
+             </div>
+
+
             <div class="row">
                 <div class="col-lg-12">
                     <img width="60%" class="img-responsive" src="img/pcp-logo.gif" alt="">
