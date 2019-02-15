@@ -6,7 +6,7 @@
             <!-- News Section -->
             <div id="news">
                 <span>News:</span> 
-                  <a href="page.php?goto=RODBH2019#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a>
+                  <a href="page.php?goto=RODBH2019#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a><br/>Paper and Abstract Submission Deadline: March 1st, 2019 (extended)
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>
              </div>
 

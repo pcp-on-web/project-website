@@ -7,8 +7,8 @@
                         <span class="en name">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</span>
 
                         <hr class="star-light">
-                        <span class="de skills">Aufruf zur Einreichung von Beiträgen: 20.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019</span>
-                        <span class="en skills">CfP will be published December, 20th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019</span>
+                        <span class="de skills">Deadline zur Einreichung (verlängert): 01.03.2019, Benachrichtigung über die Annahme: 06.03.2019</span>
+                        <span class="en skills">Paper submission deadline: March 1st, 2019 (extended), Final notification to authors: March, 6th 2019</span>
 
                     </div>
                 </div>
@@ -42,17 +42,17 @@ The Doctoral Symposium is hosted by Leipzig University of Applied Science, Facul
 <h3>Submission, Eligibility and Review Criteria</h3>
 
 <p>
-The paper submission to the doctoral symposium is open only to Doctoral or Ph.D. Students. Accepted paper at the Doctoral Symposium must be presented by the student, for which accommodation and participation are funded by the German Science Foundation (DFG). Travel expenses are reimbursed pro rata.
+The paper or abstract submission to the doctoral symposium is open only to Doctoral or Ph.D. Students. Accepted papers or abstracts at the Doctoral Symposium must be presented by the student, for which accommodation and participation are funded by the German Science Foundation (DFG). Travel expenses are reimbursed pro rata. 
 </p><p>
-Submissions will be judged mainly on relevance, originality, technical quality and clarity. Papers must be written in English and be between 4 and 8 pages in length, following the LNI (<a href="https://gi.de/service/publikationen/lni/" target="_blank">Lecture Notes in Informatics</a>) templates in Word or LaTeX provided by Gesellschaft für Informatik e.V. . It is planned to publish the peer-reviewed papers.
+Submissions will be judged mainly on relevance, originality, technical quality and clarity. Papers and abstracts must be written in English following the LNI (<a href="https://gi.de/service/publikationen/lni/" target="_blank">Lecture Notes in Informatics</a>) templates in Word or LaTeX provided by Gesellschaft für Informatik e.V. . Papers allowed within the length between 4 and 8 pages, abstracts have to be at least one page. It is planned to publish the peer-reviewed papers. 
 </p><p>
 The contributions may include a vocabulary of the applied research vocabulary under Creative Commons Attribution 4.0 International Public License ("Public License"), if available in RDF format. All papers should be submitted using <a href="https://easychair.org/cfp/RODBH2019" target="_blank">EasyChair</a>.
 </p>	
 
 <h3>Important Dates</h3>
 
-<p><ul><li>Paper Submission Deadline: February 15, 2019</li>
-<li>Notification of acceptance: March 1st, 2019</li>
+<p><ul><li>Paper Submission Deadline: March 1st, 2019 (extended)</li>
+<li>Notification of acceptance: March 6th, 2019</li>
 <li>Doctoral Symposium: April 4th to April 5th, 2019</li>
 </ul>
 </p>
@@ -70,30 +70,25 @@ The contributions may include a vocabulary of the applied research vocabulary un
 </ul>
 </p>
 
-<h3>Program Committee (tentative)</h3>
+<h3>Program Committee</h3>
 
 <p><ul>
 <li>Carmen Brando (EHESS, CRH)</li>
 <li>Olivier Bruneau (Université de Lorraine, LHSP-AP)</li>
-<li>Georg Vogeler (Karl-Franzens-Universität Graz, ZIM-ACDH)</li>
+<li>Nicolas Guilhot (Université Jean-Moulin Lyon 3, IFROSS)</li>
 <li>Torsten Hiltmann (Westfälische Wilhelms-Universität Münster)</li>
-<li>Matthias Schlögl (Österreichische Akademie der Wissenschaften, ACDH)</li>
 <li>Loïc Jeanson (Université de Nantes, CFV - LS2N)</li>
+<li>Bärbel Kröger (Akademie der Wissenschaften zu Göttingen, Gemania Sacra)</li>
 <li>Andreas Kuczera (Akademie der Wissenschaften und der Literatur Mainz, Digital Akademie)</li>
+<li>Sylvain Laubé (Université de Bretagne Occidentale, CFV)</li>
+<li>Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH)</li>
 <li>Christopher Pollin (Karl-Franzens-Universität Graz, ZIM-ACDH)</li>
 <li>Daniele Santarelli (Università degli Studi della Campania "Luigi Vanvitelli" and Associazione CLORI)</li>
-<li>Veruska Zamborlini (Universiteit van Amsterdam, ILLC)</li>
-<li>Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH)</li>
-<li>Andreas Wagner (Max-Planck-Institut für europäische Rechtsgeschichte)</li>
-<li>Nicolas Guilhot (Université Jean-Moulin Lyon 3, IFROSS)</li>
-<li>Sylvain Laubé (Université de Bretagne Occidentale, CFV)</li>
-<li>Bärbel Kröger (Akademie der Wissenschaften zu Göttingen, Gemania Sacra)</li>
+<li>Matthias Schlögl (Österreichische Akademie der Wissenschaften, ACDH)</li>
 <li>Regina Varnienė-Janssen (Vilniaus universitetas, Research Centre for the Organization of Libraries and Information)</li>
-
-
-
-<?php //, Estelle Bunout (Université du Luxembourg, C2DH), Christine Chadier (Université Jean-Moulin Lyon 3, LARHRA), Cécile Davrieux-de Becdelièvre (Bibliothèque municipale de Lyon), Bertrand Duménieu (EHESS, CRH), Achille Felicetti (Università degli Studi di Firenze, Vast-Lab), Djamel Ferhod (CNRS, LARHRA), Fabrice Flückiger (Université de Neuchâtel, Institut d'histoire), Nicolas Guilhot (Université Jean-Moulin Lyon 3, IFROSS), Thomas Hänsli (ETH Zürich, GTA), Aurélie Hess (CNRS, TEMOS), Charles van den Heuvel* (Huygens ING), ,     Bernard Hours (Université Jean-Moulin Lyon 3, LARHRA), Solenn Huitric (ENS de Lyon, LARHRA), Loïc Jeanson (Université de Nantes, CFV - LS2N), Bärbel Kröger (Akademie der Wissenschaften zu Göttingen, Gemania Sacra), , Sylvain Laubé (Université de Bretagne Occidentale, CFV), Richard Light (Free UK Genealogy), Matteo Lorenzini (Österreichische Akademie der Wissenschaften, ACDH), Carlo Meghini (CNR-ISTI, NEMIS), François Mistral (ABES), Franco Niccolucci (Università degli Studi di Firenze, Vast-Lab), Lodewijk Petram (Huygens ING), Karl Pineau (Université de technologie de Compiègne, COSTECH), Christopher Pollin (Karl-Franzens-Universität Graz, ZIM-ACDH), Marie Puren (CNRS, LARHRA - SILKNOW), Bernhard Ruef (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Daniele Santarelli (Università degli Studi della Campania "Luigi Vanvitelli", DILBEC), Matthias Schlögl (Österreichische Akademie der Wissenschaften, ACDH), Torsten Schrade (Akademie der Wissenschaften und der Literatur Mainz, Digital Akademie), Pascale Sutter (Fondation des sources du droit de la Société suisse des juristes, SSRQ), Christophe Tufféry (INRAP, CITERES), , Pierre Vernus (Université Lumière Lyon 2, LARHRA), François Vignale (Université du Mans, 3LAM), ,     , Jörg Wettlaufer (Akademie der Wissenschaften zu Göttingen, GCDH), Veruska Zamborlini (Universiteit van Amsterdam, ILLC)
-?>
+<li>Georg Vogeler (Karl-Franzens-Universität Graz, ZIM-ACDH)</li>
+<li>Andreas Wagner (Max-Planck-Institut für europäische Rechtsgeschichte)</li>
+<li>Veruska Zamborlini (Universiteit van Amsterdam, ILLC)</li>
 
 </ul>
 </p>
