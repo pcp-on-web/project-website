@@ -26,8 +26,8 @@
 
 <?php echo section_begin("Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019","Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig",$i++,true,"05.12.2018 - Thomas Riechert"); ?> 
  
-<p class="de">Aufruf zur Einreichung von Beiträgen: 20.12.2018, Deadline: 15.02.2019, Benachrichtigung über die Annahme: 01.03.2019<!--more--></p>
-<p class="en">CfP will be published December, 20th 2018, Workshop Paper deadline: February, 15th 2019, Final notification to authors: March, 1st 2019<!--more--></p>
+<p class="de">Deadline: 01.03.2019 (verlängert), Benachrichtigung über die Annahme: 06.03.2019<!--more--></p>
+<p class="en">Workshop Paper deadline: March, 1st 2019, Final notification to authors: March, 6th 2019<!--more--></p>
 
 <p class="de"><a href="page.php?goto=RODBH2019">Webseite mit Call for Papers.</a></p>
 <p class="en"><a href="page.php?goto=RODBH2019">Website and Call for Papers.</a></p>
