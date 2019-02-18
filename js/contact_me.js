@@ -15,6 +15,31 @@ $(function() {
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
+
+						message = "Name: " + name + "\nE-Mail: " + email + "\nAffiliation: " + $("input#affiliation").val()  + "\nCountry: " + $("input#country").val()  + "\n\n" + message;
+
+						message = message + "\nRole: ";
+						$("input#role").each(function() {
+							if (this.checked) {
+  							message = message + $( this ).val() + ", ";
+							}
+						});
+						message = message + "\nParticipation: ";
+						$("input#participation").each(function() {
+							if (this.checked) {
+  							message = message + $( this ).val() + ", ";
+							}
+						});
+						message = message + "\nFood: ";
+						$("input#food").each(function() {
+							if (this.checked) {
+  							message = message + $( this ).val() + ", ";
+							}
+						});
+            message = message + "\n" + $("textarea#foodother").val();
+
+
+
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
