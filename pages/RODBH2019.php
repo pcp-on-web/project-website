@@ -8,8 +8,8 @@
 
                         <hr class="star-light">
                         <span class="de skills">Deadline zur Einreichung (verlängert): 01.03.2019, Benachrichtigung über die Annahme: 06.03.2019</span>
-                        <span class="en skills">Paper submission deadline: March 1st, 2019 (extended), Final notification to authors: March, 6th 2019</span>
-
+                        <span class="en skills">Paper submission deadline: March 1st, 2019 (extended), Final notification to authors: March, 6th 2019</span><br/>
+                        <span class="skills">Call for Papers | <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a> | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
                     </div>
                 </div>
             </div>
