@@ -25,28 +25,28 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 
 <h3>Agenda</h3>
 
-<p><u>Wednesday April 3rd, 2019</u></p>
-<ul><li>Arriving</li></ul>
-<p><u>Thursday April 4th, 2019</u></p>
+<p><u>Wednesday, April 3rd, 2019</u></p>
+<ul><li>Arrival</li></ul>
+<p><u>Thursday, April 4th, 2019</u></p>
 <ul>
 <li>09:30 Coffee and Registration</li>
 <li>10:00 Welcome</li>
 <li>10:30 Session 1:  Doctoral students</li>
 <li>12:00 Lunch at Mensa</li>
-<li>13:00 Session 2: Data for History Meeting (open), New Member Presentations and current issues </li>
+<li>13:00 Session 2: Data for History Meeting (open), new member presentations and current issues </li>
 <li>14:30 Coffee-Break</li>
 <li>15:00 Session 3:  Doctoral students</li>
 <li>16:30 Coffee-Break</li>
-<li>17:00 Discussions and Working groups</li>
+<li>17:00 Discussions and working groups</li>
 <li>18:30 End</li>
 <li>20:00 Dinner</li>
 </ul>
-<p><u>Friday April 5th, 2019</u></p>
+<p><u>Friday, April 5th, 2019</u></p>
 <ul>
 <li>09:00 Coffee</li>
-<li>09:30 Session 4: OntoMe Workshop (Aligning vocabularies and training)</li>
+<li>09:30 Session 4: OntoMe workshop (aligning vocabularies and training)</li>
 <li>11:00 Coffee-Break</li>
-<li>11:30 Session Summary of Discussions and Working groups</li>
+<li>11:30 Session: Summary of discussions and working groups</li>
 <li>13:00 Lunch at Mensa</li>
 <li>14:00 Additional Workshops</li>
 <li>15:30 End </li>
@@ -68,7 +68,7 @@ Germany
 <p>Hotel Leonardo****, Windscheidstraße 21-23, 04277 Leipzig<br/>
 Phone: +49 341 30330 Fax: +49 341 3033555 E-Mail: info@hotel-leonardo.de
 </p>
-<p>There are plenty of hotels within the city centre. The HTWK is located within the lively district Connewitz in the south of Leipzig. It is easy to reach by public transport or by bicycle (e.g. nextbike bike sharing). Parking is free at the HTWK parking lot.</p>
+<p>There are plenty of hotels within the city centre. The HTWK is located within the lively district Connewitz in the south of Leipzig. It is easy to reach by public transport or by bicycle (e.g. <a href="https://www.nextbike.net/" target="_blank">nextbike bike sharing</a>). Parking is free at the HTWK parking lot.</p>
 <h3>Contacts</h3>
 <p>The organizer committee is happy to answer any request regarding the event: Edgard Marx (Leipzig University of Applied Sciences, Germany, edgard.marx@htwk-leipzig.de), Jennifer Blanke (Herzog-August Library, Wolfenbüttel, Germany, blanke@hab.de) and Vincent Alamercery (École normale supérieure de Lyon, France, vincent.alamercery@ens-lyon.fr). </p>
 <p>Thomas Riechert, thomas.riechert@htwk-leipzig.de<p>
