@@ -18,7 +18,7 @@
     <?php echo section_begin("Registration","Registration",0); ?> 
 
     <!-- Beginn Partner Content -->
-<p>Participation is open for Researchers and Students are interested in the topic of research on online databases in history. There will be no participation fee. Participants will be ask to pay for lunch (15 Euro/day) at the Mensa. PhD students are submitted a paper or abstract that has been accepted; accommodation is provided and Travel expenses are reimbursed pro rata, funded by the German Science Foundation (DFG).
+<p>Participation is open for researchers and students who are interested in the topic of research on online databases in history. There is no participation fee. Participants will be asked to pay for lunch (15 Euro/day) at the Mensa in advance. For those PhD students who submitted a paper or abstract and have been accepted, accommodation is provided as well as parts of the travel expenses which get reimbursed pro rata, funded by the German Science Foundation (DFG).
 </p>
 
             <form name="sentMessage" id="contactForm" novalidate>
