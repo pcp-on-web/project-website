@@ -3,13 +3,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-text">
-                        <span class="de name">Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019, Leipzig</span>
+
                         <span class="en name">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</span>
 
                         <hr class="star-light">
-                        <span class="de skills">Deadline zur Einreichung (verlängert): 01.03.2019, Benachrichtigung über die Annahme: 06.03.2019</span>
                         <span class="en skills">Paper submission deadline: March 1st, 2019 (extended), Final notification to authors: March, 6th 2019</span><br/>
-                        <span class="skills">Call for Papers | <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a> | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
+                        <span class="skills">Call for Papers | <a href="page.php?goto=RODBH2019-AcceptedPapers#en">Accepted Papers</a> |  <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a> | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
                     </div>
                 </div>
             </div>

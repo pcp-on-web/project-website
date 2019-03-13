@@ -7,7 +7,7 @@
                         <span class="en name">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</span>
 
                         <hr class="star-light">
-                        <span class="skills"><a href="page.php?goto=RODBH2019#en">Call for Papers</a> | Agenda | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
+                        <span class="skills"><a href="page.php?goto=RODBH2019#en">Call for Papers</a> | <a href="page.php?goto=RODBH2019-AcceptedPapers#en">Accepted Papers</a> | Agenda | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
 
                     </div>
                 </div>
@@ -25,33 +25,57 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 
 <h3>Agenda</h3>
 
-<p><u>Wednesday, April 3rd, 2019</u></p>
-<ul><li>Arrival</li></ul>
-<p><u>Thursday, April 4th, 2019</u></p>
+<p><u><b>Wednesday, April 3rd, 2019</b></u></p>
+<ul>
+<li>Arrival</li>
+<li>16:00 - 19:00 City Tour (please join after arrival)</li>
+<li>19:00 Dinner</li>
+</ul>
+<p><u><b>Thursday, April 4th, 2019</b></u></p>
 <ul>
 <li>09:30 Coffee and Registration</li>
-<li>10:00 Welcome</li>
-<li>10:30 Session 1:  Doctoral students</li>
+<li><b>10:00 Welcome Session</b></li>
+<li><b>10:30 Session 1:  Doctoral students presetntations (1)</b></li>
 <li>12:00 Lunch at Mensa</li>
-<li>13:00 Session 2: Data for History Meeting (open), new member presentations and current issues </li>
-<li>14:30 Coffee-Break</li>
-<li>15:00 Session 3:  Doctoral students</li>
-<li>16:30 Coffee-Break</li>
-<li>17:00 Discussions and working groups</li>
-<li>18:30 End</li>
-<li>20:00 Dinner</li>
+<li><b>13:00 Session 2: Data for History Meeting</b>
+<ul>
+<li>New member presentations </li>
+<li>Pierre Vernus: SilkNow (project presentation) </li>
+<li>Charles van den Heuvels: DARIAH working group (proposal) </li>
+<li>Sebastian Hellman: DBpedia data bus</li>
 </ul>
-<p><u>Friday, April 5th, 2019</u></p>
+</li>
+<li>14:30 Coffee-Break</li>
+<li><b>15:00 Session 3:  Current Issues on Data for History</b>
+<ul>
+    <li>Richard Light, Marie Puren: Issues about prosopography, networks, etc. </li>
+    <li>Bogumil Szady, Carmen Brando: Issues about geographical places</li>
+    <li>Lodewijk Petram and Sebastiaan Derks, Regina Varniene Janssen, Charles van den Heuvel: Issues about metadata and general modelling</li>
+</ul>
+</li>
+<li><b>16:00</b> Parralel Sessions
+<ul>
+<li><b>Session 4: Doctoral students presentations (2)</b></li>
+<li><b>Session 5: Working Groups</b></li>
+</ul>
+
+</li>
+<li>17:30 Coffee-Break</li>
+<li>18:00 Summary of discussions and working groups</li>
+<li>18:30 End</li>
+<li><b>20:00 Dinner</b></li>
+</ul>
+<p><u><b>Friday, April 5th, 2019</b></u></p>
 <ul>
 <li>09:00 Coffee</li>
-<li>09:30 Session 4: OntoMe workshop (aligning vocabularies and training)</li>
+<li><b>09:30 Session 6: OntoMe workshop (aligning vocabularies and training)</b></li>
 <li>11:00 Coffee-Break</li>
-<li>11:30 Session: Summary of discussions and working groups</li>
+<li><b>11:30 Session 7: Summary, Perspectives, Research Funding</b></li>
 <li>13:00 Lunch at Mensa</li>
 <li>14:00 Additional Workshops</li>
 <li>15:30 End </li>
 </ul>
-<p>Activities like a visit of German National Library will be planned for Wednesday evening and Friday evening.</p>
+<p>Activities like a visit of German National Library will be planned for Friday evening.</p>
 
 <h3>Venue</h3>
 <p>The Doctoral Symposium and Data for History meeting takes place at HTWK Leipzig:</p>

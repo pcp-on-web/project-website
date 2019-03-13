@@ -7,7 +7,7 @@
                         <span class="en name">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</span>
 
                         <hr class="star-light">
-                        <span class="skills"> <a href="page.php?goto=RODBH2019#en">Call for Papers</a> | <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a>  | Registration</span>
+                        <span class="skills"> <a href="page.php?goto=RODBH2019#en">Call for Papers</a> | <a href="page.php?goto=RODBH2019-AcceptedPapers#en">Accepted Papers</a> |  <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a>  | Registration</span>
                     </div>
                 </div>
             </div>

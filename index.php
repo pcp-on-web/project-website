@@ -5,8 +5,12 @@
 
             <!-- News Section -->
             <div id="news">
-                <span>News:</span> 
-                  <a href="page.php?goto=RODBH2019#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a><br/>Paper and Abstract Submission Deadline: March 1st, 2019 (extended)
+                <span class="de">Aktuell:
+                  <a href="page.php?goto=RODBH2019-Agenda#de">Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019, Leipzig</a>
+                </span>
+                <span class="en">News:
+                  <a href="page.php?goto=RODBH2019-Agenda#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a>
+                </span>
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>
              </div>
 
