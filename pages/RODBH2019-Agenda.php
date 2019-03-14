@@ -35,7 +35,7 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 <ul>
 <li>09:30 Coffee and Registration</li>
 <li><b>10:00 Welcome Session</b></li>
-<li><b>10:30 Session 1:  Doctoral students presetntations (1)</b></li>
+<li><b>10:30 Session 1:  Doctoral students presentations (1)</b></li>
 <li>12:00 Lunch at Mensa</li>
 <li><b>13:00 Session 2: Data for History Meeting</b>
 <ul>
@@ -53,7 +53,7 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
     <li>Lodewijk Petram and Sebastiaan Derks, Regina Varniene Janssen, Charles van den Heuvel: Issues about metadata and general modelling</li>
 </ul>
 </li>
-<li><b>16:00</b> Parralel Sessions
+<li><b>16:00</b> Parallel Sessions
 <ul>
 <li><b>Session 4: Doctoral students presentations (2)</b></li>
 <li><b>Session 5: Working Groups</b></li>
