@@ -47,7 +47,8 @@ The listed papers or abstracts have been accepted for presentation at the doctor
 <h3>Developing a Mediated Vocabulary for Video Game Research</h3>
 <p>Tracy Hoffmann</p>
 
-
+<h3>A first draft on a tool for ontology alignment tolerance</h3>
+<p>Loïc Jeanson</p>
 
 
 
