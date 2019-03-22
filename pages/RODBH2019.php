@@ -112,7 +112,7 @@ Gustav-Freytag-Str. 42A, Zi. 507, 04277 Leipzig, Germany<br/></li>
 <p><ul>
 <li><a href="pages/RODBH_2019_CfP.pdf" target="_blank">Call for Papers</a></li>
 <li><a href="pages/RODBH_2019_Organisation.pdf" target="_blank">Information</a></li>
-<li><a href="pages/RODBH_2019_Poster.pdf" target="_blank">Poster</a></li>
+<li>Poster <a href="pages/RODBH_2019_Poster.pdf" target="_blank">PDF</a>, <li><a href="pages/RODBH_2019_Poster.png" target="_blank">PNG</a></li></li>
 </ul>
 </p>
 

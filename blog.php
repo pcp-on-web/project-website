@@ -130,7 +130,7 @@ Die Digitalisierung von Quellen und Forschungsergebnissen ist eines der Hauptthe
 <?php echo section_end(); ?> 
 
 
-<?php echo section_begin("Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek","Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek",$i++,true,"20.10.2017 - Jennifer Blanke"); ?> 
+<?php echo section_begin('Workshop „Gelehrtenkarrieren vom Mittelalter bis ins 20. Jahrhundert: Datenanalyse und Forschungsperspektiven“ - 20.–21. November 2017, Herzog August Bibliothek','Workshop „Scholars Careers from the Middle Ages to the 20th Century: Data Analysis and Research Perspectives“ - Nov, 20th/21st 2017, Herzog August Bibliothek',$i++,true,'20.10.2017 - Jennifer Blanke'); ?> 
 
 <p class="de">Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte“, durchgeführt in Kooperation von der Herzog August Bibliothek Wolfenbüttel und der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zu einem Doktorandenworkshop zur Erforschung gelehrter Karrieremuster mit Methoden der Digital Humanities ein.<!--more-->
 Leitfrage des Projekts ist die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneuzeitlichen Universitätssystem. Wem gelang an einer vormodernen Landesuniversität die Berufung auf eine Professur, und welche Abfolgen von Professuren und Ämtern lassen sich in den Biographien erkennen? Welche wissenschaftlichen und politischen Netzwerke beeinflussen den beruflichen Erfolg von
@@ -176,7 +176,7 @@ The workshop is organized in cooperation with the Descartes Centre for the Histo
 
 <p class="en">The FDM2017 workshop within the framework of INFORMATIK 2017 conference addresses the inclusion of available heterogeneous databases and linked open data in current research questions.<!--more--> While established data management structures have already been established in specialized research areas in scientific sciences, these methods are becoming increasingly interesting for research questions in the humanities and social sciences. The relevant research processes and the information systems supporting them are currently the subject of current research. In particular, questions concerning data protection, copyright protection, data collection and archiving on the part of process management as well as virtualization, availability, the provision of services and the requirements analysis in the research process on the part of the information systems are in the foreground. In this context, the workshop also addresses data, knowledge, software engineers and users in the IT departments of research facilities, libraries, archives, information suppliers and other interested users. The workshop languages ​​are German and English.</p>
 
-<ul>
+<ul>    
 <li><b>Organisation: </b><ul>
     <li>Thomas Riechert, Hochschule für Technik, Wirtschaft und Kultur Leipzig</li>
     <li>Toralf Kirsten, Leipzig Research Centre for Civilization Diseases</li>

@@ -63,7 +63,7 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 <li>17:30 Coffee-Break</li>
 <li>18:00 Summary of discussions and working groups</li>
 <li>18:30 End</li>
-<li><b>20:00 Dinner</b></li>
+<li><b>20:00 Conference Dinner</b></li>
 </ul>
 <p><u><b>Friday, April 5th, 2019</b></u></p>
 <ul>
@@ -97,6 +97,14 @@ Phone: +49 341 30330 Fax: +49 341 3033555 E-Mail: info@hotel-leonardo.de
 <p>The organizer committee is happy to answer any request regarding the event: Edgard Marx (Leipzig University of Applied Sciences, Germany, edgard.marx@htwk-leipzig.de), Jennifer Blanke (Herzog-August Library, Wolfenbüttel, Germany, blanke@hab.de) and Vincent Alamercery (École normale supérieure de Lyon, France, vincent.alamercery@ens-lyon.fr). </p>
 <p>Thomas Riechert, thomas.riechert@htwk-leipzig.de<p>
 
+<h3>Downloads</h3>
+
+<p><ul>
+<li><a href="pages/RODBH_2019_CfP.pdf" target="_blank">Call for Papers</a></li>
+<li><a href="pages/RODBH_2019_Organisation.pdf" target="_blank">Information</a></li>
+<li>Poster <a href="pages/RODBH_2019_Poster.pdf" target="_blank">PDF</a>, <li><a href="pages/RODBH_2019_Poster.png" target="_blank">PNG</a></li></li>
+</ul>
+</p>
 
     <!-- End Partner Content -->
     <?php echo section_end(); ?> 

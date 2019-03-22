@@ -197,6 +197,11 @@ research project a method will be developed based on HCRM and be evaluated by st
 
 		echo '<p class="entry"><a href="blog.php#'.strtolower(preg_replace('/[^A-Za-z0-9-]+/', '-', $items[1])).'"><span class="de">'.$items[1].'</span><span class="en">'.$items[3].'</span></a> '.$abstract_de.$abstract_en.'<br/><span class="de">Veröffentlicht am </span><span class="en">Published: </span>'.$items[5].'</p>';
 		$i++;
+
+        if ($i==5) {
+            echo '<p><span class="de"><a href="'.$base.'blog.php#de">Weitere Blogeinträge ...</a></span><span class="en"><a href="'.$base.'blog.php#en">More Articles ...</a></span></p>';
+            exit;
+        };
 	}
      ?>
 
