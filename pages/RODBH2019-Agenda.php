@@ -29,53 +29,78 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 <ul>
 <li>Arrival</li>
 <li>16:00 - 19:00 City Tour (please join after arrival)</li>
-<li>19:00 Dinner</li>
+<li>19:30 Dinner</li>
 </ul>
+
 <p><u><b>Thursday, April 4th, 2019</b></u></p>
+
 <ul>
 <li>09:30 Coffee and Registration</li>
 <li><b>10:00 Welcome Session</b></li>
-<li><b>10:30 Session 1:  Doctoral students presentations (1)</b></li>
-<li>12:00 Lunch at Mensa</li>
-<li><b>13:00 Session 2: Data for History Meeting</b>
+
+<li><b>10:15 Session 1:  Doctoral students presentations</b></li>
 <ul>
-<li>New member presentations </li>
-<li>Pierre Vernus: SilkNow (project presentation) </li>
-<li>Charles van den Heuvels: DARIAH working group (proposal) </li>
-<li>Sebastian Hellman: DBpedia data bus</li>
-</ul>
-</li>
-<li>14:30 Coffee-Break</li>
-<li><b>15:00 Session 3:  Current Issues on Data for History</b>
-<ul>
-    <li>Richard Light, Marie Puren: Issues about prosopography, networks, etc. </li>
-    <li>Bogumil Szady, Carmen Brando: Issues about geographical places</li>
-    <li>Lodewijk Petram and Sebastiaan Derks, Regina Varniene Janssen, Charles van den Heuvel: Issues about metadata and general modelling</li>
-</ul>
-</li>
-<li><b>16:00</b> Parallel Sessions
-<ul>
-<li><b>Session 4: Doctoral students presentations (2)</b></li>
-<li><b>Session 5: Working Groups</b></li>
+    <li>Robert Nasarek (Universität Halle-Wittenberg, Germany) - Ontology of Occupations.</li>
+    <li>Christopher Pollin (Universität Graz, Austria) - Digital Edition Publishing Cooperative for Historical Accounts and the Bookkeeping Ontology.</li>
+    <li>Loïc Jeanson (Université de Nantes, France) - A first draft on a tool for ontology alignment tolerance.</li>
+		<li>Erik Radisch (Universität Passau, Germany) - Automated Georesolution of Place Names in Serial Sources.</li>
+    <li>Tracy Hoffmann (Universität Leipzig, Germany) - Developing a Mediated Vocabulary for Video Game Research.</li>
+    <li>Karl Pineau (Université de Technologie de Compiègne, France) - Definition of the life cycle of cultural goods, a challenge for the knowledge engineering industry.</li>
 </ul>
 
-</li>
-<li>17:30 Coffee-Break</li>
+<li>12:30 Lunch at Mensa</li>
+
+<li><b>13:30 Session 2: Data for History Meeting</b></li>
+<ul>
+<li>Data for History meeting opening</li>
+<li>New member presentations </li>
+<li>Pierre Vernus (Université de Lyon), The H2020 SilkNow project</li> 
+<li>Sebastian Hellmann (Universität Leipzig - InfAI, DBpedia), DBpedia data bus</li>
+</ul>
+
+<li>14:45 Coffee-Break</li>
+
+<li><b>15:00 Session 3: Data for History working groups and members issues</b></li>
+<ul>
+<li>Charles van den Heuvel (Huygens ING - Amsterdam) and Francesco Beretta (CNRS - Université de Lyon), Governance of the consortium and DARIAH working group</li>
+<li>Prosopography, networks:</li>
+	<ul>
+	<li>Richard Light (Free UK Genealogy), Framework for information about people</li>
+	<li>Marie Puren (Université de Lyon), Creating new CIDOC CRM classes and properties to describe silk-related artefacts</li>
+	</ul>
+<li>Geographical places:</li>
+	<ul>
+	<li>Bogumił Szady (Katolicki Uniwersytet Lubelski Jana Pawła II - Lublin), Settlement and administrative units types</li>
+	<li>Carmen Brando (EHESS - Paris), Publishing historical gazetteers & alignments to ontologies</li>
+	</ul>
+<li>Metadata and general modelling:</li>
+	<ul><li>Lodewijk Petram, Sebastiaan Derks (Huygens ING - Amsterdam), How to facilitate multi-perspective data exploration?</li>
+	<li>Regina Varnienė-Janssen (Vilniaus universitetas), CIDOC CRM Based Provenance Metadata  for Interoperability of Cultural and Research data</li>
+	<li>Charles van den Heuvel (Huygens ING - Amsterdam), Ontologies for storyline</li>
+	</ul>
+</ul>
+<li>16:30 Coffee-Break</li>
+<li><b>16:45 Session 4:  Parallel working groups on presented issues</b></li>
 <li>18:00 Summary of discussions and working groups</li>
 <li>18:30 End</li>
 <li><b>20:00 Conference Dinner</b></li>
 </ul>
+
 <p><u><b>Friday, April 5th, 2019</b></u></p>
+
 <ul>
 <li>09:00 Coffee</li>
-<li><b>09:30 Session 6: OntoMe workshop (aligning vocabularies and training)</b></li>
+<li><b>09:30 Session 5: OntoMe workshop</b></li>
+<ul><li>Francesco Beretta, Vincent Alamercery (Université de Lyon), Aligning vocabularies – presentation of general data alignment workflow
 <li>11:00 Coffee-Break</li>
-<li><b>11:30 Session 7: Summary, Perspectives, Research Funding</b></li>
+<li><b>11:30 Session 6: Summary, Perspectives, Research Funding, Administrative issues</b></li>
+<ul><li><i>Chair: Chair: Francesco Beretta and George Bruseker</i></li></ul>
 <li>13:00 Lunch at Mensa</li>
 <li>14:00 Additional Workshops</li>
+<ul><li>OntoME training</li><li>3m demonstration</li></ul>
 <li>15:30 End </li>
 </ul>
-<p>Activities like a visit of German National Library will be planned for Friday evening.</p>
+<p>Activities like a visit of German National Library museum are planned for Friday evening.</p>
 
 <h3>Venue</h3>
 <p>The Doctoral Symposium and Data for History meeting takes place at HTWK Leipzig:</p>
