@@ -28,7 +28,7 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 <p><u><b>Wednesday, April 3rd, 2019</b></u></p>
 <ul>
 <li>Arrival</li>
-<li>16:00 - 19:00 City Tour (please join after arrival)</li>
+<li>17:00 - 19:00 City Tour (please join after arrival)</li>
 <li>19:30 Dinner</li>
 </ul>
 
