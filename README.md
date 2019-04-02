@@ -1,6 +1,6 @@
 # Project Website - PCP-on-Web
 
-http://catalogus-professorum.org/projects/pcp-on-web/
+https://pcp-on-web.htwk-leipzig.de
 
 This repository contains the website of the researchprojet
 
