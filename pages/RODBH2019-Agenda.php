@@ -92,7 +92,9 @@ The Doctoral Symposium is hosted by the Leipzig University of Applied Science, F
 <li>09:00 Coffee</li>
 <li><b>09:30 Session 5: OntoMe workshop</b></li>
 <ul><li>Francesco Beretta, Vincent Alamercery (Université de Lyon), Aligning vocabularies – presentation of general data alignment workflow
+	</li></ul>
 <li>11:00 Coffee-Break</li>
+	
 <li><b>11:30 Session 6: Summary, Perspectives, Research Funding, Administrative issues</b></li>
 <ul><li><i>Chair: Chair: Francesco Beretta and George Bruseker</i></li></ul>
 <li>13:00 Lunch at Mensa</li>
