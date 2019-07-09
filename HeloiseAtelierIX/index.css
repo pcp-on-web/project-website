@@ -1,0 +1,145 @@
+body {
+  font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+  margin: 1em 5% 1.0em 5%;
+	display: flex;
+	flex-flow: row wrap;
+}
+
+header, footer, figure {
+  flex: 1 100%;
+}
+
+article.text {
+  flex: 1 100%;
+  padding: 0 16%;
+}
+
+.mobile article.text {
+  flex: 1 100%;
+  padding: 0 2%;
+}
+
+article.vertical {
+  flex: 1 25%;
+  padding: 0 2%;
+}
+
+.mobile article.vertical {
+  flex: 1 100%;
+}
+
+h1 {
+    font-size: 6.5rem;
+    line-height: 130%;
+    font-weight: 400;
+    text-align: center;
+    margin: 0.2em 0;
+}
+
+.mobile h1 {
+    font-size: 4.5rem;
+    line-height: 130%;
+    font-weight: 400;
+    text-align: center;
+    margin: 0.2em 0;
+}
+
+h2 {
+    font-size: 3.2rem;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin: 1.0em 0 0.5em 0;
+}
+
+.mobile h2 {
+    font-size: 2.8rem;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin: 1.0em 0 0.4em 0;
+}
+
+h3 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3em;
+    text-align: center;
+    margin: 2em 0 1.2em 0;
+}
+
+.mobile h3 {
+    margin: 1em 0 1em 0;
+}
+
+h4 {
+    font-size: 1.2rem;
+    font-weight: 100;
+    text-align: center;
+    margin: 4em 0 0 0;
+    font-style: italic;
+}
+
+p {
+    font-family: Open Sans;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.3em;
+    margin: 0 0 0.5em 0;
+}
+
+ul {
+    font-family: Open Sans;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.3em;
+    margin: 0 0 0.2em 0;
+    list-style-type: square;
+}
+
+li {
+    margin-bottom: 5%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: rgb(245, 245, 245);
+    }
+
+img {
+    max-width: 7%;
+    margin: 0 0 0 43%;
+}
+
+.mobile img {
+   max-width: 22%;
+    margin: 0 0 -8% 43%;
+}
+
+hr {
+	width: 100%;
+    height: 0.025em;
+    margin: -5% 60% 6% 0;
+    background: black;
+}
+
+.text {
+
+	clear: both;
+}
+
+.impress {
+
+	clear: both;
+}
+
+footer {
+  font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+  text-align: center;
+  margin: 1.5em 4.5% 0.2em 4.5%;
+}
+
+
