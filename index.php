@@ -6,13 +6,13 @@
             <!-- News Section -->
             <div id="news">
                 <span class="de">Aktuell:
-                  <a href="HeloiseAtelierIX">
+                  <a href="HeloiseAtelierIX/">
 IX Workshop Héloïse – European Network on Digital Academic History
-11th to 13th November 2019, Leipzig, Germany
+11. bis 13. November 2019, Leipzig
 </a>
                 </span>
                 <span class="en">News:
-                  <a href="HeloiseAtelierIX">
+                  <a href="HeloiseAtelierIX/">
 IX Workshop Héloïse – European Network on Digital Academic History
 11th to 13th November 2019, Leipzig, Germany
 </a>
