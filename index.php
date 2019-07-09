@@ -6,10 +6,16 @@
             <!-- News Section -->
             <div id="news">
                 <span class="de">Aktuell:
-                  <a href="page.php?goto=RODBH2019-Agenda#de">Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019, Leipzig</a>
+                  <a href="HeloiseAtelierIX">
+IX Workshop Héloïse – European Network on Digital Academic History
+11th to 13th November 2019, Leipzig, Germany
+</a>
                 </span>
                 <span class="en">News:
-                  <a href="page.php?goto=RODBH2019-Agenda#en">Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig</a>
+                  <a href="HeloiseAtelierIX">
+IX Workshop Héloïse – European Network on Digital Academic History
+11th to 13th November 2019, Leipzig, Germany
+</a>
                 </span>
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>
              </div>
