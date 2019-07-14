@@ -72,6 +72,9 @@ if (basename($_SERVER["SCRIPT_FILENAME"], '.php')=="index") $base=""; else $base
                     <li class="page-scroll">
                         <a href="<?php echo $base;?>#portfolio">Portfolio</a>
                     </li>
+					<li class="page-scroll">
+                        <a href="<?php echo $base;?>#portfolio">Dataset</a>
+                    </li>
                     <li class="page-scroll">
                         <a href="<?php echo $base;?>#blog">Blog</a>
                     </li>
