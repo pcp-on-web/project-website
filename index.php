@@ -179,9 +179,51 @@ research project a method will be developed based on HCRM and be evaluated by st
 
     <!-- End Portfolio Content -->
     <?php echo section_end(); ?>
+	
+	
+	<?php echo section_begin("Dataset","Dataset",3); ?> 
+
+    <!-- Beginn DATASET Content -->
+	<span>
+
+		<p>The project is producing a unique dataset and ontology that can be used and extended by historian researchers.<br />The current dataset consists of data from Helmstedt and Leipzig University scholar professors from early modern history (16th to 18 century).<br />This data was extracted from Leipzig and Helmstedt Professor's Catalog:</p>
+		<ul>
+		<li><a href="https://catalogus-professorum.org/">https://catalogus-professorum.org/</a></li>
+		<li><a href="http://uni-helmstedt.hab.de/?cPage=6&amp;sPage=prof">http://uni-helmstedt.hab.de/?cPage=6&amp;sPage=prof</a></li>
+		</ul>
+		<p>It also contains data extracted from VD16, VD17, and VD18 datasets:</p>
+		<ul>
+		<li>VD16:&nbsp;<a href="https://www.bsb-muenchen.de/sammlungen/historische-drucke/recherche/vd-16/">https://www.bsb-muenchen.de/sammlungen/historische-drucke/recherche/vd-16/</a></li>
+		<li>VD17:&nbsp;<a href="http://www.vd17.de/">http://www.vd17.de/</a></li>
+		<li>VD:18:&nbsp;<a href="https://gso.gbv.de/DB=1.65/">https://gso.gbv.de/DB=1.65/</a></li>
+		</ul>
+		<p>The easier way of querying and accessing the dataset is over KBox,&nbsp;a distributed data catalog publishing system that enables to share and query RDF knowledge graphs.&nbsp;For more information on KBox, access&nbsp;<a href="http://github.com/AKSW/KBox">http://github.com/AKSW/KBox</a>. For querying the PCP-On-Web data, download KBox <em>v0.0.2-alpha&nbsp;</em>and use the following command to create your own SPARQL endpoint using with the data:</p>
+		<p style="padding-left: 30px;"><em>java -jar kbox-v0.0.2-alpha.jar -server -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</em></p>
+		<p>Write your SPARQL queries at the Web-Client accessible over&nbsp;<a href="http://localhost:8080">http://localhost:8080</a>.</p>
+		<p>Notice that the command above includes three datasets:</p>
+		<ul>
+		<li>The PCP-on-Web ontology:&nbsp; http://purl.org/pcp-on-web/ontology;</li>
+		<li>The PCP-on-Web dataset:&nbsp;<em>http://purl.org/pcp-on-web/dataset;</em></li>
+		<li>and the VD16, VD17, VD18 datasets:&nbsp;http://purl.org/pcp-on-web/vd.</li>
+		</ul>
+		<p>You can also instantiate with only the dataset that you want to use e.g.&nbsp; http://purl.org/pcp-on-web/vd.</p>
+		<p>There is also the option of quering the dataset via command-line:</p>
+		<p style="padding-left: 30px;"><em>java -jar kbox-v0.0.2-alpha.jar -query "select ?s ?p ?o where {?s ?p?o}" -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</em></p>
+		<p>In the example above, we list all triples (?s ?p ?o) from the dataset. You can also download or report issues in our Github repositories:</p>
+		<ul>
+		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
+		<li>dataset:&nbsp;<a href="https://github.com/pcp-on-web/helmstedt-leipzig-dataset">https://github.com/pcp-on-web/helmstedt-leipzig-dataset</a></li>
+		</ul>
+
+
+	</span>
+
+    <!-- End Ziele Content -->
+    <?php echo section_end(); ?> 
+	
 
     <!-- Blog Section -->
-    <?php echo section_begin("Blog","Blog",3,true); ?> 
+    <?php echo section_begin("Blog","Blog",4,true); ?> 
 
     <!-- Beginn Blog Content -->
 
@@ -217,7 +259,7 @@ research project a method will be developed based on HCRM and be evaluated by st
     <?php echo section_end(); ?>
  
     <!-- Publication Section -->
-    <?php echo section_begin("Publikationen","Publications",4); ?> 
+    <?php echo section_begin("Publikationen","Publications",5); ?> 
 
     <!-- Beginn Publication Content -->
 
