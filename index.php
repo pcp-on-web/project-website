@@ -207,15 +207,18 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<li>and the VD16, VD17, VD18 datasets:&nbsp;http://purl.org/pcp-on-web/vd.</li>
 		</ul>
 		<p>You can also instantiate with only the dataset that you want to use e.g.&nbsp; http://purl.org/pcp-on-web/vd.</p>
-		<p>There is also the option of quering the dataset via command-line:</p>
+		<p>There is also the option of querying the dataset via command-line:</p>
 		<p style="padding-left: 30px;"><em>java -jar kbox-v0.0.2-alpha.jar -query "select ?s ?p ?o where {?s ?p?o}" -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</em></p>
 		<p>In the example above, we list all triples (?s ?p ?o) from the dataset. You can also download or report issues in our Github repositories:</p>
 		<ul>
 		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
 		<li>dataset:&nbsp;<a href="https://github.com/pcp-on-web/helmstedt-leipzig-dataset">https://github.com/pcp-on-web/helmstedt-leipzig-dataset</a></li>
 		</ul>
-
-
+		<p>If you are a hardcore user and want to download the file or keep track of it changes, you can download the dataset at:</p>
+		<ul>
+		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
+		<li>dataset:&nbsp;<a href="https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web">https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web</a></li>
+		</ul>
 	</span>
 
     <!-- End Ziele Content -->
