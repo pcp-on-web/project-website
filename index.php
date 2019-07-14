@@ -196,7 +196,7 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<li>VD17:&nbsp;<a href="http://www.vd17.de/">http://www.vd17.de/</a></li>
 		<li>VD:18:&nbsp;<a href="https://gso.gbv.de/DB=1.65/">https://gso.gbv.de/DB=1.65/</a></li>
 		</ul>
-		<p>The easier way of querying and accessing the dataset is over KBox,&nbsp;a distributed data catalog publishing system that enables to share and query RDF knowledge graphs.&nbsp;For more information on KBox, access&nbsp;<a href="http://github.com/AKSW/KBox">http://github.com/AKSW/KBox</a>. For querying the PCP-On-Web data, download KBox <em>v0.0.2-alpha&nbsp;</em>and use the following command to create your own SPARQL endpoint using with the data:</p>
+		<p>The easier way of querying and accessing the dataset is over KBox,&nbsp;a distributed data catalog publishing system that enables to share and query RDF knowledge graphs.&nbsp;For more information on KBox, access&nbsp;<a href="http://github.com/AKSW/KBox">http://github.com/AKSW/KBox</a>. For querying the PCP-On-Web data, download KBox <em>v0.0.2-alpha&nbsp;</em>and use the following command to create your own SPARQL endpoint using the project datasets:</p>
 		<p style="padding-left: 30px;"><em>java -jar kbox-v0.0.2-alpha.jar -server -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</em></p>
 		<p>Write your SPARQL queries at the Web-Client accessible over&nbsp;<a href="http://localhost:8080">http://localhost:8080</a>.</p>
 		<p>Notice that the command above includes three datasets:</p>
@@ -205,7 +205,7 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<li>The PCP-on-Web dataset:&nbsp;<em>http://purl.org/pcp-on-web/dataset;</em></li>
 		<li>and the VD16, VD17, VD18 datasets:&nbsp;http://purl.org/pcp-on-web/vd.</li>
 		</ul>
-		<p>You can also instantiate with only the dataset that you want to use e.g.&nbsp; http://purl.org/pcp-on-web/vd.</p>
+		<p>You can also query different datasets by restricting -kb command line e.g.&nbsp; -kb "http://purl.org/pcp-on-web/vd" in case you want to query only the VD datasets.</p>
 		<p>There is also the option of querying the dataset via command-line:</p>
 		<p style="padding-left: 30px;"><em>java -jar kbox-v0.0.2-alpha.jar -query "select ?s ?p ?o where {?s ?p?o}" -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</em></p>
 		<p>In the example above, we list all triples (?s ?p ?o) from the dataset. You can also download or report issues in our Github repositories:</p>
@@ -213,7 +213,7 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
 		<li>dataset:&nbsp;<a href="https://github.com/pcp-on-web/helmstedt-leipzig-dataset">https://github.com/pcp-on-web/helmstedt-leipzig-dataset</a></li>
 		</ul>
-		<p>If you are a hardcore user and want to download the file or keep track of it changes, you can download the dataset at:</p>
+		<p>If you are a hardcore user and want to download the dataset dump files or keep track of it changes, you can download the dataset at:</p>
 		<ul>
 		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
 		<li>dataset:&nbsp;<a href="https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web">https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web</a></li>
