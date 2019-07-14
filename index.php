@@ -184,7 +184,6 @@ research project a method will be developed based on HCRM and be evaluated by st
 	<?php echo section_begin("Dataset","Dataset",3); ?> 
 
     <!-- Beginn DATASET Content -->
-	<span>
 
 		<p>The project is producing a unique dataset and ontology that can be used and extended by historian researchers.<br />The current dataset consists of data from Helmstedt and Leipzig University scholar professors from early modern history (16th to 18 century).<br />This data was extracted from Leipzig and Helmstedt Professor's Catalog:</p>
 		<ul>
@@ -219,9 +218,8 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<li>ontology:&nbsp;<a href="https://github.com/pcp-on-web/ontology">https://github.com/pcp-on-web/ontology</a></li>
 		<li>dataset:&nbsp;<a href="https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web">https://gitlab.imn.htwk-leipzig.de/emarx/pcp-on-web</a></li>
 		</ul>
-	</span>
 
-    <!-- End Ziele Content -->
+    <!-- End Dataset Content -->
     <?php echo section_end(); ?> 
 	
 
