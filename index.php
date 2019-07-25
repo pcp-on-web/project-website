@@ -188,7 +188,7 @@ research project a method will be developed based on HCRM and be evaluated by st
 		<p>The project is producing a unique dataset and ontology that can be used and further extended for historian research.<br />The current dataset consists of data about scholars at the universities of Helmstedt and Leipzig in the Early Modern period (16th to 18 century).<br />The data was extracted from the Leipzig Professor's Catalogue and the Helmstedt Portal, i.a. the Helmstedt Professor's Catalogue:</p>
 		<ul>
 		<li><a href="https://catalogus-professorum.org/">https://catalogus-professorum.org/</a></li>
-		<li><a href="http://uni-helmstedt.hab.de/index.php?cPage=0&sPage=title>http://uni-helmstedt.hab.de/index.php?cPage=0&sPage=title</a></li>
+		<li><a href="http://uni-helmstedt.hab.de">http://uni-helmstedt.hab.de</a></li>
 		</ul>
 		<p>Furthermore, it contains data extracted from the VD16, VD17, and VD18 datasets:</p>
 		<ul>
