@@ -185,20 +185,20 @@ research project a method will be developed based on HCRM and be evaluated by st
 
     <!-- Beginn DATASET Content -->
 
-		<p>The project is producing a unique dataset and ontology that can be used and extended by historian researchers.<br />The current dataset consists of data from Helmstedt and Leipzig University scholar professors from early modern history (16th to 18 century).<br />This data was extracted from Leipzig and Helmstedt Professor's Catalog:</p>
+		<p>The project is producing a unique dataset and ontology that can be used and further extended for historian research.<br />The current dataset consists of data about scholars at the universities of Helmstedt and Leipzig in the Early Modern period (16th to 18 century).<br />The data was extracted from the Leipzig Professor's Catalogue and the Helmstedt Portal, i.a. the Helmstedt Professor's Catalogue:</p>
 		<ul>
 		<li><a href="https://catalogus-professorum.org/">https://catalogus-professorum.org/</a></li>
-		<li><a href="http://uni-helmstedt.hab.de/?cPage=6&amp;sPage=prof">http://uni-helmstedt.hab.de/?cPage=6&amp;sPage=prof</a></li>
+		<li><a href="http://uni-helmstedt.hab.de/index.php?cPage=0&sPage=title>http://uni-helmstedt.hab.de/index.php?cPage=0&sPage=title</a></li>
 		</ul>
-		<p>It also contains data extracted from VD16, VD17, and VD18 datasets:</p>
+		<p>Furthermore, it contains data extracted from the VD16, VD17, and VD18 datasets:</p>
 		<ul>
 		<li>VD16:&nbsp;<a href="https://www.bsb-muenchen.de/sammlungen/historische-drucke/recherche/vd-16/">https://www.bsb-muenchen.de/sammlungen/historische-drucke/recherche/vd-16/</a></li>
 		<li>VD17:&nbsp;<a href="http://www.vd17.de/">http://www.vd17.de/</a></li>
 		<li>VD:18:&nbsp;<a href="https://gso.gbv.de/DB=1.65/">https://gso.gbv.de/DB=1.65/</a></li>
 		</ul>
-		<p>The easier way of querying and accessing the dataset is over KBox,&nbsp;a distributed data catalog publishing system that enables to share and query RDF knowledge graphs.&nbsp;For more information on KBox, access&nbsp;<a href="http://github.com/AKSW/KBox">http://github.com/AKSW/KBox</a>. For querying the PCP-On-Web data, download KBox <em>v0.0.2-alpha&nbsp;</em>and use the following command to create your own SPARQL endpoint using the project datasets:</p>
+		<p>The easiest way of querying and accessing the dataset is by KBox,&nbsp;a distributed data catalogue publishing system that enables to share and query RDF knowledge graphs.&nbsp;For more information on KBox, access&nbsp;<a href="http://github.com/AKSW/KBox">http://github.com/AKSW/KBox</a>. For querying the PCP-On-Web data, download KBox <em>v0.0.2-alpha&nbsp;</em>and use the following command to create your own SPARQL endpoint using the project datasets:</p>
 		<blockquote style="background: #eee;  padding: 15px;">java -jar kbox-v0.0.2-alpha.jar -server -kb "http://purl.org/pcp-on-web/ontology,http://purl.org/pcp-on-web/dataset,http://purl.org/pcp-on-web/vd" -install</blockquote>
-		<p>Write your SPARQL queries at the Web-Client accessible over&nbsp;<a href="http://localhost:8080">http://localhost:8080</a>.</p>
+		<p>Write your SPARQL queries directly on the Web-Client accessible by&nbsp;<a href="http://localhost:8080">http://localhost:8080</a>.</p>
 		<p>Notice that the command above includes three datasets:</p>
 		<ul>
 		<li>The PCP-on-Web ontology:&nbsp; http://purl.org/pcp-on-web/ontology;</li>
