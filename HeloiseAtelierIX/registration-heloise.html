@@ -7,6 +7,7 @@
 		<title>IX Workshop Héloïse - European Network on Digital Academic History</title>
 		<link rel="stylesheet" href="index.css">
 		<script src="index.js"></script>
+
     </head>
     
 	<body>
@@ -28,7 +29,7 @@
 		        	<h2>Agenda</h2> <hr>
 			          <ul>
 			         	<li>Nov, 11<sup>th</sup> – 12<sup>th</sup>: Bibliotheca Albertina, Beethovenstraße 6, 04107 Leipzig</li>
-			         	<li>Nov 13<sup>th</sup>: Hochschule für Technik, Wirtschaft und Kultur, Gustav-Freytag-Str. 42, 04277 Leipzig</li>
+			         	<li>Nov, 13<sup>th</sup>: Hochschule für Technik, Wirtschaft und Kultur, Gustav-Freytag-Str. 42, 04277 Leipzig</li>
 			         </ul>
                 
 		</article>
@@ -62,6 +63,7 @@
 
 		<article class="text">
 
+			<!-- form-part -->
 			<h2>Registration for Heloise Members</h2>
 			<p class="headline">(open until October, 15th)</p> 
 
@@ -72,21 +74,23 @@
 
 
 
-<form name="sentMessage" id="contactForm" novalidate="">
+<form action="email.php" method="post">
+
+			<!-- form-part -->
 
 					<h3>Personal Information</h3>
 
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Name</label>
-                  <input class="form-control" id="name" type="text" placeholder="Name" required="" data-validation-required-message="Please enter your name.">
+                  <input class="form-control" id="name" name="name" type="text" placeholder="Name" required="" data-validation-required-message="Please enter your name."><!-- name --></input>
                   <p class="help-block text-danger"></p>
                 </div>
 							<div>
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Institution</label>
-                  <input class="form-control" id="name" type="text" placeholder="Institution" required="" data-validation-required-message="Please enter institution name.">
+                  <input class="form-control" id="institution" name="institution" type="text" placeholder="Institution" required="" data-validation-required-message="Please enter institution name."><!-- institution --></input>
                   <p class="help-block text-danger"></p>
                 </div>
 							<div>
@@ -95,7 +99,7 @@
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Country</label>
-                  <input class="form-control" id="country" type="text" placeholder="Country" required="" data-validation-required-message="Please enter your country.">
+                  <input class="form-control" id="country" name="country" type="text" placeholder="Country" required="" data-validation-required-message="Please enter your country."><!-- country --></input>
                   <p class="help-block text-danger"></p>
 
                 </div>
@@ -103,7 +107,7 @@
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Email Address</label>
-                  <input class="form-control" id="email" type="email" placeholder="Email Address" required="" data-validation-required-message="Please enter your email address.">
+                  <input class="form-control" id="email" name="email" type="email" placeholder="Email Address" required="" data-validation-required-message="Please enter your email address."><!-- email --></input>
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
@@ -115,7 +119,7 @@
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Presentation</label>
-                  <input class="form-control" id="presentation" type="text" placeholder="Titel of presentation" >
+                  <input class="form-control" id="presentation_title" name="presentation_title" type="text" placeholder="Titel of presentation" ><!-- presentation_title --></input>
                   <p class="help-block text-danger"></p>
                 </div>
 							<div>
@@ -124,8 +128,9 @@
                 <div class="form-group floating-label-form-group controls">
                   <label>Presentation</label>
 									<p>
-									<input id="presentation_type" type="checkbox" name="Full" value="Full"> Full Talk (30 min)<br/>
-									<input id="presentation_type" type="checkbox" name="Impulse" value="Impulse"> Impulse presentation (5 min)
+
+									<input id="presentation_full" type="checkbox" name="presentation_full" value="yes"> Full Talk (30 min)<br/>
+									<input id="presentation_impulse" type="checkbox" name="presentation_impulse" value="yes"> Impulse presentation (5 min)
     							</p>            
 								</div>
 							<div>
@@ -141,23 +146,23 @@
 									
 									<p class="headline">Sunday, November 10th</p>
 									
-									<input id="participation" type="checkbox" name="Activity_10" value="Activity_10"> Sunday Activity<br/>
-									<input id="participation" type="checkbox" name="Accommodation_10" value="Accommodation_10"> Sunday Accommodation<br/>
+									<input id="participation" type="checkbox" name="Activity_10" value="yes"> Sunday Activity<br/>
+									<input id="participation" type="checkbox" name="Accommodation_10" value="yes"> Sunday Accommodation<br/>
 
 									<p class="headline">Monday, November 11th</p>
 
-									<input id="participation" type="checkbox" name="Workshop_11" value="Workshop_11" checked> Monday Workshop<br/>
-									<input id="participation" type="checkbox" name="Activity_11" value="Activity_11" checked> Monday evening meeting <br/>
-									<input id="participation" type="checkbox" name="Accommodation_11" value="Accommodation_11" checked> Monday Accommodation<br/>
+									<input id="participation" type="checkbox" name="Workshop_11" value="yes" checked> Monday Workshop<br/>
+									<input id="participation" type="checkbox" name="Activity_11" value="yes" checked> Monday evening meeting <br/>
+									<input id="participation" type="checkbox" name="Accommodation_11" value="yes" checked> Monday Accommodation<br/>
 
 									<p class="headline">Tuesday, November 12th</p>
-									<input id="participation" type="checkbox" name="Workshop_12" value="Workshop_12" checked> Tuesday Workshop<br/>
-									<input id="participation" type="checkbox" name="Activity_12" value="Activity_11"> Tuesday evening meeting <br/>
-									<input id="participation" type="checkbox" name="Accommodation_12" value="Accommodation_12"> Tuesday Accommodation<br/>
+									<input id="participation" type="checkbox" name="Workshop_12" value="yes" checked> Tuesday Workshop<br/>
+									<input id="participation" type="checkbox" name="Activity_12" value="yes"> Tuesday evening meeting <br/>
+									<input id="participation" type="checkbox" name="Accommodation_12" value="yes"> Tuesday Accommodation<br/>
 
 									<p class="headline">Wednesday, November 13th</p>
-									<input id="participation" type="checkbox" name="Workshop_13" value="Workshop_13"> Heloise Advisory Committee Meeting<br/>
-									<input id="participation" type="checkbox" name="Activity_13" value="Activity_13"> Wednesday Activity <br/>
+									<input id="participation" type="checkbox" name="Workshop_13" value="yes"> Heloise Advisory Committee Meeting<br/>
+									<input id="participation" type="checkbox" name="Activity_13" value="yes"> Wednesday Activity <br/>
 
 									</p>
 </ul>
@@ -169,13 +174,13 @@
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Message</label>
-                  <textarea class="form-control" id="message" rows="5" placeholder="Message"></textarea>
+                  <textarea class="form-control" id="message" rows="5" name="message" placeholder="Message"></textarea>
                 <div class="help-block"></div></div>
               </div>
               <br>
               <div id="success"></div>
               <div class="form-group">
-<button type="submit" class="btn btn-success btn-lg" id="sendMessageButton">Send</button>
+<input type="submit" name="submit" class="btn btn-success btn-lg" id="sendMessageButton" value="Send"><!-- Send --> </input>
               </div>
 
 
