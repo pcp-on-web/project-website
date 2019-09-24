@@ -63,9 +63,9 @@ h2 {
 h3 {
     font-size: 2.2rem;
     font-weight: 400;
-    line-height: 1.3em;
+    line-height: 1em;
     text-align: center;
-    margin: 2em 0 1.2em 0;
+    margin: 1em 0 0.5em 0;
 }
 
 .mobile h3 {
@@ -142,6 +142,12 @@ hr {
 	clear: both;
 }
 
+p.headline{
+  font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
+	margin-top: 1em;
+	padding-top: 0px;
+}
+
 footer {
   font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
   font-size: 1.5rem;
@@ -150,4 +156,80 @@ footer {
   margin: 1.5em 4.5% 0.2em 4.5%;
 }
 
+
+/* Registration - Form */
+/* ------------------- */
+
+form h3 {
+	text-align: left;
+}
+
+form label, form input, .form-group {
+    font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.3em;
+  margin: 0 0 0.5em 0;
+}
+
+.form-group ul {
+	display: line;
+}
+
+.floating-label-form-group {
+  position: relative;
+  margin-bottom: 0;
+  border-bottom: 1px solid #eeeeee;
+  font-size: 1em;
+
+}
+.floating-label-form-group input[type='text'],
+.floating-label-form-group input[type='email'],
+.floating-label-form-group textarea {
+  z-index: 1;
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  border: none;
+  border-radius: 0;
+  font-size: 1em;
+	width: 100%;
+  background: none;
+  box-shadow: none !important;
+  resize: none;
+}
+.floating-label-form-group label {
+  display: block;
+  z-index: 0;
+  position: relative;
+  top: 2em;
+  margin: 0;
+  font-size: 1em;
+  line-height: 1.764705882em;
+  vertical-align: middle;
+  vertical-align: baseline;
+  opacity: 0;
+  -webkit-transition: top 0.3s ease,opacity 0.3s ease;
+  -moz-transition: top 0.3s ease,opacity 0.3s ease;
+  -ms-transition: top 0.3s ease,opacity 0.3s ease;
+  transition: top 0.3s ease,opacity 0.3s ease;
+}
+.floating-label-form-group:not(:first-child) {
+  padding-left: 14px;
+  border-left: 1px solid #eeeeee;
+}
+.floating-label-form-group-with-value label {
+  top: 0;
+  opacity: 1;
+}
+.floating-label-form-group-with-focus label {
+  color: #f8eb9a;
+}
+form .row:first-child .floating-label-form-group {
+  border-top: 1px solid #eeeeee;
+}
+
+.form-group {
+	padding: 0px; margin: 0px;
+}
 
