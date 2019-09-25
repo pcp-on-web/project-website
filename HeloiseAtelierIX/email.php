@@ -1,12 +1,13 @@
 <?php 
-if(isset($_POST['submit'])){
+if((isset($_POST['submit']))&&(isset($_SERVER['HTTP_REFERER']))){
 
 		/* This code is to find all post elements */
 		
-		
+		$refer=$_SERVER['HTTP_REFERER'];
+		$refer=substr($refer,strrpos($refer,'/')+1);
 
 		error_reporting(E_ALL);
-		$site = file_get_contents('registration-heloise.html');
+		$site = file_get_contents($refer);
 
 		$teile = explode("<!-- form-part -->", $site);
 		echo $teile[0];
