@@ -57,7 +57,7 @@ if((isset($_POST['submit']))&&(isset($_SERVER['HTTP_REFERER']))){
 		echo $form;
 
 		$empfaenger = 'thomas.riechert@htwk-leipzig.de';
-		$betreff = 'Heloise IX Registration '.$_POST['name'];
+		$betreff = 'Heloise IX '.$refer.' '.$_POST['name'];
 		$nachricht = '';
 		foreach ($_POST as $param_name => $param_val) {
 				if ($param_val=='yes') $nachricht .= $param_name."\n"; 				
