@@ -30,8 +30,8 @@ if((isset($_POST['submit']))&&(isset($_SERVER['HTTP_REFERER']))){
 		if(isset($_POST['country'])) $form = str_replace('<!-- country --></input>',$_POST['country'].'</input>',$form);
 		if(isset($_POST['email'])) $form = str_replace('<!-- email --></input>',$_POST['email'].'</input>',$form);
 		if(isset($_POST['presentation_title'])) $form = str_replace('<!-- presentation_title --></input>',$_POST['presentation_title'].'</input>',$form); 
-		if(isset($_POST['message'])) $form = str_replace('></textarea>','>'.$_POST['message'].'</textarea>',$form);
-		if(isset($_POST['abstract'])) $form = str_replace('></textarea>','>'.$_POST['abstract'].'</textarea>',$form);
+		if(isset($_POST['message'])) $form = str_replace('Message"></textarea>','Message">'.$_POST['message'].'</textarea>',$form);
+		if(isset($_POST['abstract'])) $form = str_replace('Abstract"></textarea>','Abstract">'.$_POST['abstract'].'</textarea>',$form);
 		$form = str_replace('></input>','>---</input>',$form);
 		$form = str_replace('></textarea>','>---</textarea>',$form);
 
