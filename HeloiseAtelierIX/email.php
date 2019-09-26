@@ -31,9 +31,9 @@ if((isset($_POST['submit']))&&(isset($_SERVER['HTTP_REFERER']))){
 		if(isset($_POST['email'])) $form = str_replace('<!-- email --></input>',$_POST['email'].'</input>',$form);
 		if(isset($_POST['presentation_title'])) $form = str_replace('<!-- presentation_title --></input>',$_POST['presentation_title'].'</input>',$form); 
 		if(isset($_POST['message'])) $form = str_replace('></textarea>','>'.$_POST['message'].'</textarea>',$form);
+		if(isset($_POST['abstract'])) $form = str_replace('></textarea>','>'.$_POST['abstract'].'</textarea>',$form);
 		$form = str_replace('></input>','>---</input>',$form);
 		$form = str_replace('></textarea>','>---</textarea>',$form);
-
 
 		if(isset($_POST['presentation_full'])) $form = str_replace('name="presentation_full"','name="presentation_full" checked',$form);
 		if(isset($_POST['presentation_impulse'])) $form = str_replace('name="presentation_impulse"','name="presentation_impulse" checked',$form);
