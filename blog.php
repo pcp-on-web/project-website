@@ -23,6 +23,48 @@
 
     <?php $i=0; ?>
 
+<?php echo section_begin(" IX Héloïse Workshop – European Network on Digital Academic History 11. bis 12. November 2019, Leipzig"," IX Héloïse Workshop – European Network on Digital Academic History 11th to 12th November 2019, Leipzig",$i++,false,"22.10.2019 - Thomas Riechert"); ?> 
+ 
+<p class="de">Am 11. und 12. November findet in Leipzig der IX. Heloise Workshop statt.</p>
+<p class="en">The IX Heloise Workshop taking place in Leipzig from November 11th to 12th, 2019.</p>
+
+<p class="de">Das Europäische Netzwerk für digitale Universitätsgeschichte - Héloïse, wurde im Mai 2012 ins Leben gerufen. Ziel dieses Netzwerks ist es, die wissenschaftliche Zusammenarbeit bei der Erforschung der Geschichte der Universitäten in Europa seit dem Mittelalter zu fördern und gleichzeitig die Implementierung technischer Instrumente und Lösungen für die Erstellung, Verarbeitung und Bereitstellung von im Web verfügbaren Datenbanken zu diskutieren.</p>
+
+<p class="en">The European Network for Digital Academic History - Héloïse was launched in May 2012. The aim of this network is to promote scientific collaboration in the research field of European academic history since the Middle Ages and to discuss the implementation of technical tools and solutions for the creation, processing and delivery of databases available on the Web.</p>
+
+<p class="de">Der 9. Héloïse-Workshop fokussiert insbesondere auf die Forschung basierend auf Online-Datenbanken im Bereich der Universitätsgeschichte. Der Workshop adressiert Wissenschaftler der Geisteswissenschaften, der Informatik und der Digital Humanities, die Semantic Web-Technologien einsetzen und sich in ihren Projekten mit dem Aufbau von Ontologien befassen.</p>
+
+<p class="en">The 9th Héloïse workshop focuses on research on online databases in the field of university history. The workshop addresses scientists from the Humanities, Computer Science and Digital Humanities who use Semantic Web technologies and are involved in the development of ontologies in their projects.</p>
+
+<p class="de">Der Workshop wird von der Hochschule für Technik, Wirtschaft und Kultur Leipzig in Zusammenarbeit mit der Universität Leipzig im Rahmen des Forschungsprojekts "Professorale Karrieremuster der Frühen Neuzeit. Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte" durchgeführt.</p>
+
+<p class="en">The workshop is being organized by the Leipzig University of Applied Sciences in cooperation with the University of Leipzig as part of the research project "Early Modern Professorial Career Patterns. Methodological Research on Online Databases of Academic History."</p>
+
+<p class="de">Es besteht noch die Möglichkeit weitere Impulsevorträge (5min) in das Programm des Workshops aufzunehmen.</p>
+<p class="en">There are still open slots for impulse talks during the workshop.</p>
+
+<p class="de">Alle relevanten Informationen sind auf der Webseite des Workshops verfügbar. Die Konferenzsprache ist Englisch.</p>
+
+<p class="en">All relevant information is available on the workshops’ website. The conference language is English.</p>
+
+<p><a href="HeloiseAtelierIX/agenda.html">Agenda IX Héloïse Workshop – European Network on Digital Academic History</a></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+
+
+<?php echo section_begin("Agenda - Research on Online Databases in History (RODBH 2019), 4./5. April 2019","Agenda - Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig",$i++,true,"30.03.2019 - Thomas Riechert"); ?> 
+ 
+<p class="de">Das Doktrandensymposium wird von der Hochschule für Technik, Wirschaft und Kultur, Fakultät für Informatik und Medien (HTWK) im Rahmen des Forschungsprojekts "Professorale Karrieremuster der Frühen Neuzeit - Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsgeschichte" in Zusammenarbeit mit dem European Consortium on Data for History veranstaltet. Eine Treffen des DfH-Konsortiums ist Teil des Workshops und beinhaltet die Anwendung von OntoMe - Ontology Management Environment, einer Plattform zum Entwerfen von Vokabularen unter Verwendung von Ontologien, die von den teilnehmenden Doktoranden beigesteuert wurden. </p>
+<p class="en">The Doctoral Symposium is hosted by the Leipzig University of Applied Science, Faculty of Informatics and Media (HTWK) as part of the Research project Early Modern Professorial Career Patterns - Methodological research on online databases of academic history, in cooperation with the European Consortium on Data for History. A general meeting of the DfH Consortium is part of the workshop and includes the application of the OntoMe - Ontology Management Environment, a platform to design vocabularies using ontologies contributed by the participating Ph.D. students. </p>
+
+<p class="de"><a href="page.php?goto=RODBH2019-Agenda#de">Webseite mit Agenda.</a></p>
+<p class="en"><a href="page.php?goto=RODBH2019-Agenda#en">Full Aganda</a></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
 
 <?php echo section_begin("Doktorandensymposium: Research on Online Databases in History (RODBH 2019), 4./5. April 2019","Doctoral Symposium on Research on Online Databases in History (RODBH 2019), April 4th-5th 2019, Leipzig",$i++,true,"05.12.2018 - Thomas Riechert"); ?> 
  

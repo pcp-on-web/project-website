@@ -2,14 +2,18 @@
 
 // Select German as default
 
+$(".en").addClass("eng");
+$(".eng").removeClass("en");
+$(".eng").css("display","none");
+
 if (window.location.hash=="#en") {	
-	$(".en").css("display","inline");
-	$(".de").css("display","none");
-	$('a.en').css("display","block");
+			$(".eng").removeAttr("style");
+			$(".de").css("display","none");
+			$('a.eng').css("display","block");
 } else {
-	$(".en").css("display","none");
-	$(".de").css("display","inline");
-	$('a.de').css("display","block");
+			$(".eng").css("display","none");
+			$(".de").removeAttr("style");
+			$('a.de').css("display","block");
 };
 
 (function($) {
@@ -49,12 +53,12 @@ if (window.location.hash=="#en") {
 
 	$('a.switch').on("click",function(){
 		if ($(this).attr("href")=="#en") {	
-			$(".en").css("display","inline");
+			$(".eng").removeAttr("style");
 			$(".de").css("display","none");
-			$('a.en').css("display","block");
+			$('a.eng').css("display","block");
 		} else {
-			$(".en").css("display","none");
-			$(".de").css("display","inline");
+			$(".eng").css("display","none");
+			$(".de").removeAttr("style");
 			$('a.de').css("display","block");
 		};
 	});
