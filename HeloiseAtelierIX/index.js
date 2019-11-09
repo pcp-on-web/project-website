@@ -15,3 +15,10 @@ function mobile() {
 document.addEventListener("DOMContentLoaded", mobile);
 window.addEventListener('resize', mobile);
 window.addEventListener('orientationchange', mobile);
+
+var more = document.querySelector('.abstract');
+
+
+more.onclick = function() {
+	alert("more");
+}
