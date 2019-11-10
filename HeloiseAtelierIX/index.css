@@ -114,6 +114,13 @@ p {
     font-weight: 400;
 }
 
+a.more_abstract {
+	font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
+	cursor: pointer;
+	font-size: 0.8em;
+}
+
+
 ul {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.5rem;
@@ -192,6 +199,21 @@ p.green a {
 	background-color: #d8ffa9;
 	padding: 0.3em;
 }
+
+div.show_abstract {
+	display: none;
+	font-size: 1.2rem;	
+}
+
+div.show_abstract p, div.show_abstract li, div.show_abstract ul {
+	font-family: Adobe Caslon Pro, Book Antiqua, Palatino Linotype, Georgia, serif;
+	font-size: 1.2rem;	
+}
+
+div.show_abstract li {
+	margin-bottom: 0px;
+}
+
 
 /* Registration - Form */
 /* ------------------- */
