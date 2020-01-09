@@ -8,7 +8,7 @@
 
                         <hr class="star-light">
                         <span class="en skills">Paper submission deadline: March 1st, 2019 (extended), Final notification to authors: March, 6th 2019</span><br/>
-                        <span class="skills">Call for Papers | <a href="page.php?goto=RODBH2019-AcceptedPapers#en">Accepted Papers</a> |  <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a> | <a href="page.php?goto=RODBH2019-Registration#en">Registration</a></span>
+                        <span class="skills">Call for Papers | <a href="page.php?goto=RODBH2019-AcceptedPapers#en">Accepted Papers</a> |  <a href="page.php?goto=RODBH2019-Agenda#en">Agenda</a> | <a href="page.php?goto=RODBH2019-Publication#en">Publication</a></span>
                     </div>
                 </div>
             </div>
