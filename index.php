@@ -6,15 +6,13 @@
             <!-- News Section -->
             <div id="news">
                 <span class="de">Aktuell:
-                  <a href="HeloiseAtelierIX/">
-IX Héloïse Workshop – European Network on Digital Academic History
-11. bis 12. November 2019, Leipzig
+                  <a href="pcp-reloaded/de/">
+Call for Papers/Call for Data: Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtenge­schichte
 </a>
                 </span>
                 <span class="en">News:
-                  <a href="HeloiseAtelierIX/">
-IX Héloïse Workshop – European Network on Digital Academic History
-11th to 12th November 2019, Leipzig, Germany
+                  <a href="pcp-reloaded/en/">
+Call for Papers/Call for Data: Professorial Career Patterns Reloaded – Data, Methods and Analysis of Digital Humanities Research in the Field of Early Modern Academic History
 </a>
                 </span>
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>

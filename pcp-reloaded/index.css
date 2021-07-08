@@ -1,0 +1,36 @@
+body {
+	font-family: 'SourceSansPro', sans-serif;
+	color: #555;
+}
+
+h1,h2 {
+	font-family: 'SourceSerifPro', serif;
+	color: #555;
+}
+
+.header {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 0.8rem;
+	color: #555;
+	position: fixed;
+	left:0;
+	top:0;
+	background-color: #FFF;
+	z-index: 500;
+	
+}
+
+
+.headline {
+	position: relative;
+	margin-top: 3rem;
+	}
+
+.logo { width:40%; float: left; margin-left: 9%;}
+
+a {
+	font-family: 'SourceSerifPro', serif;
+	color: #444;
+}
+
+
