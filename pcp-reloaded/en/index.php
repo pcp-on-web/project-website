@@ -86,7 +86,7 @@
 		<div class="text">
 			<p>The conference and hackathon will both be held online. For the conference, we invite 20-minute presentations, and plan to leave plenty of time for discussion after each paper. We hope to encourage as many submissions as possible, and will therefore also consider contributions whose authors cannot present on the days that have been earmarked for the conference, who will instead be given the opportunity to present a digital poster. Contributors to the conference as well as to the hackathon will be invited to participate in the open access publication that is planned for after the conference. Additional funding is available for this publication. It is our hope that the resulting volume will reflect the hybrid character of the conference, and engage with current questions concerning university and scholarly history, as well as methodological-theoretical issues in the Digital Humanities.
 			</p>
-			<p>Proposals for both the conference and the hackathon should be submitted in the form of an abstract (max. 500 words) via EasyChair (see link below) by September 3, 2021. Successful applicants will be notified by September 7, 2021.<p>
+			<p>Proposals for both the conference and the hackathon should be submitted in the form of an abstract (max. 500 words) via EasyChair (<a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a>) by September 3, 2021. Successful applicants will be notified by September 7, 2021.<p>
 			<p>Conference languages German and English</p>
 		</div>
 		

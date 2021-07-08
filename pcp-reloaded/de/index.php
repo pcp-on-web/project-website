@@ -89,7 +89,8 @@
 
 		<div class="text">
 			<p>Tagung und Hackathon werden rein digital geplant. Vorgesehen sind an den Tagungstagen sparsam ange­setz­te 20-minütige Vorträge mit genügend Raum für Diskussionen. Wir hoffen auf zahlreiche Einreichungen und werden auch jene einschlägigen Beiträge berücksichtigen, deren Verfasser*innen an den Tagungstagen keinen Vortragsslot erhalten können. Diese bekommen die Möglichkeit ein digitales Poster zu präsentieren. Beiträ­ger der Tagung und des Hackathons bzw. dessen Ergebnisse erhalten Raum in der im Anschluss an die Ta­gung geplanten Open-Access-Publikation. Für die Publikation stehen finanzielle Mittel zur Verfügung. So soll am Ende ein Tagungsband entstehen, der dem hybriden Charakter der Tagung Rechnung trägt und ak­tuelle Fragen der Universitäts- und Gelehrtengeschichte sowie methodisch-theroetische Überlegungen der Digital Humanities reflektiert.
-			Beitrags- und Datenvorschläge bitten wir in Form eines Abstracts (max. 500 Wörter) über EasyChair (Link folgt) bis zum 03.09.2021 einzureichen. Ausgewählte Beiträge erhalten bis zum 07.09.2021 Bescheid.<p>
+			</p>
+			<p>Beitrags- und Datenvorschläge bitten wir in Form eines Abstracts (max. 500 Wörter) über EasyChair (a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a>) bis zum 03.09.2021 einzureichen. Ausgewählte Beiträge erhalten bis zum 07.09.2021 Bescheid.<p>
 			<p>Konferenzsprachen Deutsch und Englisch</p>
 		</div>
 		
