@@ -108,7 +108,7 @@
 			<li>Edgard Marx (HTWK Leipzig)</li>
 			<li>Margrit Prussat* (Universitätsarchiv Bamberg)</li>
 			<li>Timo Steyer (UB der TU Braunschweig)</li>
-			<li>Jörg Wettlaufer* (Akademie der Wissenschaften zu Göttingen)</li>
+			<li>Jörg Wettlaufer (Akademie der Wissenschaften zu Göttingen)</li>
 		</ul>
   </body>
 </html
