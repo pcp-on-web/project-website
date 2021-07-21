@@ -177,9 +177,22 @@ research project a method will be developed based on HCRM and be evaluated by st
 
     <!-- End Portfolio Content -->
     <?php echo section_end(); ?>
+
+
+
+    <!-- Publication Section -->
+    <?php echo section_begin("Vokabular","Vocabulary",3); ?> 
+
+    <!-- Beginn Publication Content -->
+
+    <?php include("vocabulary.html"); ?>
+
+
+    <!-- End Publication Content -->
+    <?php echo section_end(); ?>
+
 	
-	
-	<?php echo section_begin("Dataset","Dataset",3); ?> 
+	<?php echo section_begin("Dataset","Dataset",4); ?> 
 
     <!-- Beginn DATASET Content -->
 
@@ -222,7 +235,7 @@ research project a method will be developed based on HCRM and be evaluated by st
 	
 
     <!-- Blog Section -->
-    <?php echo section_begin("Blog","Blog",4,true); ?> 
+    <?php echo section_begin("Blog","Blog",5,true); ?> 
 
     <!-- Beginn Blog Content -->
 
@@ -258,7 +271,7 @@ research project a method will be developed based on HCRM and be evaluated by st
     <?php echo section_end(); ?>
  
     <!-- Publication Section -->
-    <?php echo section_begin("Publikationen","Publications",5); ?> 
+    <?php echo section_begin("Publikationen","Publications",6); ?> 
 
     <!-- Beginn Publication Content -->
 
@@ -269,7 +282,7 @@ research project a method will be developed based on HCRM and be evaluated by st
     <?php echo section_end(); ?>
 
     <!-- Contact Section -->
-    <?php echo section_begin("Kontakt","Contact",5); ?> 
+    <?php echo section_begin("Kontakt","Contact",7); ?> 
 
     <!-- Beginn Contact Content -->
 

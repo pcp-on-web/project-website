@@ -24,13 +24,6 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
     <style>
 
       .en { display: none}
@@ -53,8 +46,13 @@ if (basename($_SERVER["SCRIPT_FILENAME"], '.php')=="index") $base=""; else $base
                 </button>
                 <a class="navbar-brand" href="<?php echo $base;?>#page-top"><span class="de">Forschungsprojekt</span><span class="en">Research Project</span> (PCP-on-Web)</a>
             </div>
+	
 
-
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="page-noscroll">
+                        <a style="float:right;" href="#en" class="switch de"><u>DE</u> - EN</a><a href="#de" class="switch en">DE - <u>EN</u></a>
+		    </li>
+		</ul>
 
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -72,7 +70,10 @@ if (basename($_SERVER["SCRIPT_FILENAME"], '.php')=="index") $base=""; else $base
                     <li class="page-scroll">
                         <a href="<?php echo $base;?>#portfolio">Portfolio</a>
                     </li>
-					<li class="page-scroll">
+                    <li class="page-scroll">
+                        <a href="<?php echo $base;?>#vokabular"><span class="de">Vokabular</span><span class="en">Vocabulary</span></a>
+                    </li>
+			<li class="page-scroll">
                         <a href="<?php echo $base;?>#dataset">Dataset</a>
                     </li>
                     <li class="page-scroll">
@@ -84,11 +85,6 @@ if (basename($_SERVER["SCRIPT_FILENAME"], '.php')=="index") $base=""; else $base
                     <li class="page-scroll">
                         <a href="<?php echo $base;?>#kontakt"><span class="de">Kontakt</span><span class="en">Contact</span></a></a>
                     </li>
-                    <li class="page-noscroll">
-                        <a href="#en" class="switch de"><u>DE</u> - EN</a><a href="#de" class="switch en">DE - <u>EN</u></a>
-                    </li>
-
-
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
