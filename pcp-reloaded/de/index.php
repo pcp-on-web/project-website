@@ -103,15 +103,15 @@
 			<li>Prof. Dr. Thomas Riechert, HTWK Leipzig, thomas.riechert@htwk-leipzig.de</li>
 		</ul>
 
-		<h3>Programmkomitee (*Anfragen laufen)</h3>
+		<h3>Programmkomitee</h3>
 		<ul>
-			<li>Vincent Alamercery* (CRNS LARHRA, Lyon)</li>
-			<li>Francesco Beretta* (CRNS LARHRA, Lyon)</li>
+			<li>Vincent Alamercery (CRNS LARHRA, Lyon)</li>
+			<li>Francesco Beretta (CRNS LARHRA, Lyon)</li>
 			<li>Karen Bruhn (CAU Kiel)</li>
 			<li>Swantje Dogunke (ThULB Jena)</li>
 			<li>Torsten Hiltmann (HU Berlin)</li>
 			<li>Edgard Marx (HTWK Leipzig)</li>
-			<li>Margrit Prussat* (Universitätsarchiv Bamberg)</li>
+			<li>Margrit Prussat (Universitätsarchiv Bamberg)</li>
 			<li>Timo Steyer (UB der TU Braunschweig)</li>
 			<li>Jörg Wettlaufer (Akademie der Wissenschaften zu Göttingen)</li>
 		</ul>
