@@ -40,13 +40,13 @@ else {
 
 	<form action="./?p=anmeldung" method="post">
 
-		<div class="col-12"><h3>Personal Information</h3></div>
+		<div class="col-12"><h3>Teilnehmer Information</h3></div>
 
           <div class="control-group">
 	          <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Name</label></div>
 							<div class="col-10">
-              	<input class="form-control" id="name" name="name" type="text" placeholder="Name" required="" data-validation-required-message="Please enter your name."><!-- name --></input>
+              	<input class="form-control" id="name" name="name" type="text" placeholder="Name" required="" data-validation-required-message="Bitte gen Sie hier Ihren Namen an."><!-- name --></input>
                  <p class="help-block text-danger"></p>
               </div>
 						</div>
@@ -55,56 +55,56 @@ else {
              <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Institution</label></div>
 							<div class="col-10">
-                <input class="form-control" id="institution" name="institution" type="text" placeholder="Institution" required="" data-validation-required-message="Please enter institution name."><!-- institution --></input>
+                <input class="form-control" id="institution" name="institution" type="text" placeholder="Institution" required="" data-validation-required-message="Bitte gen Sie hier den Namen der Institution an."><!-- institution --></input>
                  <p class="help-block text-danger"></p>
               </div>
 						</div>
 					</div>
           <div class="control-group">
              <div class="form-group floating-label-form-group controls">
-							<div class="col-2"><label>Country</label></div>
+							<div class="col-2"><label>Land</label></div>
 							<div class="col-10">
-                <input class="form-control" id="country" name="country" type="text" placeholder="Country" required="" data-validation-required-message="Please enter your country."><!-- country --></input>
+                <input class="form-control" id="country" name="country" type="text" placeholder="Land" required="" data-validation-required-message="Bitte geben Sie hier das Land der Institution an."><!-- country --></input>
                 <p class="help-block text-danger"></p>
               </div>
 						</div>
 					</div>
           <div class="control-group">
              <div class="form-group floating-label-form-group controls">
-							<div class="col-2"><label>Email Address</label></div>
+							<div class="col-2"><label>E-Mail Adresse</label></div>
 							<div class="col-10">
-                <input class="form-control" id="email" name="email" type="email" placeholder="Email Address" required="" data-validation-required-message="Please enter your email address."><!-- email --></input>
+                <input class="form-control" id="email" name="email" type="email" placeholder="E-Mail Adresse" required="" data-validation-required-message="Bitte geben Sie hier Ihre E-mail Adresse an."><!-- email --></input>
                 <p class="help-block text-danger"></p>
               </div>
             </div>
 					</div>
 
 
-							<div class="col-12"><h3>Participation</h3></div>
+							<div class="col-12"><h3>Teilnahme</h3></div>
 
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Pre-Workshop/Hackathon</label></div>
 							<div class="col-10">
-									<input id="participation" type="checkbox" name="Workshop_20" value="no"/>Wednesday, October 20th<br/>
-									<input id="participation" type="checkbox" name="Workshop_21" value="no"/>Thursday, October 21st<br/>
+									<input id="participation" type="checkbox" name="Workshop_20" value="no"/>Mittwoch, 20. Oktober<br/>
+									<input id="participation" type="checkbox" name="Workshop_21" value="no"/>Donnerstag, 21. Oktober<br/>
               </div>
 						</div>
 					</div>
           <div class="control-group">
              <div class="form-group floating-label-form-group controls">
-							<div class="col-2"><label>Main Conference</label></div>
+							<div class="col-2"><label>Konferenz</label></div>
 							<div class="col-10">
-									<input id="participation" type="checkbox" name="Conference_27" value="no"/>Wednesday, October 20th<br/>
-									<input id="participation" type="checkbox" name="Conference_28" value="no"/>Thursday, October 28th<br/>
+									<input id="participation" type="checkbox" name="Conference_27" value="no"/>Mittwoch, 27. Oktober<br/>
+									<input id="participation" type="checkbox" name="Conference_28" value="no"/>Donnerstag, 28. Oktober<br/>
 		          <div class="help-block"></div>
 		        </div>
            </div>
           </div>
-							<div class="col-12"><h3>Further information for the organizing team</h3></div>
+							<div class="col-12"><h3>Weitere Informationen für das Organisationsteam</h3></div>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
-							<div class="col-2"><label>Message</label></div>
+							<div class="col-2"><label>Nachricht</label></div>
 							<div class="col-6">
                   <textarea class="form-control" id="message" style="width: 100%" name="message" placeholder="Message"></textarea>
 							</div>

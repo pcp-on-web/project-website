@@ -2,7 +2,7 @@
 if(isset($_POST['submit'])){
 
 		$empfaenger = 'thomas.riechert@htwk-leipzig.de';
-		$betreff = 'PCP reloaded Anmeldung'.$refer.' '.$_POST['name'];
+		$betreff = 'PCP reloaded Registration'.$refer.' '.$_POST['name'];
 		$nachricht = '';
 		foreach ($_POST as $param_name => $param_val) {
 				if ($param_val=='yes') $nachricht .= $param_name."\n"; 				
@@ -23,7 +23,7 @@ if(isset($_POST['submit'])){
 	<div class="col-12">
 	<h3>Confirmation</h3>
 
-	Your login details have been submitted. Please contact Thomas Riechert by email if you have not received a confirmation within 2 working days. 
+	Your registration details have been submitted. Please contact Thomas Riechert by email if you have not received a confirmation within 2 working days. 
 	<p><a href='./' >Back to conference page</a></p>
 	
 	</div>
@@ -94,7 +94,7 @@ else {
              <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Main Conference</label></div>
 							<div class="col-10">
-									<input id="participation" type="checkbox" name="Conference_27" value="no"/>Wednesday, October 20th<br/>
+									<input id="participation" type="checkbox" name="Conference_27" value="no"/>Wednesday, October 27th<br/>
 									<input id="participation" type="checkbox" name="Conference_28" value="no"/>Thursday, October 28th<br/>
 		          <div class="help-block"></div>
 		        </div>
