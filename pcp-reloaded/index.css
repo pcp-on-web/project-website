@@ -26,11 +26,54 @@ h1,h2 {
 	margin-top: 3rem;
 	}
 
-.logo { width:40%; float: left; margin-left: 9%;}
+.logo { width:40%; float: left; margin-right: 9%}
+
+.space {margin-top: 1rem;}
 
 a {
 	font-family: 'SourceSerifPro', serif;
 	color: #444;
 }
+
+ul.menu>li {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #111;
+	display: inline;
+	margin: 0.5rem 0.5rem 0.5rem -0.5rem;
+	padding: 0.5rem;
+	font-weight: bold;
+}
+
+ul.menu>li>a {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #666;
+	display: inline;
+	font-weight: bold;
+}
+
+ul.menu>li>a:hover {
+	background-color: #ddd;
+}
+
+
+ul.menu>li>a[href=""] {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #ccc;
+	text-decoration: none;
+	cursor: default;
+}
+
+
+ul.menu {
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 1rem 0;
+}
+
+
 
 
