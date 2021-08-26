@@ -35,13 +35,13 @@
 
 <?php
 	// get current page from parameter p
-	if (!@($p=$_GET['p'])) $p='overview'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
+	if (!@($p=$_GET['p'])) $p='ueberblick'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
 ?>
 
 	<div class="row space">
 		  <div class="col-12">
 			<ul class="menu">
-				<?php if($p=='overview') echo '<li class="select">Überblick</li>'; else echo '<li><a href="./">Programm</a></li>'; ?>
+				<?php if($p=='ueberblick') echo '<li class="select">Überblick</li>'; else echo '<li><a href="./">Überblick</a></li>'; ?>
 				<li ><a href="">Programm</a></li>
 				<?php if($p=='anmeldung') echo '<li class="select">Anmeldung</li>'; else echo '<li><a href="./?p=anmeldung">Anmeldung</a></li>'; ?>
 				<li><a href="">Datenschutz</a></li>
