@@ -1,3 +1,12 @@
+<div class="row">
+
+	<div class="col-12">
+	<h3>Please use the following link to submit an abstract:  <a href="https://easychair.org/conferences/?conf=pcpreloaded2021">https://easychair.org/conferences/?conf=pcpreloaded2021</a></h3>
+	
+	</div>
+ </div>
+
+
 <?php 
 if(isset($_POST['submit'])){
 
@@ -17,6 +26,7 @@ if(isset($_POST['submit'])){
 		mail($empfaenger, $betreff, $nachricht, $header);
 
 ?>
+
 
 <div class="row">
 
