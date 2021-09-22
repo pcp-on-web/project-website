@@ -77,7 +77,6 @@
 					Konferenz System EasyChair: <a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a><br/>
 					Bekanntgabe der  Reviewergebnisse bis zum 10.09.2021-->
 					<a href="./?p=anmeldung#goto">hier zur Konferenz anmelden</a>
-"
 						
 				</div>
 			</div>
