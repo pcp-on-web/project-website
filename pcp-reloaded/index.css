@@ -26,8 +26,6 @@ h1,h2 {
 	margin-top: 3rem;
 	}
 
-.logo { width:40%; float: left; margin-right: 9%}
-
 .space {margin-top: 1rem;}
 
 a {
@@ -35,7 +33,7 @@ a {
 	color: #444;
 }
 
-ul.menu>li {
+.menu ul > li {
 	font-family: 'SourceSerifPro', serif;
 	font-size: 1.2rem;
 	color: #111;
@@ -45,7 +43,7 @@ ul.menu>li {
 	font-weight: bold;
 }
 
-ul.menu>li>a {
+.menu ul>li>a {
 	font-family: 'SourceSerifPro', serif;
 	font-size: 1.2rem;
 	color: #666;
@@ -53,12 +51,12 @@ ul.menu>li>a {
 	font-weight: bold;
 }
 
-ul.menu>li>a:hover {
+.menu ul>li>a:hover {
 	background-color: #ddd;
 }
 
 
-ul.menu>li>a[href=""] {
+.menu ul>li>a[href=""] {
 	font-family: 'SourceSerifPro', serif;
 	font-size: 1.2rem;
 	color: #ccc;
@@ -67,13 +65,20 @@ ul.menu>li>a[href=""] {
 }
 
 
-ul.menu {
+.menu ul{
 	text-decoration: none;
 	list-style-type: none;
 	margin: 0;
 	padding: 1rem 0;
 }
 
+.menu{
+	padding-left: 0;
+}
+
+.menu > div {
+	padding-left: 0!important;
+}
 
 
 

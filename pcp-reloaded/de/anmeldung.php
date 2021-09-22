@@ -1,12 +1,3 @@
-<div class="row">
-
-	<div class="col-12">
-	<h3>Zur Einreichung eines Abstracts nutzen Sie bitte folgenden Link</h3>
-	<a href="https://easychair.org/conferences/?conf=pcpreloaded2021">https://easychair.org/conferences/?conf=pcpreloaded2021</a>
-	
-	</div>
- </div>
-
 <?php 
 if(isset($_POST['submit'])){
 
@@ -50,7 +41,7 @@ else {
 
 	<form action="./?p=anmeldung" method="post">
 
-		<div class="col-12"><h3>Teilnehmer Information</h3></div>
+		<div class="col-12"><h3>Anmeldung</h3></div>
 
           <div class="control-group">
 	          <div class="form-group floating-label-form-group controls">
@@ -96,8 +87,8 @@ else {
             <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Pre-Workshop/Hackathon</label></div>
 							<div class="col-10">
-									<input id="participation" type="checkbox" name="Workshop_20" value="no"/>Mittwoch, 20. Oktober<br/>
-									<input id="participation" type="checkbox" name="Workshop_21" value="no"/>Donnerstag, 21. Oktober<br/>
+									<input id="participation" type="checkbox" name="Workshop_20" value="yes"/>Mittwoch, 20. Oktober<br/>
+									<input id="participation" type="checkbox" name="Workshop_21" value="yes"/>Donnerstag, 21. Oktober<br/>
               </div>
 						</div>
 					</div>
@@ -105,8 +96,8 @@ else {
              <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Konferenz</label></div>
 							<div class="col-10">
-									<input id="participation" type="checkbox" name="Conference_27" value="no"/>Mittwoch, 27. Oktober<br/>
-									<input id="participation" type="checkbox" name="Conference_28" value="no"/>Donnerstag, 28. Oktober<br/>
+									<input id="participation" type="checkbox" name="Conference_27" value="yes"/>Mittwoch, 27. Oktober<br/>
+									<input id="participation" type="checkbox" name="Conference_28" value="yes"/>Donnerstag, 28. Oktober<br/>
 		          <div class="help-block"></div>
 		        </div>
            </div>
@@ -116,7 +107,7 @@ else {
             <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Nachricht</label></div>
 							<div class="col-6">
-                  <textarea class="form-control" id="message" style="width: 100%" name="message" placeholder="Message"></textarea>
+                  <textarea class="form-control" id="message" style="width: 100%" name="message" placeholder="Nachricht	"></textarea>
 							</div>
 						<div class="col-4"><input type="submit" name="submit" class="btn btn-success btn-lg" id="sendMessageButton" value="Anmeldedaten absenden"/><!-- Send --> </input></div>
 		</div>

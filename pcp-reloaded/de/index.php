@@ -9,22 +9,15 @@
  		<link rel="stylesheet" href="../fonts/SourcePro/font.css">
   </head>
  <body>
-  <div class="header row">
-	  <div class="navigation col-12">
-	  	
-	  	<div class="left">
-		  	<a href='../../#de' alt="Zurück zur Projektseite" title="Zurück zur Projektseite">← Zurück zur Projektseite: Professorale Karrieremuster der Frühen Neuzeit</a>
-		  </div>
-	  	<div class="right">
-	  		Language/Sprache: 
-		  	deutsch | <a href='../en/' alt="english" title="english">english</a>
-		  </div>
-  	
-	  	<hr/>
-
-	  </div>
-
-	  </div>
+	<div class="header row">
+		<div class="col-6 navigation left">
+			<a href='../../#de' alt="Zurück zur Projektseite" title="Zurück zur Projektseite">← Zurück zur Projektseite: Professorale Karrieremuster der Frühen Neuzeit</a>
+		</div>
+		<div class="col-6 navigation right">
+	  		Language/Sprache: deutsch | <a href='../en/' alt="english" title="english">english</a>
+		</div>
+  		<div class="col-12"><hr/></div>
+	</div>
 
 	  <div class="headline row">
 		  <div class="col-12">
@@ -38,57 +31,70 @@
 	if (!@($p=$_GET['p'])) $p='ueberblick'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
 ?>
 
-	<div class="row space">
-		  <div class="col-12">
-			<ul class="menu">
-				<?php if($p=='ueberblick') echo '<li class="select">Überblick</li>'; else echo '<li><a href="./">Überblick</a></li>'; ?>
-				<li ><a href="">Programm</a></li>
-				<?php if($p=='anmeldung') echo '<li class="select">Anmeldung</li>'; else echo '<li><a href="./?p=anmeldung">Anmeldung</a></li>'; ?>
-				<li><a href="">Datenschutz</a></li>
-				<li><a href="">Impressum</a></li>
-			</ul>
-	  	</div>
-	</div>
-
-
 	<div class="row">
-		<div class="col-2 hidden-sm">
-	  		DFG Forschungs-Projekt
-	  	</div>
-		<div class="col-10">
-		  	Professorale Karrieremuster der Frühen Neuzeit
-	  	</div>
-	  </div>
-	  <div class="row">
-		  <div class="col-2 hidden-sm">
-	  		Organisation
-	  	</div>
-		  <div class="col-6">
-		  	<a href="https://hab.de">Herzog August Bibliothek Wolfenbüttel</a> und <a href="https://informatik.htwk-leipzig.de">Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK)</a>
-	  	</div>
-		  <div class="col-4 hidden-sm	">
-		  	<img class="logo" src="../img/hab.png" alt="HAB" title="Herzog August Bibliothek Wolfenbüttel"/>
-		  	<img class="logo" src="../img/htwk.png" alt="HTWK" title="Hochschule für Technik, Wirtschaft und Kultur Leipzig"/>
-		  	
-	  	</div>
+
+
+		<div class="col-8"/>
+
+
+			<div class="row menu">
+				  <div class="col-12">
+					<ul>
+						<?php if($p=='ueberblick') echo '<li class="select">Überblick</li>'; else echo '<li><a href="./">Überblick</a></li>'; ?>
+						<?php if($p=='programm') echo '<li class="select">Programm</li>'; else echo '<li><a href="./?p=programm">Programm</a></li>'; ?>
+						<?php if($p=='anmeldung') echo '<li class="select">Anmeldung</li>'; else echo '<li><a href="./?p=anmeldung">Anmeldung</a></li>'; ?>
+						<li><a href="">Datenschutz</a></li>
+						<li><a href="">Impressum</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-3 hidden-sm">
+					DFG Forschungs-Projekt
+				</div>
+				<div class="col-9">
+					Professorale Karrieremuster der Frühen Neuzeit
+				</div>
+			</div>
+			<div class="row">
+				 <div class="col-3 hidden-sm">
+					Organisation
+				</div>
+				 <div class="col-9">
+					<a href="https://hab.de">Herzog August Bibliothek Wolfenbüttel</a> und <a href="https://informatik.htwk-leipzig.de">Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK)</a>
+				</div>
+			</div>
+			<div class="row">
+
+				<div class="col-3 hidden-sm">
+					Termine
+				</div>
+				  <div class="col-9">
+					Abschlusstagung: 		27.–28.10.2021<br/>
+					Pre-Workshop/Hackathon: 	20.–21.10.2021<br/>
+					<!--Abstrakt-Einreichungen bis zum 03.09.2021<br/>
+					Konferenz System EasyChair: <a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a><br/>
+					Bekanntgabe der  Reviewergebnisse bis zum 10.09.2021-->
+					<a href="./?p=anmeldung#goto">hier zur Konferenz anmelden</a>
+"
+						
+				</div>
+			</div>
+
+		</div>
+		<div class="col-4 hidden-sm logos">
+		  	<img class="col-4" src="../../img/hab.png" alt="HAB" title="Herzog August Bibliothek Wolfenbüttel"/>
+		  	<img class="col-3" src="../../img/htwk.png" alt="HTWK" title="Hochschule für Technik, Wirtschaft und Kultur Leipzig"/>
+		  	<img class="col-6" src="../../img/dfg_logo_foerderung.gif" alt="DFG" title="gefördert durch die DFG"/>
+		</div>
+
+
 
 	  </div>
 
-	  <div class="row space">
-		  <div class="col-2 hidden-sm">
-	  		Termine
-	  	</div>
-		  <div class="col-10">
-			Abschlusstagung: 		27.–28.10.2021<br/>
-			Pre-Workshop/Hackathon: 	20.–21.10.2021<br/>
-			Abstrakt-Einreichungen bis zum 03.09.2021<br/>
-			Konferenz System EasyChair: <a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a><br/>
-			Bekanntgabe der  Reviewergebnisse bis zum 10.09.2021
-				
-	  	</div>
 
-	</div>
-
+<a name="goto"/>
 <?php include($p.'.php'); ?>
 
 
