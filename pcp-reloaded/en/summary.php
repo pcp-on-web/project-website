@@ -5,7 +5,7 @@
 		<h3>Topic</h3>
 
 		<div class="text">
-			<p>The DFG research project  “Early Modern Professorial Career Patterns – Methodological Research on Online Databases of Academic History“, collaboratively run by the Herzog August Library Wolfenbüttel and the Hochschule für Technik, Wirtschaft und Kultur in Leipzig, warmly invites you to participate in its concluding conference, to be held on 27-28 October 2021, alongside a preceding Hackathon, which will take place from 20-21 October 2021.
+			<p>The DFG research project  “Early Modern Professorial Career Patterns – Methodological Research on Online Databases of Academic History“, collaboratively run by the Herzog August Library Wolfenbüttel and the Hochschule für Technik, Wirtschaft und Kultur in Leipzig, warmly invites you to participate in its concluding conference, to be held on 27-28 October 2021, alongside a preceding Hackathon and a Workshop, which will take place from 01-02 December 2021.
 			</p>
 			<p>Dedicated to investigating which conditions were necessary for professors in the early modern university system to attain professional success, our project aims to test how certain scholarly career patterns can be made more visible through the use of methods borrowed from the Digital Humanities. By these means, we hope that career patterns that are well known from the abiding scholarly literature, including family dynasties and incidents of nepotism, will undergo a kind of ‘digital reload’ with the aid of semantic web technologies.
 			</p>
