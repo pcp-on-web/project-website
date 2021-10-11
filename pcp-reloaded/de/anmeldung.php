@@ -84,15 +84,6 @@ else {
 							<div class="col-12"><h3>Teilnahme</h3></div>
 
           <div class="control-group">
-            <div class="form-group floating-label-form-group controls">
-							<div class="col-2"><label>Pre-Workshop/Hackathon</label></div>
-							<div class="col-10">
-									<input id="participation" type="checkbox" name="Workshop_20" value="yes"/>Mittwoch, 20. Oktober<br/>
-									<input id="participation" type="checkbox" name="Workshop_21" value="yes"/>Donnerstag, 21. Oktober<br/>
-              </div>
-						</div>
-					</div>
-          <div class="control-group">
              <div class="form-group floating-label-form-group controls">
 							<div class="col-2"><label>Konferenz</label></div>
 							<div class="col-10">
@@ -102,6 +93,18 @@ else {
 		        </div>
            </div>
           </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+							<div class="col-2"><label>Hackathon und Workshop</label></div>
+							<div class="col-10">
+									<input id="participation" type="checkbox" name="Hackathon" value="yes"/>Hackathon 28.10.-02.12.<br/>
+									<input id="participation" type="checkbox" name="Workshop_01" value="yes"/>Mittwoch, 01. Dezember<br/>
+									<input id="participation" type="checkbox" name="Workshop_02" value="yes"/>Donnerstag, 02. Dezember<br/>
+              </div>
+						</div>
+					</div>
+
+
 							<div class="col-12"><h3>Weitere Informationen für das Organisationsteam</h3></div>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
