@@ -42,8 +42,8 @@
 					<?php if($p=='summary') echo '<li class="select">Summary</li>'; else echo '<li><a href="./">Summary</a></li>'; ?>
 					<?php if($p=='programme') echo '<li class="select">Programme</li>'; else echo '<li><a href="./?p=programme">Programme</a></li>'; ?>
 					<?php if($p=='registration') echo '<li class="select">Registration</li>'; else echo '<li><a href="./?p=registration">Registration</a></li>'; ?>
-					<li><a href="">Datenschutz</a></li>
-					<li><a href="">Impress</a></li>
+					<?php if($p=='privacypolicy') echo '<li class="select">Privacy policy</li>'; else echo '<li><a href="./?p=privacypolicy">Privacy policy</a></li>'; ?>
+					<?php if($p=='imprint') echo '<li class="select">Imprint</li>'; else echo '<li><a href="./?p=imprint">Imprint</a></li>'; ?>
 				</ul>
 			</div>
 		</div>
@@ -71,8 +71,9 @@
 					Important dates
 				</div>
 				<div class="col-9">
-					Main-Conference: 		27 –28 October 2021  <br/>
-					Pre-Workshop/Hackathon: 	20 –21 October 2021<br/>
+					Main-Conference: 	27 –28 October 2021  <br/>
+					Hackathon: 	28.10.–02.12.2021<br/>
+					Workshop: 	01 –02 December 2021<br/>
 					<!--Abstract submission: 03 September 2021<br/>Sybmission system EasyChair: <a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a><br/>
 					Notification of Acceptance: 10 September 2021<br/>-->
 					<a href="./?p=registration#goto">register here for the conference</a>

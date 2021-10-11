@@ -9,6 +9,12 @@
 						Prof. Dr. Thomas Riechert<br/>
 						Gustav-Freytag-Str. 42a<br/>
 						04277 Leipzig, Germany</p>
+						
+						<p><a target="_blank" href="https://www.htwk-leipzig.de/hochschule/kontakt/impressum/">HTWK Impressum</a>
+</p>
+<p>
+<a target="_blank" href="https://www.htwk-leipzig.de/hochschule/kontakt/datenschutzerklaerung/">Datenschutzerklärung nach der DSGVO.</a>
+</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>

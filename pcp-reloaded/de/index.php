@@ -43,8 +43,8 @@
 						<?php if($p=='ueberblick') echo '<li class="select">Überblick</li>'; else echo '<li><a href="./">Überblick</a></li>'; ?>
 						<?php if($p=='programm') echo '<li class="select">Programm</li>'; else echo '<li><a href="./?p=programm">Programm</a></li>'; ?>
 						<?php if($p=='anmeldung') echo '<li class="select">Anmeldung</li>'; else echo '<li><a href="./?p=anmeldung">Anmeldung</a></li>'; ?>
-						<li><a href="">Datenschutz</a></li>
-						<li><a href="">Impressum</a></li>
+						<?php if($p=='datenschutz') echo '<li class="select">Datenschutz</li>'; else echo '<li><a href="./?p=datenschutz">Datenschutz</a></li>'; ?>
+						<?php if($p=='impressum') echo '<li class="select">Impressum</li>'; else echo '<li><a href="./?p=impressum">Impressum</a></li>'; ?>
 					</ul>
 				</div>
 			</div>
@@ -72,7 +72,8 @@
 				</div>
 				  <div class="col-9">
 					Abschlusstagung: 		27.–28.10.2021<br/>
-					Pre-Workshop/Hackathon: 	20.–21.10.2021<br/>
+					Hackathon: 	28.10–02.12.2021<br/>
+					Workshop: 		01.–02.12.2021<br/>
 					<!--Abstrakt-Einreichungen bis zum 03.09.2021<br/>
 					Konferenz System EasyChair: <a href="https://easychair.org/conferences/?conf=pcpreloaded2021" target="_blank">https://easychair.org/conferences/?conf=pcpreloaded2021</a><br/>
 					Bekanntgabe der  Reviewergebnisse bis zum 10.09.2021-->
