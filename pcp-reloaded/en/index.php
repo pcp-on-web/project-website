@@ -9,12 +9,16 @@
  		<link rel="stylesheet" href="../fonts/SourcePro/font.css">
   </head>
  <body>
+<?php
+	// get current page from parameter p
+	if (!@($p=$_GET['p'])) $p='ueberblick'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
+?>
 	<div class="header row">
 		<div class="col-6 navigation left">
 			<a href='../../#en' alt="Back to project website" title="Back to project website">← Back to project website: Early Modern Professorial Career Patterns</a>
 		</div>
 		<div class="col-6 navigation right">
-			Language/Sprache: <a href='../de/' alt="deutsch" title="deutsch">deutsch</a> | english
+			Language/Sprache: <a href='../de/?p=<?php echo $p;?>' alt="deutsch" title="deutsch">deutsch</a> | english
 		</div>
 		<div class="col-12"><hr/></div>
 	</div>
@@ -25,10 +29,6 @@
 			</div>
 		<div>
 
-<?php
-	// get current page from parameter p
-	if (!@($p=$_GET['p'])) $p='summary'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
-?>
 
 	<div class="row">
 
@@ -39,11 +39,11 @@
 		<div class="row menu">
 			  <div class="col-12">
 				<ul>
-					<?php if($p=='summary') echo '<li class="select">Summary</li>'; else echo '<li><a href="./">Summary</a></li>'; ?>
-					<?php if($p=='programme') echo '<li class="select">Programme</li>'; else echo '<li><a href="./?p=programme">Programme</a></li>'; ?>
-					<?php if($p=='registration') echo '<li class="select">Registration</li>'; else echo '<li><a href="./?p=registration">Registration</a></li>'; ?>
-					<?php if($p=='privacypolicy') echo '<li class="select">Privacy policy</li>'; else echo '<li><a href="./?p=privacypolicy">Privacy policy</a></li>'; ?>
-					<?php if($p=='imprint') echo '<li class="select">Imprint</li>'; else echo '<li><a href="./?p=imprint">Imprint</a></li>'; ?>
+					<?php if($p=='ueberblick') echo '<li class="select">Summary</li>'; else echo '<li><a href="./">Summary</a></li>'; ?>
+					<?php if($p=='programm') echo '<li class="select">Programme</li>'; else echo '<li><a href="./?p=programm">Programme</a></li>'; ?>
+					<?php if($p=='anmeldung') echo '<li class="select">Registration</li>'; else echo '<li><a href="./?p=anmeldung">Registration</a></li>'; ?>
+					<?php if($p=='datenschutz') echo '<li class="select">Privacy policy</li>'; else echo '<li><a href="./?p=datenschutz">Privacy policy</a></li>'; ?>
+					<?php if($p=='impressum') echo '<li class="select">Imprint</li>'; else echo '<li><a href="./?p=impressum">Imprint</a></li>'; ?>
 				</ul>
 			</div>
 		</div>

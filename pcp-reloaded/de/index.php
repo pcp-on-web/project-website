@@ -9,12 +9,16 @@
  		<link rel="stylesheet" href="../fonts/SourcePro/font.css">
   </head>
  <body>
+<?php
+	// get current page from parameter p
+	if (!@($p=$_GET['p'])) $p='ueberblick'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
+?>
 	<div class="header row">
 		<div class="col-6 navigation left">
 			<a href='../../#de' alt="Zurück zur Projektseite" title="Zurück zur Projektseite">← Zurück zur Projektseite: Professorale Karrieremuster der Frühen Neuzeit</a>
 		</div>
 		<div class="col-6 navigation right">
-	  		Language/Sprache: deutsch | <a href='../en/' alt="english" title="english">english</a>
+	  		Language/Sprache: deutsch | <a href='../en/?p=<?php echo $p?>' alt="english" title="english">english</a>
 		</div>
   		<div class="col-12"><hr/></div>
 	</div>
@@ -25,11 +29,6 @@
 			<h2>Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtenge­schichte</h2>
 		</div>
 	<div>
-
-<?php
-	// get current page from parameter p
-	if (!@($p=$_GET['p'])) $p='ueberblick'; else $p = preg_replace ( '/[^a-z0-9 ]/i', '', $p);	
-?>
 
 	<div class="row">
 

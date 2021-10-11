@@ -1,6 +1,6 @@
 	<div class="row">
 		<div class="col-12">
-			<h3>Mittwoch, 27. Oktober 2021</h3>
+			<h3>Wednesday, October 27, 2021 </h3>
 		</div>
 	</div>
 	<div class="row programm">
@@ -8,7 +8,7 @@
 			09:00
 		</div>
 		<div class="col-11">
-			<p><b>Session I: Digitale Professorenkataloge</b></p>
+			<p><b>Session I: Digital professor catalogs</b></p>
 			<p>Professorale Karrieremuster der Frühen Neuzeit und das Semantic Web der digitalen Gegenwart (Jennifer Blanke, HAB Wolfenbüttel)</p>
 		</div>
 		<div class="col-1">
@@ -23,7 +23,7 @@
 			10:20
 		</div>
 		<div class="col-11">
-			<p>Kaffeepause</p>
+			<p>Coffee break</p>
 		</div>
 	</div>
 	<div class="row programm">
@@ -45,7 +45,7 @@ Braunschweig)</p>
 			10:50
 		</div>
 		<div class="col-11">
-			<p><b>Paneldiskussion: Digitale Professorenkataloge und professorale Karrieremuster</b></p>
+			<p><b>Panel discussion: Digital professor catalogs and professorial career models </b></p>
 		</div>
 	</div>
 	<div class="row">
@@ -53,7 +53,7 @@ Braunschweig)</p>
 			12:30
 		</div>
 		<div class="col-11">
-			<p>Mittagspause</p>
+			<p>Lunch break</p>
 		</div>
 	</div>		
 	<div class="row programm">
@@ -61,7 +61,7 @@ Braunschweig)</p>
 			14:00
 		</div>
 		<div class="col-11">
-			<p><b>Session II: Interoperabilität</b></p>
+			<p><b>Session II: Interoperability</b></p>
 			<p>OntoME: a tool for the design of interoperable community-driven ontologies and
 application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 		</div>		
@@ -77,12 +77,12 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			16:00
 		</div>
 		<div class="col-11">
-			<p>Ende</p>
+			<p>Fin</p>
 		</div>		
 	</div>
 		<div class="row">
 		<div class="col-12">
-			<h3>Donnerstag, 28. Oktober 2021</h3>
+			<h3>Thursday, October 28, 2021 </h3>
 		</div>
 	</div>
 	<div class="row programm">
@@ -105,7 +105,7 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			10:20
 		</div>
 		<div class="col-11">
-			<p>Kaffeepause</p>
+			<p>Coffee break</p>
 		</div>
 	</div>
 	<div class="row programm">
@@ -127,7 +127,7 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			11:50
 		</div>
 		<div class="col-11">
-			<p>Mittagspause</p>
+			<p>Lunch break</p>
 		</div>
 	</div>		
 	<div class="row programm">
@@ -135,8 +135,8 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			13:00
 		</div>
 		<div class="col-11">
-			<p><b>Abschlussdiskussion & Ausblick</b></p>
-			<p>Hackathon Dezember, inklusive finaler Workshop Geovistory, Hinweise zur Publikation</p>
+			<p><b>Closing discussion & outlook </b></p>
+			<p>Hackathon December, including final workshop Geovistory, notes on publication </p>
 		</div>		
 	</div>		
 	<div class="row">
@@ -144,6 +144,6 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			15:00
 		</div>
 		<div class="col-11">
-			<p>Ende</p>
+			<p>Fin</p>
 		</div>		
 	</div>

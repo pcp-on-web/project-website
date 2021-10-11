@@ -80,5 +80,15 @@ a {
 	padding-left: 0!important;
 }
 
+.row div p:first-child {
+	margin-top: 0;
+}
 
+.programm .col-1 {
+	clear: left;
+}
+
+.programm {
+	background-color: #efedef;
+}
 
