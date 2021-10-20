@@ -8,7 +8,7 @@
 			09:00
 		</div>
 		<div class="col-11">
-			<p><b>Session I: Digital professor catalogs</b></p>
+			<p><b>Session I: Digital professors catalogues</b></p>
 			<p>Professorale Karrieremuster der Frühen Neuzeit und das Semantic Web der digitalen Gegenwart (Jennifer Blanke, HAB Wolfenbüttel)</p>
 		</div>
 		<div class="col-1">
@@ -45,7 +45,7 @@ Braunschweig)</p>
 			10:50
 		</div>
 		<div class="col-11">
-			<p><b>Panel discussion: Digital professor catalogs and professorial career models </b></p>
+			<p><b>Panel discussion: Digital professors catalogues and professorial career patterns </b></p>
 		</div>
 	</div>
 	<div class="row">
@@ -133,6 +133,14 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 	<div class="row programm">
 		<div class="col-1">
 			13:00
+		</div>
+		<div class="col-11">
+			<p>Universitätskarrieren und Sozietätskarrieren - Zu ihrem Wechselverhältnis im 17. Jahrhundert (Maximilian Görmar, Universität Leipzig)</p>
+		</div>		
+	</div>		
+	<div class="row programm">
+		<div class="col-1">
+			13:40
 		</div>
 		<div class="col-11">
 			<p><b>Closing discussion & outlook </b></p>
