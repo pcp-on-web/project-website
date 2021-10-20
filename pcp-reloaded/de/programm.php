@@ -135,7 +135,7 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			13:00
 		</div>
 		<div class="col-11">
-			<p><b>Universitätskarrieren und Sozietätskarrieren - Zu ihrem Wechselverhältnis im 17. Jahrhundert (Maximilian Görmar, Universität Leipzig)</b></p>
+			<p>Universitätskarrieren und Sozietätskarrieren - Zu ihrem Wechselverhältnis im 17. Jahrhundert (Maximilian Görmar, Universität Leipzig)</p>
 		</div>		
 	</div>
         <div class="row programm">
