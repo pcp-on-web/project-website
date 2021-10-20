@@ -135,10 +135,18 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			13:00
 		</div>
 		<div class="col-11">
+			<p><b>Universitätskarrieren und Sozietätskarrieren - Zu ihrem Wechselverhältnis im 17. Jahrhundert (Maximilian Görmar, Universität Leipzig)</b></p>
+		</div>		
+	</div>
+        <div class="row programm">
+		<div class="col-1">
+			13:40
+		</div>
+		<div class="col-11">
 			<p><b>Abschlussdiskussion & Ausblick</b></p>
 			<p>Hackathon Dezember, inklusive finaler Workshop Geovistory, Hinweise zur Publikation</p>
 		</div>		
-	</div>		
+	</div>	
 	<div class="row">
 		<div class="col-1">
 			15:00
