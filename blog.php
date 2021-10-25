@@ -23,7 +23,38 @@
 
     <?php $i=0; ?>
 
-<?php echo section_begin(" IX Héloïse Workshop – European Network on Digital Academic History 11. bis 12. November 2019, Leipzig"," IX Héloïse Workshop – European Network on Digital Academic History 11th to 12th November 2019, Leipzig",$i++,false,"22.10.2019 - Thomas Riechert"); ?> 
+<?php echo section_begin("Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtenge­schichte – 27./28. Oktober 2021, online","Professorial Career Patterns Reloaded – Data, Methods and Analysis of Digital Humanities Research in the Field of Early Modern Academic History - 27th/28 October 2021, online",$i++,false,"01.10.2021 - Thomas Riechert"); ?> 
+ 
+<p class="de">Am 27. und 28. Oktober 2021 findet Die Abschlusskonferenz des Projektes statt.</p>
+<p class="en">The final conference of the project will take place on October 27th and 28th, 2021</p>
+
+<p class="de">Leitfrage des Projekts ist die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneu­zeitlichen Universitätssystem. Dabei ist es das Anliegen zu erproben wie mögliche gelehrte Karrieremuster mit den Methoden der Digital Humanities sichtbar gemacht werden können. In der Forschung diskutierte Karrieremuster mit Zuschreibungen wie Familiendynastie und Nepotismus sollen mithilfe von Semantic-Web-Technologien quasi einen digitalen Reload erleben. </p>
+
+<p class="en">Dedicated to investigating which conditions were necessary for professors in the early modern university system to attain professional success, our project aims to test how certain scholarly career patterns can be made more visible through the use of methods borrowed from the Digital Humanities. By these means, we hope that career patterns that are well known from the abiding scholarly literature, including family dynasties and incidents of nepotism, will undergo a kind of ‘digital reload’ with the aid of semantic web technologies.</p>
+
+<p class="de">Die Abschlusskonferenz richtet sich an Frühneuzeitforscher*innen und Wissenschaftler*innen angrenzender Forschungsfelder mit Be­zug zu den Digital Humanities sowie Informatiker*innen und Informationswissenschaftler*innen an, die vor dem Hinter­grund der Forschungsfrage sowie der gewählten digitalen Methode das vorliegende Vokabular diskutieren, den Datensatz explorieren und übergreifend methodisch-theoretische Fragestellungen der digitalen Ge­schichtswissenschaft erörtern. Zudem suchen wir explizit Forschungsdaten im Bereich der Bil­dungs- und Gelehrtengeschichte, die den besagten Datensatz und das Vokabular erweitern. Diese Daten kön­nen aus dem Bereich frühneuzeitlicher prosopographisch orientierter Forschung zur Geschichte des Gelehr­tentums bzw. des Professorenberufs stammen und mögliche Themen wie Patronage und Netzwerkbildung, die Funktionsweise gelehrter Körperschaften, gelehrte Sammlungen oder die Strategien des akademischen Publizierens usw. umfassen. Die vorgeschlagenen Daten müssen strukturiert (z. B. Excel, CSV, XML, JSON, SQL) vorliegen und unter einer Open-Data-kompatiblen Lizenz zur Verfügung stehen. Wenn Sie unsicher sind, ob ihre Daten bzw. Datenbanken thematisch und/oder technisch passen, sprechen Sie uns gerne an. Nach der Abschluss­tagung werden wir einen Hackathon veranstalten, bei dem eingereichte Daten in das RDF-Format transfe­riert werden. So geben wir Forschenden die Möglichkeit, ihre Daten Semantic-Web-fähig zu machen und ermög­lichen es gleichsam Informatiker*innen mit den oftmals heterogenen frühneuzeitlichen Daten zu arbeiten.</p>
+
+<p class="en">The conference address scholars of the early modern period, scholars working in related fields with a special interest in the Digital Humanities, and computer and information scientists, who would like to discuss the project as outlined above, alongside its accompanying vocabulary and dataset, against the backdrop of larger, methodological-theoretical questions related to the Digital Humanities. Additionally, we are seeking research data from the history of education and scholarship with which to expand the aforementioned vocabulary and dataset. This data may come from early modern prosopographically oriented research on the history of scholarship or the professorial profession, and may include topics such as patronage and network formation; the activities of learned bodies, like scientific or learned societies; teaching and research collections belonging to professors; or the strategies of academic publishing etc. The proposed data must be presented in a structured manner (e.g. Excel, CSV, XML, JSON, SQL) and should be available under an Open Data license. If you are unsure whether your data or databases are thematically and/or technically compatible with our project, please do not hesitate to contact us. After the concluding conference, we will organize a hackathon during which the proposed data will be converted into RDF format. By these means, we hope to provide researchers with the opportunity to make their data Semantic Web capable, while at the same time enabling computer and information scientists to work with the frequently heterogeneous early modern data.</p>
+
+<p class="de">Tagung und Hackathon finden digital statt.</p>
+
+<p class="en">The conference and hackathon take place digitally."</p>
+
+<p class="de">Alle relevanten Informationen sind auf der Webseite des Abschlusskonferenz verfügbar. Die Konferenzsprachen sind vorrangisch Deutsch und Englisch.</p>
+
+<p class="en">All relevant information is available on the conference’ website. The conference languages are primarily German and English. </p>
+
+<p class="de"><a href="pcp-reloaded/de/?p=programm">Professorale Karrieremuster Reloaded – Programm</a></p>
+
+<p class="en"><a href="pcp-reloaded/en/?p=programm">Professorial Career Patterns Reloaded – Programme</a></p>
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+
+
+
+<?php echo section_begin("IX Héloïse Workshop – European Network on Digital Academic History 11. bis 12. November 2019, Leipzig","IX Héloïse Workshop – European Network on Digital Academic History 11th to 12th November 2019, Leipzig",$i++,false,"22.10.2019 - Thomas Riechert"); ?> 
  
 <p class="de">Am 11. und 12. November findet in Leipzig der IX. Heloise Workshop statt.</p>
 <p class="en">The IX Heloise Workshop taking place in Leipzig from November 11th to 12th, 2019.</p>
