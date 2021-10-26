@@ -42,7 +42,7 @@ Catalogus Professorum Brunsvicensis online (Tanja Wolf, Universitätsbibliothek 
 Braunschweig)</p>
 		</div>
 		<div class="col-1">
-			10:50
+			11:50
 		</div>
 		<div class="col-11">
 			<p><b>Paneldiskussion: Digitale Professorenkataloge und professorale Karrieremuster</b></p>
