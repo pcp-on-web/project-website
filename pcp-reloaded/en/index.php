@@ -41,6 +41,7 @@
 				<ul>
 					<?php if($p=='ueberblick') echo '<li class="select">Summary</li>'; else echo '<li><a href="./">Summary</a></li>'; ?>
 					<?php if($p=='programm') echo '<li class="select">Programme</li>'; else echo '<li><a href="./?p=programm">Programme</a></li>'; ?>
+					<?php if($p=='hackathon') echo '<li class="select">Hackathon</li>'; else echo '<li><a href="./?p=hackathon">Hackathon</a></li>'; ?>
 					<?php if($p=='anmeldung') echo '<li class="select">Registration</li>'; else echo '<li><a href="./?p=anmeldung">Registration</a></li>'; ?>
 					<?php if($p=='datenschutz') echo '<li class="select">Privacy policy</li>'; else echo '<li><a href="./?p=datenschutz">Privacy policy</a></li>'; ?>
 					<?php if($p=='impressum') echo '<li class="select">Imprint</li>'; else echo '<li><a href="./?p=impressum">Imprint</a></li>'; ?>
