@@ -69,7 +69,8 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 			14:40
 		</div>
 		<div class="col-11">
-			<p>Workshop Geovistory (David Knecht & Francesco Beretta, Kleio Lab GmbH)</p>
+			<p>Workshop Geovistory (David Knecht & Francesco Beretta, Kleio Lab GmbH) <a href="../talks/2021_10_27_Konferenz_Professorale_Karrieren_GV.pdf" target="_blank">slides</a></p>
+
 		</div>
 	</div>		
 	<div class="row">
@@ -97,7 +98,7 @@ application profiles (Vincent Alamercery & Francesco Beretta, LARHRA Lyon)</p>
 		</div>
 		<div class="col-11">
 			<p><b>Session III: Case studies</b></p>
-			<p>Gelehrtengeschichte im Biographischen Lexikons des Kaiserthums Österreich – Vom Transkript in Wikisource zur Struktur in Wikidata (Christian Erlinger, ZHB Luzern)</p>
+			<p>Gelehrtengeschichte im Biographischen Lexikons des Kaiserthums Österreich – Vom Transkript in Wikisource zur Struktur in Wikidata (Christian Erlinger, ZHB Luzern) <a href="../talks/2021_10_28_wurzbach_erlinger.pdf" target="_blank">slides</a></p>
 		</div>
 	</div>
 	<div class="row">
