@@ -22,7 +22,8 @@ Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Er
 <b>Ankündigungen von offenen Meeting</b>
 <ul>
 <li><b>02.11.2021 - 8h30-9h15</b>: Fragerunde Geovistory (Anmeldung: david.knecht@kleiolab.ch)</li>
-<li><b>03.11.2021 - 14h00-15h00</b>: Generall question and answer session  (thomas.riechert@htwk-leipzig.de)</li>
+<li><b>02.11.2021 - 14h00-15h00</b>: Koordinationsmeeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
+<li><b>09.11.2021 - 09h30-11h00</b>: Nächstes Meeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
 </ul>
 
 <p>

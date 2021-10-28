@@ -22,7 +22,8 @@ After the final conference we will run a hackathon, the results of which will be
 <b>Open meeting announcements </b>
 <ul>
 <li><b>02.11.2021 - 8h30-9h15</b>: Geovistory question and answer session  (david.knecht@kleiolab.ch)</li>
-<li><b>03.11.2021 - 14h00-15h00</b>: Planung Hackathon  (thomas.riechert@htwk-leipzig.de)</li>
+<li><b>02.11.2021 - 14h00-15h00</b>: Hackathon question and answer session  (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
+<li><b>09.11.2021 - 09h30-11h00</b>: Follow up  Meeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
 
 </ul>
 
