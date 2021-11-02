@@ -27,16 +27,15 @@ Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Er
 </ul>
 
 <p>
-<b>Plattformen, Werzeuge, Dokumente:</b>
+<b>Plattformen, Werkzeuge, Dokumente:</b>
 
 <ul>
 <li> Geovistrory
 <ul>
 <li>Plattform: <a href="https://www.geovistory.com/">https://www.geovistory.com/</a></li>
-<li>Manual: <a href="https://www.geovistory.com/">https://kleiolab.atlassian.net/l/c/vB9F1id1</a></li>
-<li>Introduction of classes used: <a href="https://www.geovistory.com/">https://kleiolab.gitbook.io/geovistory/profiles-of-
-classes/introduction-to-ontome-profiles/education-ongoing</a></li>
-<li>Forum im Wiki: <a href="https://www.geovistory.com/">https://kleiolab.atlassian.net/l/c/c51Z2SDd</a></li>
+<li>Manual: <a href="https://kleiolab.atlassian.net/l/c/vB9F1id1">https://kleiolab.atlassian.net/l/c/vB9F1id1</a></li>
+<li>Introduction of classes used: <a href="https://kleiolab.gitbook.io/geovistory/profiles-of-classes/introduction-to-ontome-profiles/education-ongoing">https://kleiolab.gitbook.io/geovistory/profiles-of-classes/introduction-to-ontome-profiles/education-ongoing</a></li>
+<li>Forum im Wiki: <a href="https://kleiolab.atlassian.net/l/c/c51Z2SDd">https://kleiolab.atlassian.net/l/c/c51Z2SDd</a></li>
 </ul>
 <li>Plattform auf Github.com: <a href="https://github.com/pcp-on-web/pcp-reloaded">https://github.com/pcp-on-web/pcp-reloaded</a></li>
 <li>Vokabular: <a href="https://pcp-on-web.de/ontology/0.2/index-en.html">https://pcp-on-web.de/ontology/0.2/index-en.html</a></li>
