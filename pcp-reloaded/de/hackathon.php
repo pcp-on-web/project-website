@@ -39,6 +39,7 @@ Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Er
 </ul>
 <li>Plattform auf Github.com: <a href="https://github.com/pcp-on-web/pcp-reloaded">https://github.com/pcp-on-web/pcp-reloaded</a></li>
 <li>Vokabular: <a href="https://pcp-on-web.de/ontology/0.2/index-en.html">https://pcp-on-web.de/ontology/0.2/index-en.html</a></li>
+<li>Mailingliste: <a href="https://www.listserv.dfn.de/sympa/info/pcp-reloaded">https://www.listserv.dfn.de/sympa/info/pcp-reloaded</a></li>
 
 
 </ul>

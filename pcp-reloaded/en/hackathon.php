@@ -30,21 +30,24 @@ After the final conference we will run a hackathon, the results of which will be
 <p>
 <b>Platforms, tools, documents :</b>
 
+
 <ul>
 <li> Geovistrory
 <ul>
 <li>Platform: <a href="https://www.geovistory.com/">https://www.geovistory.com/</a></li>
-<li>Manual: <a href="https://www.geovistory.com/">https://kleiolab.atlassian.net/l/c/vB9F1id1</a></li>
-<li>Introduction of classes used: <a href="https://www.geovistory.com/">https://kleiolab.gitbook.io/geovistory/profiles-of-
-classes/introduction-to-ontome-profiles/education-ongoing</a></li>
-<li>Forum: <a href="https://www.geovistory.com/">https://kleiolab.atlassian.net/l/c/c51Z2SDd</a></li>
+<li>Manual: <a href="https://kleiolab.atlassian.net/l/c/vB9F1id1">https://kleiolab.atlassian.net/l/c/vB9F1id1</a></li>
+<li>Introduction of classes used: <a href="https://kleiolab.gitbook.io/geovistory/profiles-of-classes/introduction-to-ontome-profiles/education-ongoing">https://kleiolab.gitbook.io/geovistory/profiles-of-classes/introduction-to-ontome-profiles/education-ongoing</a></li>
+<li>Forum: <a href="https://kleiolab.atlassian.net/l/c/c51Z2SDd">https://kleiolab.atlassian.net/l/c/c51Z2SDd</a></li>
 </ul>
 <li>Platform on Github.com: <a href="https://github.com/pcp-on-web/pcp-reloaded">https://github.com/pcp-on-web/pcp-reloaded</a></li>
-<li>Vocabulary: <a href="https://pcp-on-web.de/ontology/0.2/index-en.html">https://pcp-on-web.de/ontology/0.2/index-en.html</a></li>
+<li>Vokabulary: <a href="https://pcp-on-web.de/ontology/0.2/index-en.html">https://pcp-on-web.de/ontology/0.2/index-en.html</a></li>
+<li>Mailinglist: <a href="https://www.listserv.dfn.de/sympa/info/pcp-reloaded">https://www.listserv.dfn.de/sympa/info/pcp-reloaded</a></li>
 
 
 </ul>
 </p>
+
+
 
 		</div>
 	</div>
