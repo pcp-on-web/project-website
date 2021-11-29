@@ -1,10 +1,10 @@
 	<div class="row">
 
 		<div class="col-12">
-			<h3>Hackathon (November 2021) und Workshop (01./02.12.2021)</h3>
+			<h3>Hackathon (November 2021) und Workshop (10.12.2021 <b>verschoben!</b>)</h3>
 
 <p>
-Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Ergebnisse im Rahmen eines Workshops am 1. und 2. Dezember präsentiert werden. Ziel des Workshops und Hackathons ist die Anreicherung der im Projekt entstanden Forschungsontology bezüglich weiterer Datenquellen und der Interoperabilität für weiterführende Projekte.
+Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Ergebnisse im Rahmen eines Workshops am 10. Dezember präsentiert werden. Ziel des Workshops und Hackathons ist die Anreicherung der im Projekt entstanden Forschungsontology bezüglich weiterer Datenquellen und der Interoperabilität für weiterführende Projekte.
 </p>
 <p>
 <b>Ziele und Inhalte</b>
@@ -24,6 +24,8 @@ Im Anschluss an die Abschlusstagung führen wir einen Hackathon durch, dessen Er
 <li><b>02.11.2021 - 8h30-9h15</b>: Fragerunde Geovistory (Anmeldung: david.knecht@kleiolab.ch)</li>
 <li><b>02.11.2021 - 14h00-15h00</b>: Koordinationsmeeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
 <li><b>09.11.2021 - 09h30-11h00</b>: Nächstes Meeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
+<li><b>Weitere Termine werden am 30.11. bekannt gegeben </b></li>
+
 </ul>
 
 <p>
