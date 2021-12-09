@@ -19,13 +19,16 @@ After the final conference we will run a hackathon, the results of which will be
 </p>
 
 <p>
-<b>Open meeting announcements </b>
+<b>Workshop agenda for 10.12.2021</b>
 <ul>
-<li><b>02.11.2021 - 8h30-9h15</b>: Geovistory question and answer session  (david.knecht@kleiolab.ch)</li>
-<li><b>02.11.2021 - 14h00-15h00</b>: Hackathon question and answer session  (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
-<li><b>09.11.2021 - 09h30-11h00</b>: Follow up  Meeting (https://bbb.htwk-leipzig.de/b/rie-gud-jch-qne)</li>
-<li><b>Further dates will be announced on 30.11. </b></li>
+<li><b>10.12.2021 - 9:00 - 10:00</b> Presentation of the research ontology with the data
+Helmstedt, Leipzig and Bamberg  (Thomas Riechert)</li>
+<li><b>10.12.2021 - 10:00 - 12:00</b> Workshop Geovistory (David Knecht, Francesco Beretta)</li>
+<li>Mittagspause</li>
+<li><b>10.12.2021 - 13:00 - 14:00</b> Presentation of the process for creating the research ontology, incl. a presentation of the tools  (Thomas Riechert, Edgard Marx)</li>
+<li><b>10.12.2021 - 14:00 - 14:30</b> Hackathon conclusion with arrangements for the import of further data sources (Thomas Riechert)</li>
 </ul>
+</p>
 
 <p>
 <b>Platforms, tools, documents :</b>
@@ -40,6 +43,9 @@ After the final conference we will run a hackathon, the results of which will be
 <li>Forum: <a href="https://kleiolab.atlassian.net/l/c/c51Z2SDd">https://kleiolab.atlassian.net/l/c/c51Z2SDd</a></li>
 </ul>
 <li>Platform on Github.com: <a href="https://github.com/pcp-on-web/pcp-reloaded">https://github.com/pcp-on-web/pcp-reloaded</a></li>
+<li>Access to the research onntology: <a href="https://wb.pcp-on-web.de/queries/">https://wb.pcp-on-web.de/queries/</a></li>
+
+
 <li>Vokabulary: <a href="https://pcp-on-web.de/ontology/0.2/index-en.html">https://pcp-on-web.de/ontology/0.2/index-en.html</a></li>
 <li>Mailinglist: <a href="https://www.listserv.dfn.de/sympa/info/pcp-reloaded">https://www.listserv.dfn.de/sympa/info/pcp-reloaded</a></li>
 

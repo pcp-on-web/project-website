@@ -98,8 +98,7 @@ else {
 							<div class="col-2"><label>Hackathon und Workshop</label></div>
 							<div class="col-10">
 									<input id="participation" type="checkbox" name="Hackathon" value="yes"/>Hackathon 28.10.-02.12.<br/>
-									<input id="participation" type="checkbox" name="Workshop_01" value="yes"/>Mittwoch, 01. Dezember<br/>
-									<input id="participation" type="checkbox" name="Workshop_02" value="yes"/>Donnerstag, 02. Dezember<br/>
+									<input id="participation" type="checkbox" name="Workshop_01" value="yes"/>Freitag, 10. Dezember<br/>
               </div>
 						</div>
 					</div>

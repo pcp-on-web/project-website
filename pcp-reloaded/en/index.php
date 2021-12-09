@@ -89,7 +89,7 @@
 	  	</div>
 	</div>
 
-<a name="goto"/>
+<a name="goto"></a>
 
 <?php include($p.'.php'); ?>
 
