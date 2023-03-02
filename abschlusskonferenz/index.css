@@ -1,0 +1,94 @@
+body {
+	font-family: 'SourceSansPro', sans-serif;
+	color: #555;
+}
+
+h1,h2 {
+	font-family: 'SourceSerifPro', serif;
+	color: #555;
+}
+
+.header {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 0.8rem;
+	color: #555;
+	position: fixed;
+	left:0;
+	top:0;
+	background-color: #FFF;
+	z-index: 500;
+	
+}
+
+
+.headline {
+	position: relative;
+	margin-top: 3rem;
+	}
+
+.space {margin-top: 1rem;}
+
+a {
+	font-family: 'SourceSerifPro', serif;
+	color: #444;
+}
+
+.menu ul > li {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #111;
+	display: inline;
+	margin: 0.5rem 0.5rem 0.5rem -0.5rem;
+	padding: 0.5rem;
+	font-weight: bold;
+}
+
+.menu ul>li>a {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #666;
+	display: inline;
+	font-weight: bold;
+}
+
+.menu ul>li>a:hover {
+	background-color: #ddd;
+}
+
+
+.menu ul>li>a[href=""] {
+	font-family: 'SourceSerifPro', serif;
+	font-size: 1.2rem;
+	color: #ccc;
+	text-decoration: none;
+	cursor: default;
+}
+
+
+.menu ul{
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 1rem 0;
+}
+
+.menu{
+	padding-left: 0;
+}
+
+.menu > div {
+	padding-left: 0!important;
+}
+
+.row div p:first-child {
+	margin-top: 0;
+}
+
+.programm .col-1 {
+	clear: left;
+}
+
+.programm {
+	background-color: #efedef;
+}
+

@@ -6,14 +6,12 @@
             <!-- News Section -->
             <div id="news">
                 <span class="de">Aktuell:
-                  <a href="pcp-reloaded/de/">
-Call for Papers/Call for Data: Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtenge­schichte
-</a>
+                  <a href="/abschlusskonferenz/de/">
+Abschlusskonferenz zum Forschungsprojekt vom 20.-21. März 2023 in Helmstedt</a>
                 </span>
                 <span class="en">News:
-                  <a href="pcp-reloaded/en/">
-Call for Papers/Call for Data: Professorial Career Patterns Reloaded – Data, Methods and Analysis of Digital Humanities Research in the Field of Early Modern Academic History
-</a>
+                  <a href="/abschlusskonferenz/en/">
+Closing Meeting of the Research Project: March 20th-21st, 2023 in Helmstedt</a>
                 </span>
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>
              </div>

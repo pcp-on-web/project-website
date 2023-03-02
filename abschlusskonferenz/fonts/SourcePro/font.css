@@ -1,0 +1,239 @@
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'),
+	url('SourceSansPro-normal-200.woff2') format('woff2'), 
+	url('SourceSansPro-normal-200.woff') format('woff'),
+  url('SourceSansPro-normal-200.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'),
+	url('SourceSansPro-normal-300.woff2') format('woff2'), 
+	url('SourceSansPro-normal-300.woff') format('woff'),
+  url('SourceSansPro-normal-300.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+	url('SourceSansPro-normal-400.woff2') format('woff2'), 
+	url('SourceSansPro-normal-400.woff') format('woff'),
+  url('SourceSansPro-normal-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+	url('SourceSansPro-normal-600.woff2') format('woff2'), 
+	url('SourceSansPro-normal-600.woff') format('woff'),
+  url('SourceSansPro-normal-600.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+	url('SourceSansPro-normal-700.woff2') format('woff2'), 
+	url('SourceSansPro-normal-700.woff') format('woff'),
+  url('SourceSansPro-normal-700.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Source Sans Pro Black'), local('SourceSansPro-Black'),
+	url('SourceSansPro-normal-900.woff2') format('woff2'), 
+	url('SourceSansPro-normal-900.woff') format('woff'),
+  url('SourceSansPro-normal-900.ttf') format('truetype');
+}
+	
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Source Sans Pro ExtraLight Italic'), local('SourceSansPro-ExtraLightItalic'),
+	url('SourceSansPro-italic-200.woff2') format('woff2'), 
+	url('SourceSansPro-italic-200.woff') format('woff'),
+  url('SourceSansPro-italic-200.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightItalic'),
+	url('SourceSansPro-italic-300.woff2') format('woff2'), 
+	url('SourceSansPro-italic-300.woff') format('woff'),
+  url('SourceSansPro-italic-300.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular Italic'), local('SourceSansPro-RegularItalic'),
+	url('SourceSansPro-italic-400.woff2') format('woff2'), 
+	url('SourceSansPro-italic-400.woff') format('woff'),
+  url('SourceSansPro-italic-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold Italic'), local('SourceSansPro-SemiBoldItalic'),
+	url('SourceSansPro-italic-600.woff2') format('woff2'), 
+	url('SourceSansPro-italic-600.woff') format('woff'),
+  url('SourceSansPro-italic-600.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+	url('SourceSansPro-italic-700.woff2') format('woff2'), 
+	url('SourceSansPro-italic-700.woff') format('woff'),
+  url('SourceSansPro-italic-700.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Source Sans Pro Black Italic'), local('SourceSansPro-BlackItalic'),
+	url('SourceSansPro-italic-900.woff2') format('woff2'), 
+	url('SourceSansPro-italic-900.woff') format('woff'),
+  url('SourceSansPro-italic-900.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Source Serif Pro ExtraLight'), local('SourceSerifPro-ExtraLight'),
+	url('SourceSerifPro-normal-200.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-200.woff') format('woff'),
+  url('SourceSerifPro-normal-200.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Serif Pro Light'), local('SourceSerifPro-Light'),
+	url('SourceSerifPro-normal-300.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-300.woff') format('woff'),
+  url('SourceSerifPro-normal-300.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Serif Pro Regular'), local('SourceSerifPro-Regular'),
+	url('SourceSerifPro-normal-400.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-400.woff') format('woff'),
+  url('SourceSerifPro-normal-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Serif Pro SemiBold'), local('SourceSerifPro-SemiBold'),
+	url('SourceSerifPro-normal-600.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-600.woff') format('woff'),
+  url('SourceSerifPro-normal-600.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Serif Pro Bold'), local('SourceSerifPro-Bold'),
+	url('SourceSerifPro-normal-700.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-700.woff') format('woff'),
+  url('SourceSerifPro-normal-700.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Source Serif Pro Black'), local('SourceSerifPro-Black'),
+	url('SourceSerifPro-normal-900.woff2') format('woff2'), 
+	url('SourceSerifPro-normal-900.woff') format('woff'),
+  url('SourceSerifPro-normal-900.ttf') format('truetype');
+}
+	
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Source Serif Pro ExtraLight Italic'), local('SourceSerifPro-ExtraLightItalic'),
+	url('SourceSerifPro-italic-200.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-200.woff') format('woff'),
+  url('SourceSerifPro-italic-200.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Serif Pro Light Italic'), local('SourceSerifPro-LightItalic'),
+	url('SourceSerifPro-italic-300.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-300.woff') format('woff'),
+  url('SourceSerifPro-italic-300.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Serif Pro Regular Italic'), local('SourceSerifPro-RegularItalic'),
+	url('SourceSerifPro-italic-400.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-400.woff') format('woff'),
+  url('SourceSerifPro-italic-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Source Serif Pro SemiBold Italic'), local('SourceSerifPro-SemiBoldItalic'),
+	url('SourceSerifPro-italic-600.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-600.woff') format('woff'),
+  url('SourceSerifPro-italic-600.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Source Serif Pro Bold'), local('SourceSerifPro-Bold'),
+	url('SourceSerifPro-italic-700.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-700.woff') format('woff'),
+  url('SourceSerifPro-italic-700.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSerifPro';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Source Serif Pro Black Italic'), local('SourceSerifPro-BlackItalic'),
+	url('SourceSerifPro-italic-900.woff2') format('woff2'), 
+	url('SourceSerifPro-italic-900.woff') format('woff'),
+  url('SourceSerifPro-italic-900.ttf') format('truetype');
+}
+
+
