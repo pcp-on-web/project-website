@@ -16,7 +16,7 @@ $arrContextOptions=array(
     ),
 );  
 
-$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb"false, stream_context_create($arrContextOptions));
+$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb",false, stream_context_create($arrContextOptions));
 
 
 $pubs = explode('<p class="entry">', $html);
