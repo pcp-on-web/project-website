@@ -6,7 +6,7 @@
     <title>Professorale Karrieremuster Reloaded</title>
   	<link rel="stylesheet" href="../simple-grid.css"/>
   	<link rel="stylesheet" href="../index.css"/>
- 		<link rel="stylesheet" href="../fonts/SourcePro/font.css">
+ 		<link rel="stylesheet" href="../../pcp-reloaded/fonts/SourcePro/font.css">
   </head>
  <body>
 <?php
