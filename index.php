@@ -6,11 +6,11 @@
             <!-- News Section -->
             <div id="news">
                 <span class="de">Aktuell:
-                  <a href="/abschlusskonferenz/de/">
+                  <a href="/project/abschlusskonferenz/de/">
 Abschlusskonferenz zum Forschungsprojekt vom 20.-21. März 2023 in Helmstedt</a>
                 </span>
                 <span class="en">News:
-                  <a href="/abschlusskonferenz/en/">
+                  <a href="/project/abschlusskonferenz/en/">
 Closing Meeting of the Research Project: March 20th-21st, 2023 in Helmstedt</a>
                 </span>
                 <span onclick="jQuery('#news').slideUp()">&#10006;</span>
