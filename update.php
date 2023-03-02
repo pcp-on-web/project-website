@@ -8,7 +8,16 @@ echo exec("git pull");
 
 echo "<br/><b>Publications:</b> <br/>";
 
-$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb");
+
+<?php
+$arrContextOptions=array(
+    "ssl"=>array(
+        "verify_peer"=>false,
+        "verify_peer_name"=>false,
+    ),
+);  
+
+$html = file_get_contents("https://www.bibsonomy.org/publ/user/aksw/pcponweb"false, stream_context_create($arrContextOptions));
 
 
 $pubs = explode('<p class="entry">', $html);
