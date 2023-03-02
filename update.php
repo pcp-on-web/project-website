@@ -9,7 +9,6 @@ echo exec("git pull");
 echo "<br/><b>Publications:</b> <br/>";
 
 
-<?php
 $arrContextOptions=array(
     "ssl"=>array(
         "verify_peer"=>false,
