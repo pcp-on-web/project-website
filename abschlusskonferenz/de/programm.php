@@ -100,7 +100,7 @@
 			10:30-10:45
 		</div>
 		<div class="col-11">
-			<p>Übergang</p>
+			<p>Übergang zum Kreis- und Universitätsmuseum Helmstedt</p>
 		</div>
 	</div>
 	<div class="row programm">
@@ -108,7 +108,7 @@
 			10:45-11:45
 		</div>
 		<div class="col-11">
-			<p>Rundgang durch die Universitätskultur der Universität Helmstedt: historischer Campus und Professorenhäuser (Kreis- und Universitätsmuseum Helmstedt)</p>
+			<p>Universitätskultur der Universität Helmstedt: historischer Campus und Professorenhäuser</p>
 		</div>
 	</div>
 	<div class="row">
