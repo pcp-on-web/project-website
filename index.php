@@ -1,6 +1,4 @@
 <?php
-	$uri = $_SERVER['REQUEST_URI'];
-	if ($uri=='/project/abschlusskonferenz') {header("Location: /project/abschlusskonferenz/");exit;}
 	include("parts/header.php");
 ?> 
 
