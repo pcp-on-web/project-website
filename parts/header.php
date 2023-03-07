@@ -1,7 +1,4 @@
-<?php
-	$uri = $_SERVER['REQUEST_URI'];
-	if ($uri=='/project/abschlusskonferenz') {header("Location: /project/abschlusskonferenz/");exit;}
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <?php include("functions.php"); ?>
 <html lang="de">
 
