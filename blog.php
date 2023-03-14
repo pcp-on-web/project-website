@@ -19,13 +19,35 @@
         </div>
     </header>
 
-
-
     <?php $i=0; ?>
+
+<?php echo section_begin("Abschlusskonferenz zum Forschungsprojekt vom 20.-21. März 2023 in Helmstedt","Closing Meeting of the Research Project: March 20th-21st, 2023 in Helmstedt",$i++,false,"17.01.2023 - Thomas Riechert"); ?> 
+
+				<p>Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsge­schichte“ (2016-2023), durchgeführt von der Herzog August Bibliothek Wolfenbüttel in Kooperation mit der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zur Abschlusskonferenz ein.
+				</p>
+				<p>Leitfrage des Projekts war die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneu­zeitlichen Universitätssystem. Dabei war es das Anliegen zu erproben wie mögliche gelehrte Karrieremuster mit den Methoden der Digital Humanities sichtbar gemacht werden können.
+				</p>
+				<p>Vor diesem Hintergrund wurden prosopographische, universitätsgeschichtliche bzw. gelehrtengeschichtliche Daten den FAIR-Data-Prinzipien gemäß nach Semantic-Web-Standards modelliert und eine Domänenontolo­gie entworfen, welche die Spezifik des Gelehrten Feldes der Frühen Neuzeit im deutschsprachigen Raum re­flektiert und das vorhanden Datenmaterial forschungsspezifisch arrangiert. Die aktuelle Version 0.2 beinhal­tet das Modell mit relevanten Konzepten und deren Relationen.
+				</p>
+				<p>Im Rahmen Abschlusskonferenz am 20. und 21. März 2023 werden sich die Partner und assoziierte Partner im Projekt treffen um die Ergebnisse des Projekte intensiv zu diskutieren. Es sind die Teilnehmer des pandemiebedingt im Oktober 2021 online stattgefundenen Workshops ebenso eingeladen, wie die Projektgruppe von Historikern aus der dem Verbundprojekt "Vernetzte Pfarrerbücher", welche im Rahmen eines Modellierungsworkshops die Projektergebnisse anwenden werden.
+				</p>
+			<p>Die Dokumentation dieser Beiträge erfolgte in Form eines Bandes in der Reihe Beiträge zur Informatik beim Open-Access-Verlag der HTWK Leipzig und wird  präsentiert.</p>
+
+
+<p class="de">Alle relevanten Informationen sind auf der Webseite des Abschlusskonferenz verfügbar. Die Konferenzsprache ist Deutsch.</p>
+
+<p class="en">All relevant information is available on the conference’ website. The conference languages is German. </p>
+
+<p><a href="abschlusskonferenz/?p=programm">Programm</a></p>
+
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
 
 <?php echo section_begin("Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtenge­schichte – 27./28. Oktober 2021, online","Professorial Career Patterns Reloaded – Data, Methods and Analysis of Digital Humanities Research in the Field of Early Modern Academic History - 27th/28 October 2021, online",$i++,false,"01.10.2021 - Thomas Riechert"); ?> 
  
-<p class="de">Am 27. und 28. Oktober 2021 findet Die Abschlusskonferenz des Projektes statt.</p>
+<p class="de">Am 27. und 28. Oktober 2021 findet die Abschlusskonferenz des Projektes statt.</p>
 <p class="en">The final conference of the project will take place on October 27th and 28th, 2021</p>
 
 <p class="de">Leitfrage des Projekts ist die nach den Bedingungen für den beruflichen Erfolg von Professoren im frühneu­zeitlichen Universitätssystem. Dabei ist es das Anliegen zu erproben wie mögliche gelehrte Karrieremuster mit den Methoden der Digital Humanities sichtbar gemacht werden können. In der Forschung diskutierte Karrieremuster mit Zuschreibungen wie Familiendynastie und Nepotismus sollen mithilfe von Semantic-Web-Technologien quasi einen digitalen Reload erleben. </p>
