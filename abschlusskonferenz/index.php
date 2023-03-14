@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professorale Karrieremuster Reloaded</title>
-  	<link rel="stylesheet" href="../simple-grid.css"/>
-  	<link rel="stylesheet" href="../index.css"/>
- 		<link rel="stylesheet" href="../../pcp-reloaded/fonts/SourcePro/font.css">
+  	<link rel="stylesheet" href="simple-grid.css"/>
+  	<link rel="stylesheet" href="index.css"/>
+ 		<link rel="stylesheet" href="../pcp-reloaded/fonts/SourcePro/font.css">
   </head>
  <body>
 <?php
