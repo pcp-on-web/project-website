@@ -107,9 +107,9 @@
 
 		</div>
 		<div class="col-4 hidden-sm logos">
-		  	<img class="col-4" src="../../img/hab.png" alt="HAB" title="Herzog August Bibliothek Wolfenbüttel"/>
-		  	<img class="col-3" src="../../img/htwk.png" alt="HTWK" title="Hochschule für Technik, Wirtschaft und Kultur Leipzig"/>
-		  	<img class="col-6" src="../../img/dfg_logo_foerderung.gif" alt="DFG" title="gefördert durch die DFG"/>
+		  	<img class="col-4" src="../img/hab.png" alt="HAB" title="Herzog August Bibliothek Wolfenbüttel"/>
+		  	<img class="col-3" src="../img/htwk.png" alt="HTWK" title="Hochschule für Technik, Wirtschaft und Kultur Leipzig"/>
+		  	<img class="col-6" src="../img/dfg_logo_foerderung.gif" alt="DFG" title="gefördert durch die DFG"/>
 		</div>
 
 
