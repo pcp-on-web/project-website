@@ -522,6 +522,6 @@ fieldset[disabled] .btn-success.active {
 }
 
 div#news {
-  margin: 0px 10px 10px 10px;
+  margin: 2em 2em 2em 2em;
   color: rgb(44, 62, 80)
 }
