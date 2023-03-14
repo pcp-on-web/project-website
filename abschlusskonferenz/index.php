@@ -36,7 +36,7 @@
 	<div class="row">
 
 
-		<div class="col-8" style="background-image: url('http://uni-helmstedt.hab.de/nav/bg_title_in_progress.gif');background-repeat: no-repeat;background-size:contain;    background-position: right bottom; ">
+		<div class="col-8" style="background-image: url('../img/bg_title_in_progress.gif');background-repeat: no-repeat;background-size:contain;    background-position: right bottom; ">
 
 
 			<div class="row menu">
