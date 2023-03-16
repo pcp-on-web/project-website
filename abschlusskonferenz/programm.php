@@ -67,6 +67,14 @@
 		<div class="col-11">
 			<p>Der Catalogus Professorum Brunsvicensis online – vom gedruckten Katalog zur Datenbank und darüber hinaus (Tanja Wolf)</p>
 		</div>
+		<div class="col-1">
+			18:30-19:00
+		</div>
+		<div class="col-11">
+			<p>Das Corpus Inscriptorum Vitebergense (CIV): Quellen, Daten, Perspektiven (Patrick Schiele)</p>
+		</div>
+	</div>
+	
 	<div class="row">
 		<div class="col-1">
 			ab 19:30
