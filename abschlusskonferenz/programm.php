@@ -31,19 +31,19 @@
 			15:45-16:15
 		</div>
 		<div class="col-11">
-			<p>Professorale Karrieremuster der Frühen Neuzeit im Semantic Web der digitalen Gegenwart (Jennifer Blanke)</p>
+			<p>Professorale Karrieremuster der Frühen Neuzeit im Semantic Web der digitalen Gegenwart (Jennifer Blanke, Hartmut Beyer)</p>
 		</div>
 		<div class="col-1">
 			16:15-16:45
 		</div>
 		<div class="col-11">
-			<p>Forschungsontologie zu Professorale Karrieremuster der Frühen Neuzeit - Datenlebenszyklus und Werkzeuge</p>
+			<p>Forschungsontologie zu Professorale Karrieremuster der Frühen Neuzeit - Datenlebenszyklus und Werkzeuge (Thomas Riechert)</p>
 		</div>
 		<div class="col-1">
 			16:45-17:15
 		</div>
 		<div class="col-11">
-			<p>A CIDOC CRM Extension for Historical Research: Semantic Data for Humanities and Social Sciences (SDHSS). Methodology and Application to the History of Universities (Francesco Beretta)</p>
+			<p>A CIDOC CRM Extension for Historical Research: Semantic Data for Humanities and Social Sciences (SDHSS). Methodology and Application to the History of Universities (Francesco Beretta, online)</p>
 		</div>
 	</div>
 	<div class="row">
@@ -65,15 +65,8 @@
 			18:00-18:30
 		</div>
 		<div class="col-11">
-			<p>Der Catalogus Professorum Brunsvicensis online – vom gedruckten Katalog zur Datenbank und darüber hinaus (Wolf)</p>
+			<p>Der Catalogus Professorum Brunsvicensis online – vom gedruckten Katalog zur Datenbank und darüber hinaus (Tanja Wolf)</p>
 		</div>
-		<div class="col-1">
-			18:30-19:00
-		</div>
-		<div class="col-11">
-			<p>Verteiles und Dezentrales Knowledge-Engineering für Forschungsontologien in Verbundprojekten (Natanael Arndt)</p>
-		</div>
-	</div>		
 	<div class="row">
 		<div class="col-1">
 			ab 19:30
@@ -116,7 +109,7 @@
 			12:00
 		</div>
 		<div class="col-11">
-			<p>Verabschiedung beim Mittagessen im Ratskeller</p>
+			<p>Verabschiedung beim Mittagessen im Ratskeller Helmstedt</p>
 		</div>
 	</div>
 

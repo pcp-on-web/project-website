@@ -77,6 +77,7 @@
 					Collegienplatz 1<br/>
 					Juleum<br/>
 					38350 Helmstedt 
+					<p><a target="_blank" href="https://umap.openstreetmap.fr/de/map/pcp-on-web-abschlusskonferenz-in-helmstedt_885272"><img width="40%" alt="Karte" title="Karte" src="karte.png"/></a>
 				</div>
 			</div>
 			<div class="row">
@@ -93,7 +94,7 @@
 					Termin
 				</div>
 				  <div class="col-9">
-					Abschlusskonferenz: 		20.–21.03.2023<br/>
+					Abschlusskonferenz: 20.–21.03.2023<br/>
 					<a href="./?p=anmeldung#goto">hier zur Konferenz anmelden</a>
 						
 				</div>
