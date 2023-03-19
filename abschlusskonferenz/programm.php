@@ -12,7 +12,7 @@
 		</div>
 
 		<div class="col-1">
-			13:15-15:15
+			13:15-15:15<br/><a href="2_WorkshopPfarrerbuecher.pdf">Folien</a>
 		</div>
 		<div class="col-11">
 			<p>Modellierungsworkshop „Vernetzte Pfarrerbücher“ – Verknüpfung einer Ontologie für Pfarrerbücher mit dem Projekt PCP-on-Web (Moderation: Thomas Riechert)</p>
