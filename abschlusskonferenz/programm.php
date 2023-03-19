@@ -40,7 +40,8 @@
 			<p>Forschungsontologie zu Professorale Karrieremuster der Frühen Neuzeit - Datenlebenszyklus und Werkzeuge (Thomas Riechert)</p>
 		</div>
 		<div class="col-1">
-			16:45-17:15
+			16:45-17:15<br/><a href="https://bbb.htwk-leipzig.de/b/rie-zkz-hke-gr9">Online-Raum</a>
+			
 		</div>
 		<div class="col-11">
 			<p>A CIDOC CRM Extension for Historical Research: Semantic Data for Humanities and Social Sciences (SDHSS). Methodology and Application to the History of Universities (Francesco Beretta, online)</p>
