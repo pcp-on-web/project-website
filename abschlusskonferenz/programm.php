@@ -5,10 +5,10 @@
 	</div>
 	<div class="row programm">
 		<div class="col-1">
-			13:00-13:15
+			13:00-13:15<br/><a href="pcp-abschluss-programm.pdf">Folien</a>
 		</div>
 		<div class="col-11">
-			<p><b>Begrüßung</b> <a href="pcp-abschluss-programm.pdf">Folien</a></p>
+			<p><b>Begrüßung</b></p>
 		</div>
 
 		<div class="col-1">
