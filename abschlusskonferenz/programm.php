@@ -8,14 +8,14 @@
 			13:00-13:15
 		</div>
 		<div class="col-11">
-			<p><b>Begrüßung</b></p>
+			<p><b>Begrüßung</b> <a href="pcp-abschluss-programm.pdf">Folien</a></p>
 		</div>
 
 		<div class="col-1">
 			13:15-15:15
 		</div>
 		<div class="col-11">
-			<p>Modellierungsworkshop „Pfarrerbücher“ – Verknüpfung einer Ontologie für Pfarrerbücher mit dem Projekt PCP-on-Web</p>
+			<p>Modellierungsworkshop „Vernetzte Pfarrerbücher“ – Verknüpfung einer Ontologie für Pfarrerbücher mit dem Projekt PCP-on-Web (Moderation: Thomas Riechert)</p>
 		</div>
 	</div>
 	<div class="row">
@@ -77,10 +77,10 @@
 	
 	<div class="row">
 		<div class="col-1">
-			ab 19:30
+			19:30-21:00
 		</div>
 		<div class="col-11">
-			<p>Abschlussdiskussion beim Abendessen im Ratskeller Helmstedt</p>
+			<p>Abschlussdiskussion</p>
 		</div>		
 	</div>
 		<div class="row">
@@ -109,15 +109,15 @@
 			10:45-11:45
 		</div>
 		<div class="col-11">
-			<p>Universitätskultur der Universität Helmstedt: historischer Campus und Professorenhäuser</p>
+			<p>Universitätskultur der Universität Helmstedt: historischer Campus und Professorenhäuser (Wolfgang Pschichholz)</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-1">
-			12:00
+			12:00-13:30
 		</div>
 		<div class="col-11">
-			<p>Verabschiedung beim Mittagessen im Ratskeller Helmstedt</p>
+			<p>Verabschiedung</p>
 		</div>
 	</div>
 
