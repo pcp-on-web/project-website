@@ -5,7 +5,7 @@
 	</div>
 	<div class="row programm">
 		<div class="col-1">
-			13:00-13:15<br/><a href="pcp-abschluss-programm.pdf">Folien</a>
+			13:00-13:15<br/><a href="1_Begruessung.pdf">Folien</a>
 		</div>
 		<div class="col-11">
 			<p><b>Begrüßung</b></p>
@@ -80,7 +80,7 @@
 			19:30-21:00
 		</div>
 		<div class="col-11">
-			<p>Abschlussdiskussion</p>
+			<p>Abschlussdiskussion (Moderation: Hartmut Beyer)</p>
 		</div>		
 	</div>
 		<div class="row">
@@ -93,7 +93,7 @@
 			09:00-10:30
 		</div>
 		<div class="col-11">
-			<p>Roundtable - Abschlussgespräch: Perspektiven und Herausforderungen der Semantic Web Technologien für die geisteswissenschaftliche Forschung</p>
+			<p>Roundtable - Abschlussgespräch: Perspektiven und Herausforderungen der Semantic Web Technologien für die geisteswissenschaftliche Forschung (Moderation: Thomas Riechert, Hartmut Beyer)</p>
 		</div>
 	</div>
 	<div class="row">
@@ -117,7 +117,7 @@
 			12:00-13:30
 		</div>
 		<div class="col-11">
-			<p>Verabschiedung</p>
+			<p>Verabschiedung (Hartmut Beyer, THomas Riechert)</p>
 		</div>
 	</div>
 
