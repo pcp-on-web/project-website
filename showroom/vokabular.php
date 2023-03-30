@@ -6,6 +6,9 @@
 			<div class="text">
 			</div>
 
+			<button id="full" onclick="clickFull();">Vollbild</button>
+			<button id="close" class="hidden" onclick="clickClose();">&#10006;</button>
+
 			<iframe src='https://pcp-on-web.de/ontology/0.2/index-de.html' width="100%" height="1000px"></iframe>
 
 				

@@ -1,18 +1,21 @@
 	<div class="row">
 
 		<div class="col-12">
-			<h3>Projektergebnisse</h3>
+			<h3>Überblick über den Demonstrator</h3>
 
 			<div class="text">
 				<p>Die folgenden Seiten demonstrieren einen Teil der Projektergebnisse im Rahmen des DFG-Projektes „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsge­schichte“ (2016-2023).
 				</p>
-				<p>Wir möchten Sie mit diesem Demonstrator dazu einladen, die entstandene Forschungsontologie zu erkunden. Dafür stellen wir Ihnen 3 Werkzeuge zur Verfügung.
+				<p>Wir möchten Sie mit diesem Demonstrator dazu einladen, die entstandene Forschungsontologie zu erkunden, und stellen drei ausgewählte Werkzeuge zur Verfügung.
 				</p>
-				<p>Der <b>OntoExplorer</b> wurde entwickelt um generisch RDF-Wissensdatenbanken, welche per SPARQL-Endpunkt im Netz verfügbar sind, zu erbrowsen. Das Werkzeug ist Open Source und basiert auf dem JavaScript-Framework React. 
+				<p>Der <b><a href="./?p=forschungsontologie">OntoExplorer</a></b> wurde im Rahmen des entwickelt um generisch RDF-Wissensdatenbanken, welche per 
+				SPARQL-Endpunkt im Netz verfügbar sind, zu erbrowsen. Das Werkzeug ist Open Source und basiert auf dem
+				JavaScript-Framework React. Im Demonstrator sind bereits zwei SPARQL-Endpunkte voreingestellt.
+				Sie können die reinen Daten durchsuchen, und auch inferrierte Fakten zum vereinfachten Browsen hinzunehmen.    
 				</p>
-				<p>Das <b>Vokabular</b> zur Beschreibung der Forschungsdaten ist eine einer Dokumentation verfügbar.
+				<p>Durch das <b><a href="./?p=vokabular">Vokabular</a></b> wird die Semantic der Forschungsontologie beschrieben. Hierzu wurden Klassen und deren Eigenschaften definiert und mit Hilfe des Werkzeugs LODE (Live OWL Documentation Environment) publiziert.  
 				</p>
-			<p>Neben dem einfachen Browsen der Daten, können per Abfragesprache SPARQL auch <b>komplexe Anfragen</b> an die Forschungsontologie gestellt werden. 
+			<p>Die in der Forschungsontologie aggregierten Daten aus den drei Professorenkatalogen Helmstedt, Bamberg und Leipzig, sowie der Kenntnis des Vokabulars, werden die Historiker befähigt per Abfragesprache SPARQL auch <b><a href="./?p=anfragen">Komplexe Anfragen</a></b> an die Forschungsontologie zu stellen. 
 			</p>
 					
 

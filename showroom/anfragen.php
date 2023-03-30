@@ -6,6 +6,9 @@
 			<div class="text">
 			</div>
 
+			<button id="full" onclick="clickFull();">Vollbild</button>
+			<button id="close" class="hidden" onclick="clickClose();">&#10006;</button>
+			
 			<iframe src='https://wb.pcp-on-web.de/queries/' width="100%" height="1000px"></iframe>
 
 				

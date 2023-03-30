@@ -83,6 +83,17 @@
 <a name="goto"></a>
 <?php include($p.'.php'); ?>
 
+<script>
+	function clickFull() {
+		document.getElementsByTagName('iframe')[0].setAttribute('class','full');
+		document.getElementById('close').setAttribute('class','');
+	}
+	function clickClose() {
+		document.getElementsByTagName('iframe')[0].setAttribute('class','hidden');
+		document.getElementById('close').setAttribute('class','hidden');
+	}
+</script>
+
 
   </body>
 </html
