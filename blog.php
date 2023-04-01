@@ -21,6 +21,23 @@
 
     <?php $i=0; ?>
 
+
+<?php echo section_begin("Digitale Archive durchforsten","Search digital archives",$i++,false,"31.03.2023 - HTWK (Katrin Haase)"); ?> 
+
+				<p class="de">
+				Unter dieser Überschrift erschien zum Projektabschluss der folgende Artikel auf der Webseite der HTWK Leipzig.
+				</p>
+				<p class="en">
+				The following article was published on the website of the HTWK Leipzig at the end of the project.
+				</p>
+<p><a href="https://www.htwk-leipzig.de/hochschule/aktuelles/newsdetail/artikel/5521">Digitale Archive durchforsten</a></p>
+
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+
+
 <?php echo section_begin("Demonstrator der Projektergebnisse","Showroom for project results",$i++,false,"20.03.2023 - Thomas Riechert"); ?> 
 
 				<p class="de">
