@@ -21,7 +21,7 @@
 
     <?php $i=0; ?>
 
-<?php echo section_begin("Demonstrator der Projektergebnisse","Showroom for project results",$i++,false,"20.01.2023 - Thomas Riechert"); ?> 
+<?php echo section_begin("Demonstrator der Projektergebnisse","Showroom for project results",$i++,false,"20.03.2023 - Thomas Riechert"); ?> 
 
 				<p class="de">
 				Unter folgender Adresse <a href="showroom">https://pcp-on-web.htwk-leipzig.de/showroom</a> demonstrieren wir einen  Teil der Projektergebnisse. Wir möchten Sie mit diesem Demonstrator dazu einladen, die entstandene Forschungsontologie zu erkunden, und stellen drei ausgewählte Werkzeuge zur Verfügung.
