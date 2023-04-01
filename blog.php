@@ -21,6 +21,39 @@
 
     <?php $i=0; ?>
 
+<?php echo section_begin("Demonstrator der Projektergebnisse","Showroom for project results",$i++,false,"20.01.2023 - Thomas Riechert"); ?> 
+
+				<p class="de">
+				Unter folgender Adresse <a href="showroom">https://pcp-on-web.htwk-leipzig.de/showroom</a> demonstrieren wir einen  Teil der Projektergebnisse. Wir möchten Sie mit diesem Demonstrator dazu einladen, die entstandene Forschungsontologie zu erkunden, und stellen drei ausgewählte Werkzeuge zur Verfügung.
+				</p>
+				<p class="en">
+				At the following address <a href="showroom">https://pcp-on-web.htwk-leipzig.de/showroom</a> we demonstrate partly the project results. With this demonstrator, we would like to invite you to explore the research ontology that has been developed and we would like to present three selected tools.
+				</p>
+				<p class="de">
+Der OntoExplorer wurde im Rahmen des entwickelt um generisch RDF-Wissensdatenbanken, welche per SPARQL-Endpunkt im Netz verfügbar sind, zu erbrowsen. Das Werkzeug ist Open Source und basiert auf dem JavaScript-Framework React. Im Demonstrator sind bereits zwei SPARQL-Endpunkte voreingestellt. Sie können die reinen Daten durchsuchen, und auch inferrierte Fakten zum vereinfachten Browsen hinzunehmen.
+				</p>
+				<p class="en">
+OntoExplorer has been developed as part of the project to generically browse RDF knowledge bases that are available on the web via SPARQL endpoints. The tool is open source and based on the JavaScript framework React. Two SPARQL endpoints are already preconfigured in the demonstrator. You can browse the raw data and also add inferred facts for easier browsing.
+				</p>
+				<p class="de">
+Durch das Vokabular wird die Semantic der Forschungsontologie beschrieben. Hierzu wurden Klassen und deren Eigenschaften definiert und mit Hilfe des Werkzeugs LODE (Live OWL Documentation Environment) publiziert.
+				</p>
+				<p class="en">
+The vocabulary describes the semantic of the research ontology. For this purpose, classes and their properties have been defined and published with the help of the tool LODE (Live OWL Documentation Environment).
+				</p>
+				<p class="de">
+Die in der Forschungsontologie aggregierten Daten aus den drei Professorenkatalogen Helmstedt, Bamberg und Leipzig, sowie der Kenntnis des Vokabulars, werden die Historiker befähigt per Abfragesprache SPARQL auch Komplexe Anfragen an die Forschungsontologie zu stellen.
+				</p>
+				<p class="en">
+The data aggregated in the research ontology taken from the three professors' catalogues of Helmstedt, Bamberg and Leipzig, as well as the vocabulary knowledge, will enable historians to make complex queries to the research ontology using the query language SPARQL.
+				</p>
+<p><a href="showroom">Demonstrator</a></p>
+
+
+<br class="blogline"/>
+<?php echo section_end(); ?> 
+
+
 <?php echo section_begin("Abschlusskonferenz zum Forschungsprojekt vom 20.-21. März 2023 in Helmstedt","Closing Meeting of the Research Project: March 20th-21st, 2023 in Helmstedt",$i++,false,"17.01.2023 - Thomas Riechert"); ?> 
 
 				<p>Das DFG-Projekt „Professorale Karrieremuster der Frühen Neuzeit: Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdatenbanken der Universitätsge­schichte“ (2016-2023), durchgeführt von der Herzog August Bibliothek Wolfenbüttel in Kooperation mit der Hochschule für Technik, Wirtschaft und Kultur in Leipzig, lädt zur Abschlusskonferenz ein.
