@@ -5,7 +5,7 @@
 
 <p>
 Hochschule für Technik, Wirtschaft und Kultur (HTWK)<br/>
-Fakultät für Infromatik und Medien<<br/>
+Fakultät für Informatik und Medien<<br/>
 Prof. Dr. Thomas Riechert<br/>
 Gustav-Freytag-Str. 42a<br/>
 04277 Leipzig, Germany<br/>
